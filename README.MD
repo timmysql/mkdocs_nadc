@@ -6,6 +6,9 @@
 4. Activate virtual environment
 5. install requirements.txt   
 6. Run \database\database_setup.py
+7. Run database_daily_process.py (Downloads files and loads them to database)
+8. markdown_refresh_main.py
+9. mkdocs serve (to run site locally)
 
 #### Install VirtualEnv
 1. python -m pip install --upgrade pip
@@ -19,11 +22,8 @@
 1. venv\Scripts\Activate
 2. python -m venv\Scripts\Activate ???
 
-#### Create requirements.txt
-1. pip freeze > requirements.txt
-
 #### Install requirements.txt
-1.  pip install requirements.txt
+1.  pip install -r requirements.txt
 
 
 ## Configure database stuff...
@@ -39,19 +39,3 @@
     password = osint            <--- pw for the user
 
     ```
-
-3. Configure database/DbConfig.py
-    ```
-    class DbConfig:
-        def __init__(self):
-            self.current_dir = os.getcwd()
-            self.config_ini = 'db_config.ini'     <--- THE NAME OF YOUR CONFIG INI FILE
-            self.section = 'localhost_section'    <--- THE SECTION IN YOUR db_config.ini you want to point to (e.g. [localhost_section]).
-    ```        
-
-4. Let's load this thing.
-   Option 1
-    - run setup.py
-    - run daily_process.py
-   Option 2
-    - run rebuild_everything.py
