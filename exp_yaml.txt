@@ -1,0 +1,1101 @@
+        - "180 BURKE, LLC": expenditures/filers/180_burke_llc.md
+        - "180 MAPLE LLC": expenditures/filers/180_maple_llc.md
+        - "192 MAPLE LLC": expenditures/filers/192_maple_llc.md
+        - "247 RANCH LLC": expenditures/filers/247_ranch_llc.md
+        - "96 RANCHES INC": expenditures/filers/96_ranches_inc.md
+        - "A CATERED AFFAIR": expenditures/filers/a_catered_affair.md
+        - "A GLENN KLUCK CO": expenditures/filers/a_glenn_kluck_co.md
+        - "A MEIER INC": expenditures/filers/a_meier_inc.md
+        - "ABBOUD LAW FIRM": expenditures/filers/abboud_law_firm.md
+        - "ABRAHAM CATERFING SERVICE": expenditures/filers/abraham_caterfing_service.md
+        - "ACCEL ENTERTAINMENT INC.": expenditures/filers/accel_entertainment_inc.md
+        - "ACCELERATED GRAPHX LLC": expenditures/filers/accelerated_graphx_llc.md
+        - "ACI AGENCY INC": expenditures/filers/aci_agency_inc.md
+        - "ACLU NEBRASKA": expenditures/filers/aclu_nebraska.md
+        - "ADAM MORFELD FOR COUNTY ATTORNEY": expenditures/filers/adam_morfeld_for_county_attorney.md
+        - "ADAMS AND SULLIVAN PC LLO": expenditures/filers/adams_and_sullivan_pc_llo.md
+        - "ADAMS LAND & CATTLE LLC": expenditures/filers/adams_land_&_cattle_llc.md
+        - "ADBANC INC": expenditures/filers/adbanc_inc.md
+        - "ADVANCED GAMING TECHNOLOGIES": expenditures/filers/advanced_gaming_technologies.md
+        - "ADVENTURE ENTERPRISES LLC DBA ADVENTURE BUS & CHARTER": expenditures/filers/adventure_enterprises_llc_dba_adventure_bus_&_charter.md
+        - "AFRICAN AMERICAN CORRECTIONAL OFFICERS ASSOCIATION": expenditures/filers/african_american_correctional_officers_association.md
+        - "AG PRIDE INC": expenditures/filers/ag_pride_inc.md
+        - "AG PROCESSING INC": expenditures/filers/ag_processing_inc.md
+        - "AGARWAL FOR EDUCATION": expenditures/filers/agarwal_for_education.md
+        - "AGC HIGHWAY IMPROVEMENT PAC": expenditures/filers/agc_highway_improvement_pac.md
+        - "AGMED LLC": expenditures/filers/agmed_llc.md
+        - "AJK FEEDLOT LLC": expenditures/filers/ajk_feedlot_llc.md
+        - "AKRS EQUIPMENT SOLUTIONS": expenditures/filers/akrs_equipment_solutions.md
+        - "ALAINA VERPLANK FOR HALL COUNTY TREASURER": expenditures/filers/alaina_verplank_for_hall_county_treasurer.md
+        - "ALFF CONSTRUCTION LLC": expenditures/filers/alff_construction_llc.md
+        - "ALFRED BENESCH & COMPANY": expenditures/filers/alfred_benesch_&_company.md
+        - "ALTRIA CLIENT SERVICES LLC": expenditures/filers/altria_client_services_llc.md
+        - "AMERICA'S FAMILIES PAC": expenditures/filers/americas_families_pac.md
+        - "AMERICAN COMMUNICATIONS GROUP": expenditures/filers/american_communications_group.md
+        - "AMERICAN COUNCIL OF ENGINEERING COMPANIES NEBRASKA PAC (ACEC PAC)": expenditures/filers/american_council_of_engineering_companies_nebraska_pac_acec_pac.md
+        - "AMERICAN ENERGY ACTION FUND (C00760082)": expenditures/filers/american_energy_action_fund_c00760082.md
+        - "AMERICAN EXCEPTIONALISM INSTITUTE": expenditures/filers/american_exceptionalism_institute.md
+        - "AMERICAN FAMILY LIFE ASSURANCE COMPANY OF COLUMBUS": expenditures/filers/american_family_life_assurance_company_of_columbus.md
+        - "AMERICAN FEDERATION FOR CHILDREN ACTION FUND": expenditures/filers/american_federation_for_children_action_fund.md
+        - "AMERICAN FEDERATION OF STATE COUNTY AND MUNICIPAL EMPLOYEES": expenditures/filers/american_federation_of_state_county_and_municipal_employees.md
+        - "AMERICAN INSTITUTE OF ARCHITECTS, NEBRASKA CHAPTER": expenditures/filers/american_institute_of_architects_nebraska_chapter.md
+        - "AMERICANS FOR PROSPERITY": expenditures/filers/americans_for_prosperity.md
+        - "AMERITAS LIFE INSURANCE CORP": expenditures/filers/ameritas_life_insurance_corp.md
+        - "AMORAK INC": expenditures/filers/amorak_inc.md
+        - "AMP ENTERPRISES, LLC": expenditures/filers/amp_enterprises_llc.md
+        - "ANHEUSER BUSCH COMPANIES": expenditures/filers/anheuser_busch_companies.md
+        - "ANN UNDERWOOD FOR CITY COUNCIL": expenditures/filers/ann_underwood_for_city_council.md
+        - "ANNA WISHART FOR LEGISLATURE": expenditures/filers/anna_wishart_for_legislature.md
+        - "ANTHEM, INC.": expenditures/filers/anthem_inc.md
+        - "ANTLER VIEW APARTMENTS, LLC": expenditures/filers/antler_view_apartments_llc.md
+        - "APPLIED UNDERWRITERS, INC": expenditures/filers/applied_underwriters_inc.md
+        - "ARCHER DANIELS MIDLAND COMPANY": expenditures/filers/archer_daniels_midland_company.md
+        - "ARRAM EQUITIES INC": expenditures/filers/arram_equities_inc.md
+        - "ASH GROVE CEMENT COMPANY": expenditures/filers/ash_grove_cement_company.md
+        - "ASSOCIATED BEVERAGE DISTRIBUTORS OF NEBRASKA - BPAC": expenditures/filers/associated_beverage_distributors_of_nebraska__bpac.md
+        - "ASSOCIATED BUILDERS & CONTRACTORS (ABC PAC)": expenditures/filers/associated_builders_&_contractors_abc_pac.md
+        - "ASSOCIATED BUILDERS & CONTRACTORS INC.": expenditures/filers/associated_builders_&_contractors_inc.md
+        - "ASSOCIATED WHOLESALE GROCERS INC": expenditures/filers/associated_wholesale_grocers_inc.md
+        - "ASTELLAS PHARMA US, INC.": expenditures/filers/astellas_pharma_us_inc.md
+        - "AT & T SERVICES, INC.": expenditures/filers/at_&_t_services_inc.md
+        - "AURORA COOPERATIVE": expenditures/filers/aurora_cooperative.md
+        - "B-5 FARMS": expenditures/filers/b5_farms.md
+        - "B & B GARAGE": expenditures/filers/b_&_b_garage.md
+        - "B&J ENTERPRISES INC": expenditures/filers/b&j_enterprises_inc.md
+        - "B&R STORES INC": expenditures/filers/b&r_stores_inc.md
+        - "BABA BUDHA JI HOSPITALITY DBA COMFORT INN HOTEL": expenditures/filers/baba_budha_ji_hospitality_dba_comfort_inn_hotel.md
+        - "BAC PAC": expenditures/filers/bac_pac.md
+        - "BAIRD HOLM LLP": expenditures/filers/baird_holm_llp.md
+        - "BALLOT INITIATIVE STRATEGY CENTER": expenditures/filers/ballot_initiative_strategy_center.md
+        - "BAMFORD INC": expenditures/filers/bamford_inc.md
+        - "BANK OF LINDSAY": expenditures/filers/bank_of_lindsay.md
+        - "BARBARA BAIER FOR SCHOOL BOARD": expenditures/filers/barbara_baier_for_school_board.md
+        - "BARBARA SJULIN TPS TRUST": expenditures/filers/barbara_sjulin_tps_trust.md
+        - "BARBARA WEITZ FOR REGENT": expenditures/filers/barbara_weitz_for_regent.md
+        - "BARREL AND VINE": expenditures/filers/barrel_and_vine.md
+        - "BATACAP ENTERPRISES": expenditures/filers/batacap_enterprises.md
+        - "BAYLOR ENTERPRISES DBA ON TO COLLEGE": expenditures/filers/baylor_enterprises_dba_on_to_college.md
+        - "BDN FARM ENTERPRISES PREFERRED LLC": expenditures/filers/bdn_farm_enterprises_preferred_llc.md
+        - "BEARDMORE CHEVROLET INC": expenditures/filers/beardmore_chevrolet_inc.md
+        - "BECKENHAUER CONSTRUCTION INC": expenditures/filers/beckenhauer_construction_inc.md
+        - "BECKY BORYCA FOR CLERK OF DISTRICT COURT": expenditures/filers/becky_boryca_for_clerk_of_district_court.md
+        - "BELLEVUE FIRE INTERNATIONAL ASSOCIATION OF FIREFIGHTERS LOCAL 4906": expenditures/filers/bellevue_fire_international_association_of_firefighters_local_4906.md
+        - "BELLINO ENTERPRISES LTD": expenditures/filers/bellino_enterprises_ltd.md
+        - "BELLINO FIREWORKS INC": expenditures/filers/bellino_fireworks_inc.md
+        - "BEN CASS FOR CITY COUNCIL": expenditures/filers/ben_cass_for_city_council.md
+        - "BEN GRAY FOR CITY COUNCIL": expenditures/filers/ben_gray_for_city_council.md
+        - "BEN HANSEN FOR LEGISLATURE": expenditures/filers/ben_hansen_for_legislature.md
+        - "BEN TEMPLE FOR NPPD": expenditures/filers/ben_temple_for_nppd.md
+        - "BEN TUPPER - BHTDC, INC": expenditures/filers/ben_tupper__bhtdc_inc.md
+        - "BENNIE SHOBE FOR LINCOLN CITY COUNCIL": expenditures/filers/bennie_shobe_for_lincoln_city_council.md
+        - "BENNINGTON PUBLIC SCHOOLS FOUNDATION": expenditures/filers/bennington_public_schools_foundation.md
+        - "BESAME WELLNESS": expenditures/filers/besame_wellness.md
+        - "BEST WESTERN PLUS": expenditures/filers/best_western_plus.md
+        - "BIGZBYS INC": expenditures/filers/bigzbys_inc.md
+        - "BILL HOYT": expenditures/filers/bill_hoyt.md
+        - "BIO NEBRASKA": expenditures/filers/bio_nebraska.md
+        - "BISHOP & JONES LAW OFFICE": expenditures/filers/bishop_&_jones_law_office.md
+        - "BISON INC": expenditures/filers/bison_inc.md
+        - "BJ STENGER SALES LLC DBA THE CEDAR ROOM": expenditures/filers/bj_stenger_sales_llc_dba_the_cedar_room.md
+        - "BLACK HILLS ENERGY": expenditures/filers/black_hills_energy.md
+        - "BLUE CROSS BLUE SHIELD OF NEBRASKA": expenditures/filers/blue_cross_blue_shield_of_nebraska.md
+        - "BNSF RAILWAY COMPANY": expenditures/filers/bnsf_railway_company.md
+        - "BOB EVNEN FOR NEBRASKA": expenditures/filers/bob_evnen_for_nebraska.md
+        - "BOLD ALLIANCE INC": expenditures/filers/bold_alliance_inc.md
+        - "BORGESON FOR LEGISLATURE": expenditures/filers/borgeson_for_legislature.md
+        - "BOSSELMAN ENERGY INC": expenditures/filers/bosselman_energy_inc.md
+        - "BOSTELMAN FOR LEGISLATURE": expenditures/filers/bostelman_for_legislature.md
+        - "BOSWORTH 4 LEGISLATURE": expenditures/filers/bosworth_4_legislature.md
+        - "BOWERS FOR NEBRASKA": expenditures/filers/bowers_for_nebraska.md
+        - "BOYD JONES CONSTRUCTION CO": expenditures/filers/boyd_jones_construction_co.md
+        - "BRANDON KELLIHER FOR NORTH PLATTE MAYOR": expenditures/filers/brandon_kelliher_for_north_platte_mayor.md
+        - "BRANDT FOR LEGISLATURE": expenditures/filers/brandt_for_legislature.md
+        - "BREHM ENTERPRISES": expenditures/filers/brehm_enterprises.md
+        - "BRENDA BICKFORD FOR LEGISLATURE": expenditures/filers/brenda_bickford_for_legislature.md
+        - "BRENTWOOD I LLC": expenditures/filers/brentwood_i_llc.md
+        - "BRIAN HESSLER FOR SHERIFF": expenditures/filers/brian_hessler_for_sheriff.md
+        - "BRIDGEPOINT HOLDINGS NE LLC": expenditures/filers/bridgepoint_holdings_ne_llc.md
+        - "BRIESE FOR LEGISLATURE": expenditures/filers/briese_for_legislature.md
+        - "BRUNING LAW GROUP": expenditures/filers/bruning_law_group.md
+        - "BUFFALO COUNTY REPUBLICAN PARTY": expenditures/filers/buffalo_county_republican_party.md
+        - "BURKE HARR FOR LEGISLATURE": expenditures/filers/burke_harr_for_legislature.md
+        - "BURLINGTON CAPITAL, LLC": expenditures/filers/burlington_capital_llc.md
+        - "BUSINESS & AGRICULTURE SOCIETY FOR EDUCATION": expenditures/filers/business_&_agriculture_society_for_education.md
+        - "BWWS LLC": expenditures/filers/bwws_llc.md
+        - "C2 CONSTRUCTION INC": expenditures/filers/c2_construction_inc.md
+        - "CAESARS ENTERPRISE SERVICES LLC": expenditures/filers/caesars_enterprise_services_llc.md
+        - "CAMERON HALL FOR NEBRASKA": expenditures/filers/cameron_hall_for_nebraska.md
+        - "CAMMY FOR NEBRASKA DBA CAMMY FOR COUNCIL": expenditures/filers/cammy_for_nebraska_dba_cammy_for_council.md
+        - "CAMPAIGN FOR A HEALTHY NEBRASKA": expenditures/filers/campaign_for_a_healthy_nebraska.md
+        - "CAMPAIGN FOR AISHA CARR FOR CHERRY COUNTY ATTORNEY": expenditures/filers/campaign_for_aisha_carr_for_cherry_county_attorney.md
+        - "CAMPAIGN FOR THE GOOD LIFE": expenditures/filers/campaign_for_the_good_life.md
+        - "CAMPBELL FOR LINCOLN": expenditures/filers/campbell_for_lincoln.md
+        - "CAPITAL ONE SERVICES, LLC": expenditures/filers/capital_one_services_llc.md
+        - "CARDENAS FOR CLERK OF THE DISTRICT COURT": expenditures/filers/cardenas_for_clerk_of_the_district_court.md
+        - "CARE PAC": expenditures/filers/care_pac.md
+        - "CARICO FARMS INC": expenditures/filers/carico_farms_inc.md
+        - "CARLSON FINANCIAL GROUP INC": expenditures/filers/carlson_financial_group_inc.md
+        - "CARLSON KENNEDY CONSTRUCTION": expenditures/filers/carlson_kennedy_construction.md
+        - "CASH-WA DISTRIBUTING CO OF KEARNEY INC": expenditures/filers/cashwa_distributing_co_of_kearney_inc.md
+        - "CASS COUNTY REPUBLICAN CENTRAL COMMITTEE": expenditures/filers/cass_county_republican_central_committee.md
+        - "CASSLING DIAGNOSTIC IMAGING, INC. D/B/A CQUENCE HEALTH GROUP": expenditures/filers/cassling_diagnostic_imaging_inc_dba_cquence_health_group.md
+        - "CATALYST PUBLIC AFFAIRS": expenditures/filers/catalyst_public_affairs.md
+        - "CAVANAUGH FOR NEBRASKA": expenditures/filers/cavanaugh_for_nebraska.md
+        - "CAVANAUGH LAW FIRM": expenditures/filers/cavanaugh_law_firm.md
+        - "CBD REMEDIES, LLC": expenditures/filers/cbd_remedies_llc.md
+        - "CENTENE CORPORATION": expenditures/filers/centene_corporation.md
+        - "CENTER FOR RURAL AFFAIRS": expenditures/filers/center_for_rural_affairs.md
+        - "CERBERUS STRATEGIES LLC": expenditures/filers/cerberus_strategies_llc.md
+        - "CERTIFIED FLEET SERVICE INC": expenditures/filers/certified_fleet_service_inc.md
+        - "CHAPERONE OF GRAND ISLAND": expenditures/filers/chaperone_of_grand_island.md
+        - "CHARLESTON HOMES LLC": expenditures/filers/charleston_homes_llc.md
+        - "CHARTER COMMUNICATIONS INC": expenditures/filers/charter_communications_inc.md
+        - "CHARTER TITLE & ESCROW": expenditures/filers/charter_title_&_escrow.md
+        - "CHICAGO CUBS BASEBALL CLUB LLC": expenditures/filers/chicago_cubs_baseball_club_llc.md
+        - "CHIEF INDUSTRIES, INC.": expenditures/filers/chief_industries_inc.md
+        - "CHILDREN'S PAC": expenditures/filers/childrens_pac.md
+        - "CHIROPRACTORS OF NEBRASKA PAC": expenditures/filers/chiropractors_of_nebraska_pac.md
+        - "CHRIS BRUNS FOR LEGISLATURE": expenditures/filers/chris_bruns_for_legislature.md
+        - "CHRIS LICHTENBERG FOR SHERIFF CAMPAIGN": expenditures/filers/chris_lichtenberg_for_sheriff_campaign.md
+        - "CHRISTA YOAKUM FOR COUNTY COMMISSION": expenditures/filers/christa_yoakum_for_county_commission.md
+        - "CHUCK HASSEBROOK FOR LEGISLATURE": expenditures/filers/chuck_hassebrook_for_legislature.md
+        - "CITIZENS FOR KINTNER": expenditures/filers/citizens_for_kintner.md
+        - "CITIZENS FOR VOTER ID": expenditures/filers/citizens_for_voter_id.md
+        - "CITIZENS TO ELECT JIM SMITH": expenditures/filers/citizens_to_elect_jim_smith.md
+        - "CITIZENS TO ELECT JOHN ARCH": expenditures/filers/citizens_to_elect_john_arch.md
+        - "CITIZENS TO ELECT SCOTT PRICE": expenditures/filers/citizens_to_elect_scott_price.md
+        - "CITY VENTURES PROFESSIONAL SERVICES LLC": expenditures/filers/city_ventures_professional_services_llc.md
+        - "CIVIC NEBRASKA": expenditures/filers/civic_nebraska.md
+        - "CLARE FOR REGENT": expenditures/filers/clare_for_regent.md
+        - "CLAYTON ENERGY CORP": expenditures/filers/clayton_energy_corp.md
+        - "COACH MASTERS": expenditures/filers/coach_masters.md
+        - "COCA-COLA (CHESTERMAN COMPANY DBA)": expenditures/filers/cocacola_chesterman_company_dba.md
+        - "COLDWELL BANKER DOVER REALTORS": expenditures/filers/coldwell_banker_dover_realtors.md
+        - "COLIN CAUDILL FOR SHERIFF": expenditures/filers/colin_caudill_for_sheriff.md
+        - "COLSON AGENCY INC": expenditures/filers/colson_agency_inc.md
+        - "COMMERCIAL SOLUTIONS INSURANCE LLC": expenditures/filers/commercial_solutions_insurance_llc.md
+        - "COMMITTEE FOR A PROSPEROUS GRAND ISLAND": expenditures/filers/committee_for_a_prosperous_grand_island.md
+        - "COMMITTEE TO ELECT BRIAN GRIMM": expenditures/filers/committee_to_elect_brian_grimm.md
+        - "COMMITTEE TO ELECT CHRIS RODGERS": expenditures/filers/committee_to_elect_chris_rodgers.md
+        - "COMMITTEE TO ELECT COREY STUTTE": expenditures/filers/committee_to_elect_corey_stutte.md
+        - "COMMITTEE TO ELECT DIANE BATTIATO": expenditures/filers/committee_to_elect_diane_battiato.md
+        - "COMMITTEE TO ELECT ELIZABETH HALLGREN": expenditures/filers/committee_to_elect_elizabeth_hallgren.md
+        - "COMMITTEE TO ELECT FLYNN CLERK": expenditures/filers/committee_to_elect_flynn_clerk.md
+        - "COMMITTEE TO ELECT JOHN EWING": expenditures/filers/committee_to_elect_john_ewing.md
+        - "COMMITTEE TO ELECT KATHLEEN KAUTH": expenditures/filers/committee_to_elect_kathleen_kauth.md
+        - "COMMITTEE TO ELECT KEVIN STOCKER": expenditures/filers/committee_to_elect_kevin_stocker.md
+        - "COMMITTEE TO ELECT KRIS PIERCE": expenditures/filers/committee_to_elect_kris_pierce.md
+        - "COMMITTEE TO ELECT PJ MORGAN": expenditures/filers/committee_to_elect_pj_morgan.md
+        - "COMMITTEE TO ELECT ROY CHRISTENSEN": expenditures/filers/committee_to_elect_roy_christensen.md
+        - "COMMITTEE TO ELECT THOMAS RILEY": expenditures/filers/committee_to_elect_thomas_riley.md
+        - "COMMITTEE TO ELECT TOM DOYLE": expenditures/filers/committee_to_elect_tom_doyle.md
+        - "COMMITTEE TO IMPROVE OMAHA": expenditures/filers/committee_to_improve_omaha.md
+        - "COMMITTEE TO RETAIN JEFFREY L. DAVIS FOR SHERIFF": expenditures/filers/committee_to_retain_jeffrey_l_davis_for_sheriff.md
+        - "COMMITTEE TO RETAIN LEE POLIKOV COUNTY ATTORNEY": expenditures/filers/committee_to_retain_lee_polikov_county_attorney.md
+        - "COMMODITY SOLUTIONS INC": expenditures/filers/commodity_solutions_inc.md
+        - "COMMUNITY HOSPITAL ASSOCIATION": expenditures/filers/community_hospital_association.md
+        - "COMMUNITY ORGANIZATION FOR PUBLIC SAFETY PAC": expenditures/filers/community_organization_for_public_safety_pac.md
+        - "CONDON FOR COUNTY ATTORNEY": expenditures/filers/condon_for_county_attorney.md
+        - "CONDON SIGNS": expenditures/filers/condon_signs.md
+        - "CONNEALY MARKETING": expenditures/filers/connealy_marketing.md
+        - "CONNIE FOR SCHOOLS": expenditures/filers/connie_for_schools.md
+        - "CONNIE L PETERSEN CAMPAIGN": expenditures/filers/connie_l_petersen_campaign.md
+        - "CONNOR ORR FOR MCC BOARD": expenditures/filers/connor_orr_for_mcc_board.md
+        - "CONRAD FOR LEGISLATURE": expenditures/filers/conrad_for_legislature.md
+        - "CONSERVATION PAC": expenditures/filers/conservation_pac.md
+        - "CONSERVATIVE NEBRASKA": expenditures/filers/conservative_nebraska.md
+        - "CONSOLIDATED COMPANIES, INC.": expenditures/filers/consolidated_companies_inc.md
+        - "CONSTRUCTIVE ENTERPRISES INC": expenditures/filers/constructive_enterprises_inc.md
+        - "COPIC INSURANCE COMPANY": expenditures/filers/copic_insurance_company.md
+        - "COPPLE ROCKEY SCHLECHT & MASON PC LLO": expenditures/filers/copple_rockey_schlecht_&_mason_pc_llo.md
+        - "CORBAN HEINIS FOR AIRPORT AUTHORITY": expenditures/filers/corban_heinis_for_airport_authority.md
+        - "CORNHUSKER BANK": expenditures/filers/cornhusker_bank.md
+        - "COSALIV PC": expenditures/filers/cosaliv_pc.md
+        - "COX COMMUNICATIONS": expenditures/filers/cox_communications.md
+        - "COZAD EDUCATION ASSOCIATION": expenditures/filers/cozad_education_association.md
+        - "CREDIT MANAGEMENT SERVICES INC": expenditures/filers/credit_management_services_inc.md
+        - "CRUISE MANAGEMENT SERVICE INC": expenditures/filers/cruise_management_service_inc.md
+        - "CSB COMPAN7Y": expenditures/filers/csb_compan7y.md
+        - "CUBBY'S INC": expenditures/filers/cubbys_inc.md
+        - "CUDAS AUTO": expenditures/filers/cudas_auto.md
+        - "CUNNINGHAM'S LAKESIDE INC": expenditures/filers/cunninghams_lakeside_inc.md
+        - "CUSTOM MANAGEMENT SERVICES INC": expenditures/filers/custom_management_services_inc.md
+        - "CVS HEALTH": expenditures/filers/cvs_health.md
+        - "DAHLGREN FARMS INC": expenditures/filers/dahlgren_farms_inc.md
+        - "DAM ENTERPRISES": expenditures/filers/dam_enterprises.md
+        - "DAN ESCH FOR COUNTY CLERK": expenditures/filers/dan_esch_for_county_clerk.md
+        - "DAN PITTMAN FOR SARPY COUNTY ASSESSOR": expenditures/filers/dan_pittman_for_sarpy_county_assessor.md
+        - "DAN QUICK FOR LEGISLATURE": expenditures/filers/dan_quick_for_legislature.md
+        - "DANEK FOR DISTRICT #1": expenditures/filers/danek_for_district_1.md
+        - "DANNY BEGLEY FOR OMAHA": expenditures/filers/danny_begley_for_omaha.md
+        - "DARR FEEDLOT INC": expenditures/filers/darr_feedlot_inc.md
+        - "DAVE MURMAN FOR LEGISLATURE": expenditures/filers/dave_murman_for_legislature.md
+        - "DAVID KLUG FOR COUNTY BOARD": expenditures/filers/david_klug_for_county_board.md
+        - "DAVIS DESIGN INC": expenditures/filers/davis_design_inc.md
+        - "DC ELECTRICAL / HEARTLAND LIGHTING INC": expenditures/filers/dc_electrical__heartland_lighting_inc.md
+        - "DEALER PAC": expenditures/filers/dealer_pac.md
+        - "DECLINE TO SIGN": expenditures/filers/decline_to_sign.md
+        - "DEEP WELL ASCHE": expenditures/filers/deep_well_asche.md
+        - "DEES FARMS INC": expenditures/filers/dees_farms_inc.md
+        - "DENNY WILSON FOR SARPY COUNTY SURVEYOR": expenditures/filers/denny_wilson_for_sarpy_county_surveyor.md
+        - "DEREK RUSHER FOR NPPD": expenditures/filers/derek_rusher_for_nppd.md
+        - "DEXCOM, INC.": expenditures/filers/dexcom_inc.md
+        - "DISH NETWORK, LLC": expenditures/filers/dish_network_llc.md
+        - "DMF INC": expenditures/filers/dmf_inc.md
+        - "DODGE RETAIL, LLC": expenditures/filers/dodge_retail_llc.md
+        - "DOERNEMANN CONSTRUCTION INC": expenditures/filers/doernemann_construction_inc.md
+        - "DON KLEINE FOR DOUGLAS COUNTY ATTORNEY": expenditures/filers/don_kleine_for_douglas_county_attorney.md
+        - "DON ROWE FOR OMAHA": expenditures/filers/don_rowe_for_omaha.md
+        - "DORI HEATH FOR DISTRICT COURT CLERK": expenditures/filers/dori_heath_for_district_court_clerk.md
+        - "DORN FOR LEGISLATURE": expenditures/filers/dorn_for_legislature.md
+        - "DOUG PETERSON FOR ATTORNEY GENERAL": expenditures/filers/doug_peterson_for_attorney_general.md
+        - "DOUGLAS BROWN FOR MAYOR": expenditures/filers/douglas_brown_for_mayor.md
+        - "DOUGLAS COUNTY DEMOCRATIC PARTY": expenditures/filers/douglas_county_democratic_party.md
+        - "DOUGLAS COUNTY REPUBLICAN PARTY": expenditures/filers/douglas_county_republican_party.md
+        - "DOVE CREEK WAGYU CATTLE CO LLC": expenditures/filers/dove_creek_wagyu_cattle_co_llc.md
+        - "DOWD & CORRIGAN LLC": expenditures/filers/dowd_&_corrigan_llc.md
+        - "DRURY DEVELOPMENT CORPORATION": expenditures/filers/drury_development_corporation.md
+        - "DUAL ENTERPRISESE INC": expenditures/filers/dual_enterprisese_inc.md
+        - "DUDLEY LAUNDRY COMPANY DBA APPEARA": expenditures/filers/dudley_laundry_company_dba_appeara.md
+        - "DULIN DELIVERIES INC": expenditures/filers/dulin_deliveries_inc.md
+        - "DUNNING FOR SHERIFF": expenditures/filers/dunning_for_sheriff.md
+        - "DVAL ENTERPRISES INC": expenditures/filers/dval_enterprises_inc.md
+        - "E & A CONSULTING GROUP, INC.": expenditures/filers/e_&_a_consulting_group_inc.md
+        - "E ENERGY ADAMS LLC": expenditures/filers/e_energy_adams_llc.md
+        - "EAGLE DELIVERY SERVICE INC": expenditures/filers/eagle_delivery_service_inc.md
+        - "EAGLE DISTRIBUTING INC": expenditures/filers/eagle_distributing_inc.md
+        - "EBM CONSTRUCTION INC": expenditures/filers/ebm_construction_inc.md
+        - "ECHO CANYON, LLC": expenditures/filers/echo_canyon_llc.md
+        - "EDDIE LAWN SERVICE LLC": expenditures/filers/eddie_lawn_service_llc.md
+        - "EHPV LOTTERY SERVICES LLC": expenditures/filers/ehpv_lottery_services_llc.md
+        - "EHPV OPERATING GROUP LLC": expenditures/filers/ehpv_operating_group_llc.md
+        - "EICKHOLT LAW LLC": expenditures/filers/eickholt_law_llc.md
+        - "ELECT BEN BACKUS": expenditures/filers/elect_ben_backus.md
+        - "ELECT GENE SIADEK": expenditures/filers/elect_gene_siadek.md
+        - "ELEVATOR GUY ENTERPRISES LLC": expenditures/filers/elevator_guy_enterprises_llc.md
+        - "ELI LILLY AND COMPANY": expenditures/filers/eli_lilly_and_company.md
+        - "ELINA NEWMAN FOR CITY COUNCIL": expenditures/filers/elina_newman_for_city_council.md
+        - "ELIOT BOSTAR FOR LEGISLATURE": expenditures/filers/eliot_bostar_for_legislature.md
+        - "ELIZABETH BUTLER CAMPAIGN": expenditures/filers/elizabeth_butler_campaign.md
+        - "ELIZABETH O'CONNOR FOR REGENT": expenditures/filers/elizabeth_oconnor_for_regent.md
+        - "ELIZABETH TEGTMEIER FOR NEBRASKA STATE BOARD OF EDUCATION": expenditures/filers/elizabeth_tegtmeier_for_nebraska_state_board_of_education.md
+        - "ERDENBERGER 4 OPS": expenditures/filers/erdenberger_4_ops.md
+        - "ERIC GERRARD LLC": expenditures/filers/eric_gerrard_llc.md
+        - "ERIK SERVES NEBRASKA": expenditures/filers/erik_serves_nebraska.md
+        - "ERIN FEICHTINGER FOR METRO BOARD OF GOVERNORS": expenditures/filers/erin_feichtinger_for_metro_board_of_governors.md
+        - "ERNIE CHAMBERS WRITE IN CAMPAIGN": expenditures/filers/ernie_chambers_write_in_campaign.md
+        - "EUREK PARTNERS LLC": expenditures/filers/eurek_partners_llc.md
+        - "EVERYTOWN FOR GUN SAFETY ACTION FUND": expenditures/filers/everytown_for_gun_safety_action_fund.md
+        - "EXECUTIVE TRAVEL INC": expenditures/filers/executive_travel_inc.md
+        - "EXODUS MOVEMENT INC": expenditures/filers/exodus_movement_inc.md
+        - "EYMAN PLUMBING INC": expenditures/filers/eyman_plumbing_inc.md
+        - "EZPOLITIX LLC": expenditures/filers/ezpolitix_llc.md
+        - "FAA PROPERTIES LLC": expenditures/filers/faa_properties_llc.md
+        - "FANSLAU FOR PAPILLION": expenditures/filers/fanslau_for_papillion.md
+        - "FAREWAY STORES INC": expenditures/filers/fareway_stores_inc.md
+        - "FARM CREDIT SERVICES OF AMERICA": expenditures/filers/farm_credit_services_of_america.md
+        - "FARMERS EMPLOYEE AND AGENT PAC": expenditures/filers/farmers_employee_and_agent_pac.md
+        - "FELLHOELTER FOR MORRILL COUNTY ATTORNEY": expenditures/filers/fellhoelter_for_morrill_county_attorney.md
+        - "FELSBURG HOLT & ULLEVIG": expenditures/filers/felsburg_holt_&_ullevig.md
+        - "FESTERSEN FOR CITY COUNCIL": expenditures/filers/festersen_for_city_council.md
+        - "FIELD DAY DEVELOPMENT": expenditures/filers/field_day_development.md
+        - "FILING FOR COMMISSIONER": expenditures/filers/filing_for_commissioner.md
+        - "FILLMORE COUNTY MEDICAL CENTER": expenditures/filers/fillmore_county_medical_center.md
+        - "FINAL GRADE CONSTRUCTION & CONSERVATION LLC": expenditures/filers/final_grade_construction_&_conservation_llc.md
+        - "FIREFIGHTERS FOR BETTER GOVERNMENT": expenditures/filers/firefighters_for_better_government.md
+        - "FIRST AMERICAN TITLE INSURANCE COMPANY": expenditures/filers/first_american_title_insurance_company.md
+        - "FIRST INSURANCE GROUP, LLC": expenditures/filers/first_insurance_group_llc.md
+        - "FIRST NATIONAL OF NEBRASKA": expenditures/filers/first_national_of_nebraska.md
+        - "FIRST NATIONAL OF NEBRASKA PAC": expenditures/filers/first_national_of_nebraska_pac.md
+        - "FIRST STATE BANK LOOMIS": expenditures/filers/first_state_bank_loomis.md
+        - "FIVE POINTS BANK": expenditures/filers/five_points_bank.md
+        - "FLATBED EXPRESS": expenditures/filers/flatbed_express.md
+        - "FLATWATER BANK": expenditures/filers/flatwater_bank.md
+        - "FLATWATER PATRIOTS": expenditures/filers/flatwater_patriots.md
+        - "FOLEY FOR THE PEOPLE- AUDITOR (2022)": expenditures/filers/foley_for_the_people_auditor_2022.md
+        - "FONNER PARK": expenditures/filers/fonner_park.md
+        - "FORWARD NEBRASKA": expenditures/filers/forward_nebraska.md
+        - "FRANKLIN DRYWALL INC": expenditures/filers/franklin_drywall_inc.md
+        - "FRANKLIN LAW GROUP": expenditures/filers/franklin_law_group.md
+        - "FRANKLIN THOMPSON FOR CITY COUNCIL": expenditures/filers/franklin_thompson_for_city_council.md
+        - "FRASER STRYKER PC LLO": expenditures/filers/fraser_stryker_pc_llo.md
+        - "FRATERNAL ORDER OF POLICE 26": expenditures/filers/fraternal_order_of_police_26.md
+        - "FRATERNAL ORDER OF POLICE LODGE #8": expenditures/filers/fraternal_order_of_police_lodge_8.md
+        - "FRATERNAL ORDER OF POLICE LODGE 2": expenditures/filers/fraternal_order_of_police_lodge_2.md
+        - "FRATERNAL ORDER OF POLICE LODGE 3": expenditures/filers/fraternal_order_of_police_lodge_3.md
+        - "FRATERNAL ORDER OF POLICE LODGE NO 88": expenditures/filers/fraternal_order_of_police_lodge_no_88.md
+        - "FREMONT BEEF COMPANY": expenditures/filers/fremont_beef_company.md
+        - "FRICKE FOR STATE BOARD OF EDUCATION": expenditures/filers/fricke_for_state_board_of_education.md
+        - "FRIEND FOR CLERK OF THE DISTRICT COURT": expenditures/filers/friend_for_clerk_of_the_district_court.md
+        - "FRIEND FOR COUNTY BOARD": expenditures/filers/friend_for_county_board.md
+        - "FRIENDS FOR ADAM MORFELD": expenditures/filers/friends_for_adam_morfeld.md
+        - "FRIENDS FOR CRYSTAL RHOADES": expenditures/filers/friends_for_crystal_rhoades.md
+        - "FRIENDS FOR JACQUELYN MORRISON": expenditures/filers/friends_for_jacquelyn_morrison.md
+        - "FRIENDS FOR JASMINE L HARRIS": expenditures/filers/friends_for_jasmine_l_harris.md
+        - "FRIENDS FOR JIM GROTRIAN": expenditures/filers/friends_for_jim_grotrian.md
+        - "FRIENDS FOR JOHN FREDRICKSON": expenditures/filers/friends_for_john_fredrickson.md
+        - "FRIENDS FOR KATIE OPITZ": expenditures/filers/friends_for_katie_opitz.md
+        - "FRIENDS FOR KIMARA SNIPES": expenditures/filers/friends_for_kimara_snipes.md
+        - "FRIENDS FOR MICHAEL YOUNG": expenditures/filers/friends_for_michael_young.md
+        - "FRIENDS FOR NICKI BEHMER": expenditures/filers/friends_for_nicki_behmer.md
+        - "FRIENDS FOR VINNY PALERMO": expenditures/filers/friends_for_vinny_palermo.md
+        - "FRIENDS OF ALEX DEGARMO": expenditures/filers/friends_of_alex_degarmo.md
+        - "FRIENDS OF ANGI BURMEISTER": expenditures/filers/friends_of_angi_burmeister.md
+        - "FRIENDS OF BARGER FOR LEGISLATURE": expenditures/filers/friends_of_barger_for_legislature.md
+        - "FRIENDS OF BOB SIDZYIK": expenditures/filers/friends_of_bob_sidzyik.md
+        - "FRIENDS OF CAROL BLOOD": expenditures/filers/friends_of_carol_blood.md
+        - "FRIENDS OF CHARLIE JANSSEN": expenditures/filers/friends_of_charlie_janssen.md
+        - "FRIENDS OF CHRIS JERRAM": expenditures/filers/friends_of_chris_jerram.md
+        - "FRIENDS OF CHRISTY ARMENDARIZ": expenditures/filers/friends_of_christy_armendariz.md
+        - "FRIENDS OF CINDY MAXWELL-OSTDIEK": expenditures/filers/friends_of_cindy_maxwellostdiek.md
+        - "FRIENDS OF CRAIG MOODY": expenditures/filers/friends_of_craig_moody.md
+        - "FRIENDS OF DAN WATERMEIER": expenditures/filers/friends_of_dan_watermeier.md
+        - "FRIENDS OF DEB HOUGHTALING SARPY COUNTY CLERK/ROD": expenditures/filers/friends_of_deb_houghtaling_sarpy_county_clerkrod.md
+        - "FRIENDS OF DREW BLESSING": expenditures/filers/friends_of_drew_blessing.md
+        - "FRIENDS OF ERIC SCOTT": expenditures/filers/friends_of_eric_scott.md
+        - "FRIENDS OF ERIC WILLIAMS": expenditures/filers/friends_of_eric_williams.md
+        - "FRIENDS OF JACOB CAMPBELL, INC": expenditures/filers/friends_of_jacob_campbell_inc.md
+        - "FRIENDS OF JIM WARREN": expenditures/filers/friends_of_jim_warren.md
+        - "FRIENDS OF JOHN SIELER": expenditures/filers/friends_of_john_sieler.md
+        - "FRIENDS OF KAY CARNE": expenditures/filers/friends_of_kay_carne.md
+        - "FRIENDS OF KRISTEN FOR METRO": expenditures/filers/friends_of_kristen_for_metro.md
+        - "FRIENDS OF LEADINGAGE NEBRASKA": expenditures/filers/friends_of_leadingage_nebraska.md
+        - "FRIENDS OF LINDSTROM": expenditures/filers/friends_of_lindstrom.md
+        - "FRIENDS OF LISA SCHOENBERGER": expenditures/filers/friends_of_lisa_schoenberger.md
+        - "FRIENDS OF MARNI HODGEN": expenditures/filers/friends_of_marni_hodgen.md
+        - "FRIENDS OF MIKE HILGERS": expenditures/filers/friends_of_mike_hilgers.md
+        - "FRIENDS OF MIKE MCDONNELL": expenditures/filers/friends_of_mike_mcdonnell.md
+        - "FRIENDS OF PETE SAKARIS": expenditures/filers/friends_of_pete_sakaris.md
+        - "FRIENDS OF RICH PAHLS": expenditures/filers/friends_of_rich_pahls.md
+        - "FRIENDS OF ROBERT ANTHONY": expenditures/filers/friends_of_robert_anthony.md
+        - "FRIENDS OF RUSS KARPISEK": expenditures/filers/friends_of_russ_karpisek.md
+        - "FRIENDS OF SARA KOHEN": expenditures/filers/friends_of_sara_kohen.md
+        - "FRIENDS OF SCOTT PETERSEN": expenditures/filers/friends_of_scott_petersen.md
+        - "FRIENDS OF SEWARD WELLNESS CENTER": expenditures/filers/friends_of_seward_wellness_center.md
+        - "FRIENDS OF STEPHANY PLEASANT": expenditures/filers/friends_of_stephany_pleasant.md
+        - "FRIENDS OF THE UNIVERSITY PAC": expenditures/filers/friends_of_the_university_pac.md
+        - "FRIENDS OF THOMAS BURNS": expenditures/filers/friends_of_thomas_burns.md
+        - "FRIESEN FOR LEGISLATURE": expenditures/filers/friesen_for_legislature.md
+        - "FULL 4 OPS": expenditures/filers/full_4_ops.md
+        - "FULLENKAMP JOBEUN JOHNSON & BELLER LLP": expenditures/filers/fullenkamp_jobeun_johnson_&_beller_llp.md
+        - "G & K INVESTMENTS LLC": expenditures/filers/g_&_k_investments_llc.md
+        - "GALE FOR NPPD BOARD": expenditures/filers/gale_for_nppd_board.md
+        - "GANEM FOR CITY COUNCIL": expenditures/filers/ganem_for_city_council.md
+        - "GARY BARNARD FOR MAYOR": expenditures/filers/gary_barnard_for_mayor.md
+        - "GDR, LLC": expenditures/filers/gdr_llc.md
+        - "GENE LILLY SURETY BONDS INC": expenditures/filers/gene_lilly_surety_bonds_inc.md
+        - "GENE STEFFY FORD LLC": expenditures/filers/gene_steffy_ford_llc.md
+        - "GENERATION V": expenditures/filers/generation_v.md
+        - "GENESIS HEALTH CLUBS": expenditures/filers/genesis_health_clubs.md
+        - "GEORGE FOR NEBRASKA": expenditures/filers/george_for_nebraska.md
+        - "GJB FARMS, INC.": expenditures/filers/gjb_farms_inc.md
+        - "GOTTSCH CATTLE COMPANY, LLC": expenditures/filers/gottsch_cattle_company_llc.md
+        - "GRAHAM CONSTRUCTION INC": expenditures/filers/graham_construction_inc.md
+        - "GRAHAM TIRE COMPANY": expenditures/filers/graham_tire_company.md
+        - "GRAND ISLAND CASINO PAC": expenditures/filers/grand_island_casino_pac.md
+        - "GREAT PLAINS COMMUNICATIONS": expenditures/filers/great_plains_communications.md
+        - "GREAT PLAINS REALTY AUCTION COMPANY": expenditures/filers/great_plains_realty_auction_company.md
+        - "GREAT WEST CASUALTY COMPANY": expenditures/filers/great_west_casualty_company.md
+        - "GREATER BELLEVUE AREA CHAMBER OF COMMERCE": expenditures/filers/greater_bellevue_area_chamber_of_commerce.md
+        - "GREATER OMAHA CHAMBER PAC": expenditures/filers/greater_omaha_chamber_pac.md
+        - "GREEN PLAINS INC.": expenditures/filers/green_plains_inc.md
+        - "GREENSLATE DEVELOPMENT": expenditures/filers/greenslate_development.md
+        - "GREG FOR SHERIFF": expenditures/filers/greg_for_sheriff.md
+        - "GREG OSBORN FOR NRD": expenditures/filers/greg_osborn_for_nrd.md
+        - "GROTE & ASSOCIATES INC": expenditures/filers/grote_&_associates_inc.md
+        - "GROW NEBRASKA": expenditures/filers/grow_nebraska.md
+        - "GRUBAUGH VENTURES INC": expenditures/filers/grubaugh_ventures_inc.md
+        - "H&H AUTOMOTIVE": expenditures/filers/h&h_automotive.md
+        - "HAMPTON ENTERPRISES INC": expenditures/filers/hampton_enterprises_inc.md
+        - "HANSEN FOR LANCASTER": expenditures/filers/hansen_for_lancaster.md
+        - "HANSEN FOR LEGISLATURE": expenditures/filers/hansen_for_legislature.md
+        - "HANSON FOR SHERIFF": expenditures/filers/hanson_for_sheriff.md
+        - "HARDIN FOR LEGISLATURE": expenditures/filers/hardin_for_legislature.md
+        - "HARDING FOR COUNCIL": expenditures/filers/harding_for_council.md
+        - "HAWKINS CONSTRUCTION COMPANY": expenditures/filers/hawkins_construction_company.md
+        - "HB FURNISHINGS": expenditures/filers/hb_furnishings.md
+        - "HEARTLAND STRATEGY GROUP LLC": expenditures/filers/heartland_strategy_group_llc.md
+        - "HELEN RAIKES FOR STATE BOARD OF EDUCATION": expenditures/filers/helen_raikes_for_state_board_of_education.md
+        - "HELZER 4 EDUCATION": expenditures/filers/helzer_4_education.md
+        - "HERBSTER ANGUS FARMS": expenditures/filers/herbster_angus_farms.md
+        - "HERBSTER FOR NEBRASKA": expenditures/filers/herbster_for_nebraska.md
+        - "HERD CO": expenditures/filers/herd_co.md
+        - "HERGERT OIL CO.": expenditures/filers/hergert_oil_co.md
+        - "HERMAN DINKLAGE, INC": expenditures/filers/herman_dinklage_inc.md
+        - "HERROLD FOR LEGISLATURE": expenditures/filers/herrold_for_legislature.md
+        - "HERSHEY AGENCY INC": expenditures/filers/hershey_agency_inc.md
+        - "HERZOG CONTRACTING CORPORATION": expenditures/filers/herzog_contracting_corporation.md
+        - "HGM ASSOCIATES INC.": expenditures/filers/hgm_associates_inc.md
+        - "HILKEMANN FOR LEGISLATURE": expenditures/filers/hilkemann_for_legislature.md
+        - "HILTON FOR LINCOLN": expenditures/filers/hilton_for_lincoln.md
+        - "HO-CHUNK, INC": expenditures/filers/hochunk_inc.md
+        - "HOLLAND BASHAM ARCHITECTS, INC.": expenditures/filers/holland_basham_architects_inc.md
+        - "HOME PAC": expenditures/filers/home_pac.md
+        - "HOMESTEAD BANK": expenditures/filers/homestead_bank.md
+        - "HOPPE & SON LLC": expenditures/filers/hoppe_&_son_llc.md
+        - "HORIZON THERAPEUTICS USA, INC.": expenditures/filers/horizon_therapeutics_usa_inc.md
+        - "HORSECHIEF FOR MCC BOARD": expenditures/filers/horsechief_for_mcc_board.md
+        - "HOUGHTON BRADFORD WHITTED PC LLO": expenditures/filers/houghton_bradford_whitted_pc_llo.md
+        - "HOWARD FOR MUD": expenditures/filers/howard_for_mud.md
+        - "HR SYSTEMS INC": expenditures/filers/hr_systems_inc.md
+        - "HUDSON FOR SHERIFF": expenditures/filers/hudson_for_sheriff.md
+        - "HUGHES FOR LEGISLATURE": expenditures/filers/hughes_for_legislature.md
+        - "HUNTLEY FOR COUNCIL": expenditures/filers/huntley_for_council.md
+        - "HUSCH BLACKWELL LLP": expenditures/filers/husch_blackwell_llp.md
+        - "HUSCH BLACKWELL STRATEGIES, LLC": expenditures/filers/husch_blackwell_strategies_llc.md
+        - "HUSKER AG LLC": expenditures/filers/husker_ag_llc.md
+        - "HUSKER STORAGE LLC": expenditures/filers/husker_storage_llc.md
+        - "HY-VEE FOOD STORE": expenditures/filers/hyvee_food_store.md
+        - "HYDO PROPERTIES LLC": expenditures/filers/hydo_properties_llc.md
+        - "I LIKE HIKE FOR MAYOR": expenditures/filers/i_like_hike_for_mayor.md
+        - "I.B.E.W. LOCAL UNION NO. 22": expenditures/filers/ibew_local_union_no_22.md
+        - "IBEW 1521": expenditures/filers/ibew_1521.md
+        - "IDEAL LINEN & UNIFORM SUPPLY": expenditures/filers/ideal_linen_&_uniform_supply.md
+        - "INDEPENDENT INSURANCE AGENTS OF NEBRASKA PAC": expenditures/filers/independent_insurance_agents_of_nebraska_pac.md
+        - "INDUSTRIAL TOWER WEST LLC": expenditures/filers/industrial_tower_west_llc.md
+        - "INT. ASSN OF HEAT & FROST INSULATORS & ALLIED WORKERS LOCAL 39": expenditures/filers/int_assn_of_heat_&_frost_insulators_&_allied_workers_local_39.md
+        - "INTERIOR SYSTEMS LOCAL UNION 1306": expenditures/filers/interior_systems_local_union_1306.md
+        - "INTERNATIONAL ASSN OF FIREFIGHTERS LOCAL 644": expenditures/filers/international_assn_of_firefighters_local_644.md
+        - "INVENERGY LLC": expenditures/filers/invenergy_llc.md
+        - "IOWA-NEBRASKA EQUIPMENT DEALERS PAC": expenditures/filers/iowanebraska_equipment_dealers_pac.md
+        - "IRONWORKERS LOCAL UNION 21 LEGISLATIVE FUND PAC": expenditures/filers/ironworkers_local_union_21_legislative_fund_pac.md
+        - "IUOE LOCAL 571 PAC": expenditures/filers/iuoe_local_571_pac.md
+        - "IVANNA CONE LLC": expenditures/filers/ivanna_cone_llc.md
+        - "J & T PLUMBING & SONS INC": expenditures/filers/j_&_t_plumbing_&_sons_inc.md
+        - "J4J LLC": expenditures/filers/j4j_llc.md
+        - "JACK A STARK FOR NEBRASKA BOARD OF REGENTS": expenditures/filers/jack_a_stark_for_nebraska_board_of_regents.md
+        - "JACK NITZ & ASSOCIATES, INC.": expenditures/filers/jack_nitz_&_associates_inc.md
+        - "JACKIT LLC": expenditures/filers/jackit_llc.md
+        - "JACKSON FOR NEBRASKA": expenditures/filers/jackson_for_nebraska.md
+        - "JAMES ARTHUR VINEYARDS": expenditures/filers/james_arthur_vineyards.md
+        - "JAMES BLINN FOR MAYOR": expenditures/filers/james_blinn_for_mayor.md
+        - "JAMOR PORK, LLC": expenditures/filers/jamor_pork_llc.md
+        - "JANA HUGHES FOR LEGISLATURE": expenditures/filers/jana_hughes_for_legislature.md
+        - "JANE RAYBOULD FOR LEGISLATURE": expenditures/filers/jane_raybould_for_legislature.md
+        - "JANECE MOLLHOFF FOR OPPD BOARD": expenditures/filers/janece_mollhoff_for_oppd_board.md
+        - "JANET CHUNG FOR LEGISLATURE": expenditures/filers/janet_chung_for_legislature.md
+        - "JDK PROPERTIES LLC": expenditures/filers/jdk_properties_llc.md
+        - "JDO 14 KARAT INC DBA 14 KARAT": expenditures/filers/jdo_14_karat_inc_dba_14_karat.md
+        - "JEAN STOTHERT FOR OMAHA": expenditures/filers/jean_stothert_for_omaha.md
+        - "JEN DAY FOR NEBRASKA": expenditures/filers/jen_day_for_nebraska.md
+        - "JENNA L GARCIA FOR GRETNA PUBLIC SCHOOLS": expenditures/filers/jenna_l_garcia_for_gretna_public_schools.md
+        - "JENSEN ROGERT ASSOCIATES, INC.": expenditures/filers/jensen_rogert_associates_inc.md
+        - "JEO CONSULTING GROUP INC": expenditures/filers/jeo_consulting_group_inc.md
+        - "JIM BEGLEY FOR MUD BOARD": expenditures/filers/jim_begley_for_mud_board.md
+        - "JIM PESCHONG SHERIFF COMMITTEE": expenditures/filers/jim_peschong_sheriff_committee.md
+        - "JIM PILLEN FOR GOVERNOR": expenditures/filers/jim_pillen_for_governor.md
+        - "JIM RIHA FOR LEGISLATURE": expenditures/filers/jim_riha_for_legislature.md
+        - "JIM RIHA FOR MUD": expenditures/filers/jim_riha_for_mud.md
+        - "JJN BUILDING COMPANY LLC": expenditures/filers/jjn_building_company_llc.md
+        - "JO GILES FOR DOUGLAS COUNTY COMMISSION": expenditures/filers/jo_giles_for_douglas_county_commission.md
+        - "JOCHIM PRECAST CONCRETE INC": expenditures/filers/jochim_precast_concrete_inc.md
+        - "JOE NIGRO FOR PUBLIC DEFENDER": expenditures/filers/joe_nigro_for_public_defender.md
+        - "JOEY SPELLERBERG FOR MAYOR": expenditures/filers/joey_spellerberg_for_mayor.md
+        - "JOHN KUEHN FOR LEGISLATURE": expenditures/filers/john_kuehn_for_legislature.md
+        - "JOHN LOWE FOR LEGISLATURE": expenditures/filers/john_lowe_for_legislature.md
+        - "JOHN LYONS FOR SEWARD COUNTY ATTORNEY": expenditures/filers/john_lyons_for_seward_county_attorney.md
+        - "JOHNSON 4 NPPD": expenditures/filers/johnson_4_nppd.md
+        - "JON CAMP FOR CITY COUNCIL": expenditures/filers/jon_camp_for_city_council.md
+        - "JONI ALBRECHT FOR LEGISLATURE": expenditures/filers/joni_albrecht_for_legislature.md
+        - "JONI CRAIGHEAD FOR LEGISLATURE": expenditures/filers/joni_craighead_for_legislature.md
+        - "JOSH EICKMEIER FOR MAYOR": expenditures/filers/josh_eickmeier_for_mayor.md
+        - "JSD HOLDINGS INC": expenditures/filers/jsd_holdings_inc.md
+        - "JSMM FARMS PARTNERSHIP": expenditures/filers/jsmm_farms_partnership.md
+        - "JUANITA JOHNSON FOR CITY COUNCIL": expenditures/filers/juanita_johnson_for_city_council.md
+        - "JULIE FREDRICKSON FOR LEGISLATURE": expenditures/filers/julie_fredrickson_for_legislature.md
+        - "JULIE HEHNKE FOR NE BOARD OF REGENTS DISTRICT 6": expenditures/filers/julie_hehnke_for_ne_board_of_regents_district_6.md
+        - "JULIE SLAMA FOR LEGISLATURE": expenditures/filers/julie_slama_for_legislature.md
+        - "JULIE WRIGHT FOR MAYOR": expenditures/filers/julie_wright_for_mayor.md
+        - "K & Z DISTRIBUTING COMPANY": expenditures/filers/k_&_z_distributing_company.md
+        - "KAAPA ETHANOL HOLDINGS LLC": expenditures/filers/kaapa_ethanol_holdings_llc.md
+        - "KAITLYN WOLTEMATH FOR DAWSON COUNTY TREASURER": expenditures/filers/kaitlyn_woltemath_for_dawson_county_treasurer.md
+        - "KAK INC": expenditures/filers/kak_inc.md
+        - "KAN ENTERPRISES INC DBA DURHAM STAFFING SOLUTIONS": expenditures/filers/kan_enterprises_inc_dba_durham_staffing_solutions.md
+        - "KATHY CAMPBELL FOR LEGISLATURE": expenditures/filers/kathy_campbell_for_legislature.md
+        - "KEARNEY INVESTMENT CORPORATION": expenditures/filers/kearney_investment_corporation.md
+        - "KEELER & ASSOCIATES INC": expenditures/filers/keeler_&_associates_inc.md
+        - "KEITH KUBE FOR LEGISLATURE": expenditures/filers/keith_kube_for_legislature.md
+        - "KELLEY PLUCKER, LLC": expenditures/filers/kelley_plucker_llc.md
+        - "KEVIN RYAN FOR OPPD": expenditures/filers/kevin_ryan_for_oppd.md
+        - "KIEWIT CORPORATION": expenditures/filers/kiewit_corporation.md
+        - "KINDIG FOR MAYOR": expenditures/filers/kindig_for_mayor.md
+        - "KINGERY CONSTRUCTION COMPANY": expenditures/filers/kingery_construction_company.md
+        - "KINNAN SCAPING LLC": expenditures/filers/kinnan_scaping_llc.md
+        - "KIRKHAM MICHAEL & ASSOCIATES INC": expenditures/filers/kirkham_michael_&_associates_inc.md
+        - "KISSEL KOHOUT ES ASSOCIATES LLC": expenditures/filers/kissel_kohout_es_associates_llc.md
+        - "KIT HELD SEED & CHEMICAL": expenditures/filers/kit_held_seed_&_chemical.md
+        - "KJ CROSSROADS LLC": expenditures/filers/kj_crossroads_llc.md
+        - "KLEIN FOR HALL COUNTY ATTORNEY COMMITTEE": expenditures/filers/klein_for_hall_county_attorney_committee.md
+        - "KLMBRW PROPERTIES LLC": expenditures/filers/klmbrw_properties_llc.md
+        - "KLUTE INVESTMENT SERVICES INC": expenditures/filers/klute_investment_services_inc.md
+        - "KM VENTURES INC": expenditures/filers/km_ventures_inc.md
+        - "KNOLL RANCH COMPANY": expenditures/filers/knoll_ranch_company.md
+        - "KOCH INDUSTRIES, INC.": expenditures/filers/koch_industries_inc.md
+        - "KOLTERMAN FOR LEGISLATURE": expenditures/filers/kolterman_for_legislature.md
+        - "KORUS FARMS LLC": expenditures/filers/korus_farms_llc.md
+        - "KRIS FOR LANCASTER CLERK": expenditures/filers/kris_for_lancaster_clerk.md
+        - "KRIS KARNES FOR WESTSIDE SCHOOL BOARD": expenditures/filers/kris_karnes_for_westside_school_board.md
+        - "KRISTI EGGER FOR LANCASTER COUNTY PUBLIC DEFENDER": expenditures/filers/kristi_egger_for_lancaster_county_public_defender.md
+        - "KRUEGER FOR THE PEOPLE": expenditures/filers/krueger_for_the_people.md
+        - "KRUSE COMPANY": expenditures/filers/kruse_company.md
+        - "KUM & GO": expenditures/filers/kum_&_go.md
+        - "L.G. ROLOFF CONSTRUCTION CO., INC.": expenditures/filers/lg_roloff_construction_co_inc.md
+        - "LA GRONE FOR LEGISLATURE": expenditures/filers/la_grone_for_legislature.md
+        - "LAMSON DUGAN & MURRAY LLP": expenditures/filers/lamson_dugan_&_murray_llp.md
+        - "LANCASTER COUNTY DEMOCRATS": expenditures/filers/lancaster_county_democrats.md
+        - "LANCASTER COUNTY REPUBLICAN PARTY": expenditures/filers/lancaster_county_republican_party.md
+        - "LANCASTER FORWARD": expenditures/filers/lancaster_forward.md
+        - "LANG LAW LLC": expenditures/filers/lang_law_llc.md
+        - "LANOHA REAL ESTATE COMPANY, INC.": expenditures/filers/lanoha_real_estate_company_inc.md
+        - "LANOHA SPRINGS, INC.": expenditures/filers/lanoha_springs_inc.md
+        - "LARRY BOLINGER FOR ATTORNEY GENERAL": expenditures/filers/larry_bolinger_for_attorney_general.md
+        - "LATHROP FOR LEGISLATURE": expenditures/filers/lathrop_for_legislature.md
+        - "LAURITSEN FOR NEBRASKA": expenditures/filers/lauritsen_for_nebraska.md
+        - "LAURITSEN VENTURES LLC": expenditures/filers/lauritsen_ventures_llc.md
+        - "LAURITZEN CORPORATION": expenditures/filers/lauritzen_corporation.md
+        - "LAWRENCE BURKE FOR SHERIFF": expenditures/filers/lawrence_burke_for_sheriff.md
+        - "LAZLO'S BREWERY AND GRILL": expenditures/filers/lazlos_brewery_and_grill.md
+        - "LEASE FOR LEGISLATURE": expenditures/filers/lease_for_legislature.md
+        - "LEBENSRAUM ASSISTED LIVING": expenditures/filers/lebensraum_assisted_living.md
+        - "LEE'S FORD INC": expenditures/filers/lees_ford_inc.md
+        - "LEIRION FOR LINCOLN MAYOR": expenditures/filers/leirion_for_lincoln_mayor.md
+        - "LELA MCNINCH FOR GOVERNOR": expenditures/filers/lela_mcninch_for_governor.md
+        - "LIN FOR CLERK OF THE DISTRICT COURT": expenditures/filers/lin_for_clerk_of_the_district_court.md
+        - "LINCOLN CENTRAL LABOR UNION COPE FUND": expenditures/filers/lincoln_central_labor_union_cope_fund.md
+        - "LINCOLN CHAMBER OF COMMERCE PAC": expenditures/filers/lincoln_chamber_of_commerce_pac.md
+        - "LINCOLN COUNTY FEEDYARD LLC": expenditures/filers/lincoln_county_feedyard_llc.md
+        - "LINCOLN INDEPENDENT BUSINESS ASSOCIATION PAC": expenditures/filers/lincoln_independent_business_association_pac.md
+        - "LINCOLN INDUSTRIES": expenditures/filers/lincoln_industries.md
+        - "LINCOLN PREMIUM POULTRY": expenditures/filers/lincoln_premium_poultry.md
+        - "LINCOLN SAFETY FOUNDATION": expenditures/filers/lincoln_safety_foundation.md
+        - "LINDAU FOR LEGISLATURE": expenditures/filers/lindau_for_legislature.md
+        - "LINEHAN FOR LEGISLATURE": expenditures/filers/linehan_for_legislature.md
+        - "LINPEPCO PEPSI": expenditures/filers/linpepco_pepsi.md
+        - "LKQ CORPORATION": expenditures/filers/lkq_corporation.md
+        - "LNK RECALL": expenditures/filers/lnk_recall.md
+        - "LOCAL UNION 1140 PAC FUND": expenditures/filers/local_union_1140_pac_fund.md
+        - "LOCKWOOD DEVELOPMENT INC": expenditures/filers/lockwood_development_inc.md
+        - "LORI SCHMIDT-LATHROP FOR CITY COUNCIL": expenditures/filers/lori_schmidtlathrop_for_city_council.md
+        - "LOU ANN GODING FOR LEGISLATURE": expenditures/filers/lou_ann_goding_for_legislature.md
+        - "LP KITT, FF, LLC": expenditures/filers/lp_kitt_ff_llc.md
+        - "LUEDER CONSTRUCTION": expenditures/filers/lueder_construction.md
+        - "LUMEN": expenditures/filers/lumen.md
+        - "LUTHER STARKS": expenditures/filers/luther_starks.md
+        - "LUTT TRUCKING INC": expenditures/filers/lutt_trucking_inc.md
+        - "LYDIA BRASCH FOR LEGISLATURE": expenditures/filers/lydia_brasch_for_legislature.md
+        - "LYMAN RICHEY CORPORATION": expenditures/filers/lyman_richey_corporation.md
+        - "LYNN WALZ FOR LEGISLATURE": expenditures/filers/lynn_walz_for_legislature.md
+        - "MACHAELA CAVANAUGH FOR LEGISLATURE": expenditures/filers/machaela_cavanaugh_for_legislature.md
+        - "MAKE LIBERTY WIN NEBRASKA": expenditures/filers/make_liberty_win_nebraska.md
+        - "MALIBU HOLDINGS": expenditures/filers/malibu_holdings.md
+        - "MALIBU PROPERTIES LLC": expenditures/filers/malibu_properties_llc.md
+        - "MARGO 4 OPS": expenditures/filers/margo_4_ops.md
+        - "MARIE GORDON INVESTMENTS LLC": expenditures/filers/marie_gordon_investments_llc.md
+        - "MARIJUANA POLICY PROJECT": expenditures/filers/marijuana_policy_project.md
+        - "MARILYN FOR DISTRICT 8": expenditures/filers/marilyn_for_district_8.md
+        - "MARK HOEGER FOR LCCC BOARD": expenditures/filers/mark_hoeger_for_lccc_board.md
+        - "MARK MONTGOMERY FOR DAWSON COUNTY SHERIFF": expenditures/filers/mark_montgomery_for_dawson_county_sheriff.md
+        - "MARK OVERMAN FOR SHERIFF": expenditures/filers/mark_overman_for_sheriff.md
+        - "MARY ANN BORGESON FOR COUNTY BOARD": expenditures/filers/mary_ann_borgeson_for_county_board.md
+        - "MARY HARDING FOR NPPD": expenditures/filers/mary_harding_for_nppd.md
+        - "MASER LAW LLC": expenditures/filers/maser_law_llc.md
+        - "MATT CORE FOR OPPD": expenditures/filers/matt_core_for_oppd.md
+        - "MATT DEAVER FOR LEGISLATURE": expenditures/filers/matt_deaver_for_legislature.md
+        - "MATT WILLIAMS FOR REGENT, INC": expenditures/filers/matt_williams_for_regent_inc.md
+        - "MAUREEN BOYLE FOR DOUGLAS COUNTY BOARD": expenditures/filers/maureen_boyle_for_douglas_county_board.md
+        - "MAXI MAE INC": expenditures/filers/maxi_mae_inc.md
+        - "MCARDLE GRADING COMPANY": expenditures/filers/mcardle_grading_company.md
+        - "MCC LLC": expenditures/filers/mcc_llc.md
+        - "MCCARTHY FOR METRO": expenditures/filers/mccarthy_for_metro.md
+        - "MCCAW FOR CITY COUNCIL": expenditures/filers/mccaw_for_city_council.md
+        - "MCCOLLISTER FOR LEGISLATURE": expenditures/filers/mccollister_for_legislature.md
+        - "MCCOLLISTER FOR MUD": expenditures/filers/mccollister_for_mud.md
+        - "MCGOWAN FOR MUD": expenditures/filers/mcgowan_for_mud.md
+        - "MCGRAW ROW CLEARING": expenditures/filers/mcgraw_row_clearing.md
+        - "MCNEA FOR LEGISLATURE": expenditures/filers/mcnea_for_legislature.md
+        - "ME COLLINS CONTRACTING CO INC": expenditures/filers/me_collins_contracting_co_inc.md
+        - "MEGINNIS FOR CITY COUNCIL": expenditures/filers/meginnis_for_city_council.md
+        - "MELISSA FREELEND FOR NPPD": expenditures/filers/melissa_freelend_for_nppd.md
+        - "MELLO FOR MAYOR": expenditures/filers/mello_for_mayor.md
+        - "MELTON FOR OMAHA": expenditures/filers/melton_for_omaha.md
+        - "MERCK SHARP & DOHME LLC": expenditures/filers/merck_sharp_&_dohme_llc.md
+        - "MERITHEW FOR SHERIFF": expenditures/filers/merithew_for_sheriff.md
+        - "METCALF COFFEE INC": expenditures/filers/metcalf_coffee_inc.md
+        - "METROPOLITAN OMAHA BUILDERS ASSOCIATION PAC": expenditures/filers/metropolitan_omaha_builders_association_pac.md
+        - "MEUSCH FOR COUNTY ASSESSOR": expenditures/filers/meusch_for_county_assessor.md
+        - "MICHAEL GROENE FOR LEGISLATURE": expenditures/filers/michael_groene_for_legislature.md
+        - "MICK LAW PC LLO": expenditures/filers/mick_law_pc_llo.md
+        - "MID AMERICA AGRI PRODUCTS LLC/ WHEATLAND LLC": expenditures/filers/mid_america_agri_products_llc_wheatland_llc.md
+        - "MID AMERICA BIO ENERGY & COMMODITIES LLC": expenditures/filers/mid_america_bio_energy_&_commodities_llc.md
+        - "MID AMERICA EXPOSITIONS INC": expenditures/filers/mid_america_expositions_inc.md
+        - "MIDLANDS CONTRACTING INC": expenditures/filers/midlands_contracting_inc.md
+        - "MIDWAY CHEVROLET BUICK CADILLAC INC": expenditures/filers/midway_chevrolet_buick_cadillac_inc.md
+        - "MIDWEST CHEMICAL - DLG INC": expenditures/filers/midwest_chemical__dlg_inc.md
+        - "MIDWEST ECO CLEAN SYSTEMS LLC": expenditures/filers/midwest_eco_clean_systems_llc.md
+        - "MIDWEST FARMS LLC": expenditures/filers/midwest_farms_llc.md
+        - "MIDWEST MAINTEANCE COMPANY INC": expenditures/filers/midwest_mainteance_company_inc.md
+        - "MIDWEST PARTITIONS": expenditures/filers/midwest_partitions.md
+        - "MIKE EVANS FOR GRETNA": expenditures/filers/mike_evans_for_gretna.md
+        - "MIKE FLOOD FOR NEBRASKA": expenditures/filers/mike_flood_for_nebraska.md
+        - "MIKE JACOBSON FOR LEGISLATURE": expenditures/filers/mike_jacobson_for_legislature.md
+        - "MIKE JAMES FOR CITY COUNCIL": expenditures/filers/mike_james_for_city_council.md
+        - "MIKE KENNEDY FOR REGENT": expenditures/filers/mike_kennedy_for_regent.md
+        - "MIKE MOSER FOR LEGISLATURE": expenditures/filers/mike_moser_for_legislature.md
+        - "MILLARD EDUCATION ASSOCIATION PAC": expenditures/filers/millard_education_association_pac.md
+        - "MILLARD GUTTER COMPANY": expenditures/filers/millard_gutter_company.md
+        - "MILLARD LUMBER INC": expenditures/filers/millard_lumber_inc.md
+        - "MILLER & ASSOCIATES": expenditures/filers/miller_&_associates.md
+        - "MINIMALLY INVASIVE THERAPEUTICS LLC": expenditures/filers/minimally_invasive_therapeutics_llc.md
+        - "MIRCH FOR LEGISLATURE": expenditures/filers/mirch_for_legislature.md
+        - "MISSOURI HEMP IMPROVEMENT COMPANY": expenditures/filers/missouri_hemp_improvement_company.md
+        - "MITCHELL MANAGEMENT COMPANY": expenditures/filers/mitchell_management_company.md
+        - "MJ CONCRETE CONCEPTS INC": expenditures/filers/mj_concrete_concepts_inc.md
+        - "MJ SENIOR HOUSING LLC": expenditures/filers/mj_senior_housing_llc.md
+        - "MNB FINANCIAL SERVICES INC": expenditures/filers/mnb_financial_services_inc.md
+        - "MONOLITH": expenditures/filers/monolith.md
+        - "MOODY MOTOR COMPANY INC": expenditures/filers/moody_motor_company_inc.md
+        - "MORAVEC AUCTION CO LLC": expenditures/filers/moravec_auction_co_llc.md
+        - "MORNING BREW CONCEPTS": expenditures/filers/morning_brew_concepts.md
+        - "MORRISON ENTERPRISES LLC": expenditures/filers/morrison_enterprises_llc.md
+        - "MR. PICNIC": expenditures/filers/mr_picnic.md
+        - "MUELLER ORDER BUYING LLC": expenditures/filers/mueller_order_buying_llc.md
+        - "MUELLER ROBAK LLC": expenditures/filers/mueller_robak_llc.md
+        - "MURRAY FOR MUD": expenditures/filers/murray_for_mud.md
+        - "MUTUAL OF OMAHA": expenditures/filers/mutual_of_omaha.md
+        - "N BOWDISH COMPANY LLC": expenditures/filers/n_bowdish_company_llc.md
+        - "NABITY FAMILY PROPERTIES LLC": expenditures/filers/nabity_family_properties_llc.md
+        - "NAI FMA REALTY": expenditures/filers/nai_fma_realty.md
+        - "NANCY KRATKY FOR SCHOOL BOARD": expenditures/filers/nancy_kratky_for_school_board.md
+        - "NAOMI HATTAWAY FOR CITY COUNCIL": expenditures/filers/naomi_hattaway_for_city_council.md
+        - "NAPE AFSCME PEOPLE": expenditures/filers/nape_afscme_people.md
+        - "NATIONAL ASSOCIATION OF REALTORS FUND": expenditures/filers/national_association_of_realtors_fund.md
+        - "NATIONAL FAST FOOD WORKERS UNION": expenditures/filers/national_fast_food_workers_union.md
+        - "NATIONAL FEDERATION OF INDEPENDENT BUSINESS NEBRASKA PAC": expenditures/filers/national_federation_of_independent_business_nebraska_pac.md
+        - "NATIONAL RIFLE ASSOCIATION PAC (NRA PAC)": expenditures/filers/national_rifle_association_pac_nra_pac.md
+        - "NATIONAL UTILITY CONTRACTORS ASSOCIATION OF NE PAC": expenditures/filers/national_utility_contractors_association_of_ne_pac.md
+        - "NAVIGATOR CO2 VENTURES LLC": expenditures/filers/navigator_co2_ventures_llc.md
+        - "NE COLORADO CELLULAR, INC. D/B/A VIAERO WIRELESS": expenditures/filers/ne_colorado_cellular_inc_dba_viaero_wireless.md
+        - "NEARY FOR STATE BOARD OF EDUCATION": expenditures/filers/neary_for_state_board_of_education.md
+        - "NEBCO, INC": expenditures/filers/nebco_inc.md
+        - "NEBRASKA ACADEMY OF EYE PHYSICIANS AND SURGEONS PAC": expenditures/filers/nebraska_academy_of_eye_physicians_and_surgeons_pac.md
+        - "NEBRASKA ACADEMY OF FAMILY PHYSICIANS": expenditures/filers/nebraska_academy_of_family_physicians.md
+        - "NEBRASKA ACTION COMMITTEE FOR RURAL ELECTRICIFICATION PAC": expenditures/filers/nebraska_action_committee_for_rural_electricification_pac.md
+        - "NEBRASKA APPLESEED ACTION FUND": expenditures/filers/nebraska_appleseed_action_fund.md
+        - "NEBRASKA APPLESEED CENTER FOR LAW IN THE PUBLIC INTEREST": expenditures/filers/nebraska_appleseed_center_for_law_in_the_public_interest.md
+        - "NEBRASKA ASSOCIATION OF NURSE ANESTHETISTS PAC": expenditures/filers/nebraska_association_of_nurse_anesthetists_pac.md
+        - "NEBRASKA ASSOCIATION OF TRIAL ATTORNEYS PAC": expenditures/filers/nebraska_association_of_trial_attorneys_pac.md
+        - "NEBRASKA BANK OF COMMERCE": expenditures/filers/nebraska_bank_of_commerce.md
+        - "NEBRASKA BANKERS ASSOCIATION": expenditures/filers/nebraska_bankers_association.md
+        - "NEBRASKA BANKERS STATE POLITICAL ACTION COMMITTEE": expenditures/filers/nebraska_bankers_state_political_action_committee.md
+        - "NEBRASKA CABLE COMMUNICATIONS ASSOCIATION PAC": expenditures/filers/nebraska_cable_communications_association_pac.md
+        - "NEBRASKA CANNABIS ASSOCIATION": expenditures/filers/nebraska_cannabis_association.md
+        - "NEBRASKA CATTLEMEN INC NC STATE PAC": expenditures/filers/nebraska_cattlemen_inc_nc_state_pac.md
+        - "NEBRASKA CHAMBER OF COMMERCE AND INDUSTRY PAC": expenditures/filers/nebraska_chamber_of_commerce_and_industry_pac.md
+        - "NEBRASKA CHIROPRACTIC PHYSICIANS ASSOCIATION": expenditures/filers/nebraska_chiropractic_physicians_association.md
+        - "NEBRASKA CIVIC ENGAGEMENT TABLE": expenditures/filers/nebraska_civic_engagement_table.md
+        - "NEBRASKA CONSTRUCTION INDUSTRY PAC": expenditures/filers/nebraska_construction_industry_pac.md
+        - "NEBRASKA COOPERATIVE COUNCIL - POLITICAL ACTION COMMITTEE": expenditures/filers/nebraska_cooperative_council__political_action_committee.md
+        - "NEBRASKA CREDIT UNION LEAGUE": expenditures/filers/nebraska_credit_union_league.md
+        - "NEBRASKA CREDIT UNION LEAGUE LEGISLATIVE ACTION COMMITTEE": expenditures/filers/nebraska_credit_union_league_legislative_action_committee.md
+        - "NEBRASKA DEMOCRATIC PARTY": expenditures/filers/nebraska_democratic_party.md
+        - "NEBRASKA DENTAL ASSOCIATION PAC": expenditures/filers/nebraska_dental_association_pac.md
+        - "NEBRASKA DENTAL HYGIENISTS PAC": expenditures/filers/nebraska_dental_hygienists_pac.md
+        - "NEBRASKA FAMILIES 4 MEDICAL CANNABIS": expenditures/filers/nebraska_families_4_medical_cannabis.md
+        - "NEBRASKA FAMILY PAC": expenditures/filers/nebraska_family_pac.md
+        - "NEBRASKA FARM BUREAU": expenditures/filers/nebraska_farm_bureau.md
+        - "NEBRASKA FARM BUREAU FEDERATION PAC": expenditures/filers/nebraska_farm_bureau_federation_pac.md
+        - "NEBRASKA FARM PAC": expenditures/filers/nebraska_farm_pac.md
+        - "NEBRASKA FEDERATION FOR CHILDREN": expenditures/filers/nebraska_federation_for_children.md
+        - "NEBRASKA FIRST PAC": expenditures/filers/nebraska_first_pac.md
+        - "NEBRASKA FRATERNAL ORDER OF POLICE": expenditures/filers/nebraska_fraternal_order_of_police.md
+        - "NEBRASKA FREEDOM COALITION": expenditures/filers/nebraska_freedom_coalition.md
+        - "NEBRASKA FUNERAL DIRECTORS ASSOCIATION PAC (NEFDA PAC)": expenditures/filers/nebraska_funeral_directors_association_pac_nefda_pac.md
+        - "NEBRASKA FUTURE ACTION FUND": expenditures/filers/nebraska_future_action_fund.md
+        - "NEBRASKA GREAT PLAINS LABORERS DISTRICT COUNCIL PAC FUND (GPLDC PAC)": expenditures/filers/nebraska_great_plains_laborers_district_council_pac_fund_gpldc_pac.md
+        - "NEBRASKA GROCERY INDUSTRY ASSOCIATION": expenditures/filers/nebraska_grocery_industry_association.md
+        - "NEBRASKA GROCERY INDUSTRY ASSOCIATION PAC": expenditures/filers/nebraska_grocery_industry_association_pac.md
+        - "NEBRASKA HORSEMENS & BENEVOLENT PROTECTIVE ASSN (HBPA)": expenditures/filers/nebraska_horsemens_&_benevolent_protective_assn_hbpa.md
+        - "NEBRASKA HOSPITAL ASSOCIATION NHA": expenditures/filers/nebraska_hospital_association_nha.md
+        - "NEBRASKA HOSPITAL ASSOCIATION PAC": expenditures/filers/nebraska_hospital_association_pac.md
+        - "NEBRASKA INDEPENDENT COMMUNITY BANKERS PAC": expenditures/filers/nebraska_independent_community_bankers_pac.md
+        - "NEBRASKA INSURANCE AND FINANCIAL ADVISORS PAC": expenditures/filers/nebraska_insurance_and_financial_advisors_pac.md
+        - "NEBRASKA INSURANCE FEDERATION PAC": expenditures/filers/nebraska_insurance_federation_pac.md
+        - "NEBRASKA LAND TITLE ASSOCIATION PAC": expenditures/filers/nebraska_land_title_association_pac.md
+        - "NEBRASKA MEDICAL PAC": expenditures/filers/nebraska_medical_pac.md
+        - "NEBRASKA NEW ENERGY ECONOMY PAC": expenditures/filers/nebraska_new_energy_economy_pac.md
+        - "NEBRASKA NURSES ASSOCIATION PAC": expenditures/filers/nebraska_nurses_association_pac.md
+        - "NEBRASKA OPTOMETRIC ASSOCIATION PAC": expenditures/filers/nebraska_optometric_association_pac.md
+        - "NEBRASKA PETROLEUM MARKETERS & CONVENIENCE STORE ASSOCIATION": expenditures/filers/nebraska_petroleum_marketers_&_convenience_store_association.md
+        - "NEBRASKA PETROLEUM PAC": expenditures/filers/nebraska_petroleum_pac.md
+        - "NEBRASKA PHARM PAC": expenditures/filers/nebraska_pharm_pac.md
+        - "NEBRASKA PHYSICAL THERAPY PAC": expenditures/filers/nebraska_physical_therapy_pac.md
+        - "NEBRASKA REALTORS PAC": expenditures/filers/nebraska_realtors_pac.md
+        - "NEBRASKA REPUBLICAN PARTY": expenditures/filers/nebraska_republican_party.md
+        - "NEBRASKA RIGHT TO LIFE PAC": expenditures/filers/nebraska_right_to_life_pac.md
+        - "NEBRASKA RURAL BROADBAND PAC": expenditures/filers/nebraska_rural_broadband_pac.md
+        - "NEBRASKA SHOOTERS, LLC": expenditures/filers/nebraska_shooters_llc.md
+        - "NEBRASKA SOCIETY OF CERTIFIED PUBLIC ACCOUNTANTS PAC": expenditures/filers/nebraska_society_of_certified_public_accountants_pac.md
+        - "NEBRASKA STATE AFL-CIO": expenditures/filers/nebraska_state_aflcio.md
+        - "NEBRASKA STATE BANK & TRUST COMPANY": expenditures/filers/nebraska_state_bank_&_trust_company.md
+        - "NEBRASKA STATE EDUCATION ASSOCIATION (NSEA)": expenditures/filers/nebraska_state_education_association_nsea.md
+        - "NEBRASKA STATE EDUCATION ASSOCIATION PAC": expenditures/filers/nebraska_state_education_association_pac.md
+        - "NEBRASKA STATE HOME BUILDERS ASSOCIATION PAC": expenditures/filers/nebraska_state_home_builders_association_pac.md
+        - "NEBRASKA STRATEGIES": expenditures/filers/nebraska_strategies.md
+        - "NEBRASKA TECHNICAL SERVICES INC": expenditures/filers/nebraska_technical_services_inc.md
+        - "NEBRASKA TELECOMMUNICATIONS ASSOCIATION PAC": expenditures/filers/nebraska_telecommunications_association_pac.md
+        - "NEBRASKA TRUCKING ASSOCIATION PAC": expenditures/filers/nebraska_trucking_association_pac.md
+        - "NEBRASKA UNITY POLITICAL ACTION COMMITTEE": expenditures/filers/nebraska_unity_political_action_committee.md
+        - "NEBRASKA YOUNG DEMOCRATS": expenditures/filers/nebraska_young_democrats.md
+        - "NEBRASKALAND BANK": expenditures/filers/nebraskaland_bank.md
+        - "NEBRASKALAND BROKERS LLC": expenditures/filers/nebraskaland_brokers_llc.md
+        - "NEBRASKALAND FINANCIAL SERVICES": expenditures/filers/nebraskaland_financial_services.md
+        - "NEBRASKALINK HOLDINGS LLC": expenditures/filers/nebraskalink_holdings_llc.md
+        - "NEBRASKANS AGAINST CORRUPTION": expenditures/filers/nebraskans_against_corruption.md
+        - "NEBRASKANS FOR CAROL BLOOD": expenditures/filers/nebraskans_for_carol_blood.md
+        - "NEBRASKANS FOR COMMON GROUND": expenditures/filers/nebraskans_for_common_ground.md
+        - "NEBRASKANS FOR EVAN SCHMEITS": expenditures/filers/nebraskans_for_evan_schmeits.md
+        - "NEBRASKANS FOR FISCAL RESPONSIBILITY": expenditures/filers/nebraskans_for_fiscal_responsibility.md
+        - "NEBRASKANS FOR FREE AND FAIR ELECTIONS": expenditures/filers/nebraskans_for_free_and_fair_elections.md
+        - "NEBRASKANS FOR INDEPENDENT REDISTRICTING": expenditures/filers/nebraskans_for_independent_redistricting.md
+        - "NEBRASKANS FOR KAMLER": expenditures/filers/nebraskans_for_kamler.md
+        - "NEBRASKANS FOR LOREN LIPPINCOTT": expenditures/filers/nebraskans_for_loren_lippincott.md
+        - "NEBRASKANS FOR MCGILL JOHNSON": expenditures/filers/nebraskans_for_mcgill_johnson.md
+        - "NEBRASKANS FOR MURANTE": expenditures/filers/nebraskans_for_murante.md
+        - "NEBRASKANS FOR NABITY": expenditures/filers/nebraskans_for_nabity.md
+        - "NEBRASKANS FOR NEBRASKA": expenditures/filers/nebraskans_for_nebraska.md
+        - "NEBRASKANS FOR PETE PIRSCH": expenditures/filers/nebraskans_for_pete_pirsch.md
+        - "NEBRASKANS FOR RELIABLE AND AFFORDABLE ELECTRICITY": expenditures/filers/nebraskans_for_reliable_and_affordable_electricity.md
+        - "NEBRASKANS FOR RESPONSIBLE LENDING": expenditures/filers/nebraskans_for_responsible_lending.md
+        - "NEBRASKANS FOR SCHRAM": expenditures/filers/nebraskans_for_schram.md
+        - "NEBRASKANS FOR THE GOOD LIFE": expenditures/filers/nebraskans_for_the_good_life.md
+        - "NEBRASKANS FOR THERESA": expenditures/filers/nebraskans_for_theresa.md
+        - "NEIGHBORS FOR CAVANAUGH": expenditures/filers/neighbors_for_cavanaugh.md
+        - "NEIGHBORS FOR MEGAN HUNT": expenditures/filers/neighbors_for_megan_hunt.md
+        - "NEIGHBORS FOR NANCY PETITTO": expenditures/filers/neighbors_for_nancy_petitto.md
+        - "NEIGHBORS FOR SEAN FLOWERDAY": expenditures/filers/neighbors_for_sean_flowerday.md
+        - "NELSEN ENTERPRISES INC DBA VICTOR OUTDOOR ADVERTISING": expenditures/filers/nelsen_enterprises_inc_dba_victor_outdoor_advertising.md
+        - "NELSON FOR CHERRY COUNTY": expenditures/filers/nelson_for_cherry_county.md
+        - "NEW HORIZONS ENTERPRISES LLC": expenditures/filers/new_horizons_enterprises_llc.md
+        - "NEX NEBRASKA CROSSING": expenditures/filers/nex_nebraska_crossing.md
+        - "NEXTERA ENERGY RESOURCES LLC": expenditures/filers/nextera_energy_resources_llc.md
+        - "NFFV ACTION PAC": expenditures/filers/nffv_action_pac.md
+        - "NMM": expenditures/filers/nmm.md
+        - "NOMI HEALTH INC": expenditures/filers/nomi_health_inc.md
+        - "NONPROFIT SHARED SERVICES LLC": expenditures/filers/nonprofit_shared_services_llc.md
+        - "NORA BORER FOR ASSESSOR": expenditures/filers/nora_borer_for_assessor.md
+        - "NOWKA AND EDWARDS": expenditures/filers/nowka_and_edwards.md
+        - "NP REALITY INC": expenditures/filers/np_reality_inc.md
+        - "NUCOR CORPORATION PAC OF NEBRASKA": expenditures/filers/nucor_corporation_pac_of_nebraska.md
+        - "NUCOR STEEL NEBRASKA": expenditures/filers/nucor_steel_nebraska.md
+        - "NUHAVEN BUILDERS LLC": expenditures/filers/nuhaven_builders_llc.md
+        - "O'HARA LINDSAY & ASSOCIATES, INC": expenditures/filers/ohara_lindsay_&_associates_inc.md
+        - "OAKLAND FINANCIAL SERVICES INC": expenditures/filers/oakland_financial_services_inc.md
+        - "OLSEN LAW OFFICES, PC, LLO": expenditures/filers/olsen_law_offices_pc_llo.md
+        - "OLSON FARMS INC": expenditures/filers/olson_farms_inc.md
+        - "OLSSON FOR LINCOLN AIRPORT AUTHORITY": expenditures/filers/olsson_for_lincoln_airport_authority.md
+        - "OLSSON INC.": expenditures/filers/olsson_inc.md
+        - "OMAHA & SOUTHWEST IOWA BUILDING & TRADES": expenditures/filers/omaha_&_southwest_iowa_building_&_trades.md
+        - "OMAHA EDUCATION ASSOCIATION PAC": expenditures/filers/omaha_education_association_pac.md
+        - "OMAHA FEDERATION OF LABOR COMITTEE ON POLITICAL EDUCATION": expenditures/filers/omaha_federation_of_labor_comittee_on_political_education.md
+        - "OMAHA POLICE OFFICERS' ASSOCIATION": expenditures/filers/omaha_police_officers_association.md
+        - "OMAHA PROFESSIONAL FIREFIGHTERS LOCAL 385": expenditures/filers/omaha_professional_firefighters_local_385.md
+        - "OMNI ENGINEERING": expenditures/filers/omni_engineering.md
+        - "ONE VISTA LLC": expenditures/filers/one_vista_llc.md
+        - "ONWARD LINCOLN": expenditures/filers/onward_lincoln.md
+        - "OPPORTUNITY KNOCKS": expenditures/filers/opportunity_knocks.md
+        - "OR NEBRASKA SOC": expenditures/filers/or_nebraska_soc.md
+        - "OTB ARIZONA LLC": expenditures/filers/otb_arizona_llc.md
+        - "OUR OMAHA": expenditures/filers/our_omaha.md
+        - "OUTLINC, INC DBA OUTNEBRASKA": expenditures/filers/outlinc_inc_dba_outnebraska.md
+        - "OZVP VI LLC": expenditures/filers/ozvp_vi_llc.md
+        - "PACESETTER HOMES INC": expenditures/filers/pacesetter_homes_inc.md
+        - "PACIFIC LIFE INSURANCE COMPANY": expenditures/filers/pacific_life_insurance_company.md
+        - "PAM DINGMAN FOR NEBRASKA": expenditures/filers/pam_dingman_for_nebraska.md
+        - "PANSING BROOKS FOR LEGISLATURE": expenditures/filers/pansing_brooks_for_legislature.md
+        - "PANSING, HOGAN, ERNST & BACHMAN LLP": expenditures/filers/pansing_hogan_ernst_&_bachman_llp.md
+        - "PANTOS FOR COUNTY ATTORNEY": expenditures/filers/pantos_for_county_attorney.md
+        - "PAPILLION PROFESSIONAL FIREFIGHTERS IAFF LOCAL 3767": expenditures/filers/papillion_professional_firefighters_iaff_local_3767.md
+        - "PARENTS FOR MIKE KENNEDY": expenditures/filers/parents_for_mike_kennedy.md
+        - "PAT MOORE FOR STATE BOARD OF EDUCATION": expenditures/filers/pat_moore_for_state_board_of_education.md
+        - "PAT VENDITTE DBA CORNHUSKER DRIVING SCHOOL": expenditures/filers/pat_venditte_dba_cornhusker_driving_school.md
+        - "PATE FOR MILLARD SCHOOL BOARD": expenditures/filers/pate_for_millard_school_board.md
+        - "PATEFIELD FOR LEGISLATURE": expenditures/filers/patefield_for_legislature.md
+        - "PATHWAY BANK": expenditures/filers/pathway_bank.md
+        - "PATRICK HOTOVY FOR NEBRASKA": expenditures/filers/patrick_hotovy_for_nebraska.md
+        - "PATRICK J BIRKEL FOR CITY COUNCIL": expenditures/filers/patrick_j_birkel_for_city_council.md
+        - "PATRICK LEAHY FOR NRD BOARD": expenditures/filers/patrick_leahy_for_nrd_board.md
+        - "PATRICK ROY FOR EPS": expenditures/filers/patrick_roy_for_eps.md
+        - "PATSY KOCH JOHNS FOR QUALITY EDUCATION": expenditures/filers/patsy_koch_johns_for_quality_education.md
+        - "PAUL KENNEY FOR REGENT COMMITTEE": expenditures/filers/paul_kenney_for_regent_committee.md
+        - "PAUL VRBKA FOR SHERIFF": expenditures/filers/paul_vrbka_for_sheriff.md
+        - "PEETZ & COMPANY": expenditures/filers/peetz_&_company.md
+        - "PENDLETON CATTLE LLC DBA TD ANGUS": expenditures/filers/pendleton_cattle_llc_dba_td_angus.md
+        - "PENNER FOR STATE BOARD OF EDUCATION": expenditures/filers/penner_for_state_board_of_education.md
+        - "PENNER MANUFACTURING INC": expenditures/filers/penner_manufacturing_inc.md
+        - "PENNER PATIENT CARE INC": expenditures/filers/penner_patient_care_inc.md
+        - "PEOPLE FOR NOLTE COMMITTEE": expenditures/filers/people_for_nolte_committee.md
+        - "PEOPLE FOR PAUL SCHUMACHER": expenditures/filers/people_for_paul_schumacher.md
+        - "PEOPLE FOR TERRELL MCKINNEY": expenditures/filers/people_for_terrell_mckinney.md
+        - "PERRY MULLER FARMS INC": expenditures/filers/perry_muller_farms_inc.md
+        - "PETE RICKETTS FOR GOVERNOR": expenditures/filers/pete_ricketts_for_governor.md
+        - "PFIZER INC": expenditures/filers/pfizer_inc.md
+        - "PHARES FOR REGENT": expenditures/filers/phares_for_regent.md
+        - "PHARMACEUTICAL CARE MANAGEMENT ASSOCIATION": expenditures/filers/pharmaceutical_care_management_association.md
+        - "PHARMACEUTICAL RESEARCH AND MANUFACTURERS OF AMERICA (PHRMA)": expenditures/filers/pharmaceutical_research_and_manufacturers_of_america_phrma.md
+        - "PHYSICIANS MUTUAL INSURANCE COMPANY": expenditures/filers/physicians_mutual_insurance_company.md
+        - "PINNACLE BANCORP, INC": expenditures/filers/pinnacle_bancorp_inc.md
+        - "PINNACLE BANK KEARNEY": expenditures/filers/pinnacle_bank_kearney.md
+        - "PITSTOP INC": expenditures/filers/pitstop_inc.md
+        - "PITTS FOR SHERIFF": expenditures/filers/pitts_for_sheriff.md
+        - "PLACE TO PLAY": expenditures/filers/place_to_play.md
+        - "PLANNED PARENTHOOD ADVOCATES OF NEBRASKA": expenditures/filers/planned_parenthood_advocates_of_nebraska.md
+        - "PLATTE VALLEY FINANCIAL SERVICES COMPANIES, INC": expenditures/filers/platte_valley_financial_services_companies_inc.md
+        - "PLATTSMOUTH COLLISION REPAIR INC": expenditures/filers/plattsmouth_collision_repair_inc.md
+        - "PLAYERS KENO INC DBA JERZES SPORTS BAR & KENO": expenditures/filers/players_keno_inc_dba_jerzes_sports_bar_&_keno.md
+        - "PLUMBER LOCAL UNION #16 COPE FUND": expenditures/filers/plumber_local_union_16_cope_fund.md
+        - "POET LLC": expenditures/filers/poet_llc.md
+        - "POLLACK & BALL LLC": expenditures/filers/pollack_&_ball_llc.md
+        - "POP PAC (NEBRASKA BEVERAGE ASSOCIATION)": expenditures/filers/pop_pac_nebraska_beverage_association.md
+        - "POSITIVE NEBRASKA": expenditures/filers/positive_nebraska.md
+        - "PRAIRIE VIEW ROOFING AND DEVELOPMENT LLC": expenditures/filers/prairie_view_roofing_and_development_llc.md
+        - "PREBLE FOR PUBLIC DEFENDER": expenditures/filers/preble_for_public_defender.md
+        - "PREMIER MIDWEST BEVERAGE COMPANY": expenditures/filers/premier_midwest_beverage_company.md
+        - "PRESERVE THE GOOD LIFE": expenditures/filers/preserve_the_good_life.md
+        - "PRIMO'S 2 LLC": expenditures/filers/primos_2_llc.md
+        - "PROFESSIONAL INSURANCE AGENTS OF NEBRASKA PAC": expenditures/filers/professional_insurance_agents_of_nebraska_pac.md
+        - "PROHASKA FOR SHERIFF": expenditures/filers/prohaska_for_sheriff.md
+        - "PRONTO FUEL LLC": expenditures/filers/pronto_fuel_llc.md
+        - "PROTECT NEBRASKA CHILDREN - PAC": expenditures/filers/protect_nebraska_children__pac.md
+        - "QUALITY AUTO REPAIR & TOWING INC": expenditures/filers/quality_auto_repair_&_towing_inc.md
+        - "QUALITY BRANDS DISTRIBUTION": expenditures/filers/quality_brands_distribution.md
+        - "QUANTUM MANAGEMENT, LLC": expenditures/filers/quantum_management_llc.md
+        - "R & R CHRISTO CONSTRUCTION LLC": expenditures/filers/r_&_r_christo_construction_llc.md
+        - "R TALLMON INC (TALLMON JEWELERS)": expenditures/filers/r_tallmon_inc_tallmon_jewelers.md
+        - "R&B FAMILY FARM LLC": expenditures/filers/r&b_family_farm_llc.md
+        - "RA POPP ENTERTAINMENT INC": expenditures/filers/ra_popp_entertainment_inc.md
+        - "RACHEL GARVER FOR COUNTY TREASURER": expenditures/filers/rachel_garver_for_county_treasurer.md
+        - "RACHEL L ORMSBY FOR REGISTER OF DEEDS": expenditures/filers/rachel_l_ormsby_for_register_of_deeds.md
+        - "RAEGAN HAIN FOR SEWARD COUNTY COMMISSIONER DISTRICT 3": expenditures/filers/raegan_hain_for_seward_county_commissioner_district_3.md
+        - "RAISE THE WAGE NEBRASKA": expenditures/filers/raise_the_wage_nebraska.md
+        - "RATHSKELLER BIER HAUS LLC": expenditures/filers/rathskeller_bier_haus_llc.md
+        - "RAY AGUILAR FOR LEGISLATURE": expenditures/filers/ray_aguilar_for_legislature.md
+        - "RAYBOULD FOR CITY COUNCIL": expenditures/filers/raybould_for_city_council.md
+        - "RE-ELECT MICHAEL HENRY PHELPS COUNTY ATTORNEY": expenditures/filers/reelect_michael_henry_phelps_county_attorney.md
+        - "REAGAN MELTON & DELANEY LLP": expenditures/filers/reagan_melton_&_delaney_llp.md
+        - "RECONNECT INC": expenditures/filers/reconnect_inc.md
+        - "RED REBEL MEDIA LLC": expenditures/filers/red_rebel_media_llc.md
+        - "REELECT DAVID P BLACK FOR MAYOR": expenditures/filers/reelect_david_p_black_for_mayor.md
+        - "REGENCY HOMES": expenditures/filers/regency_homes.md
+        - "REGIER EQUIPMENT CO., INC.": expenditures/filers/regier_equipment_co_inc.md
+        - "REGIONAL CARE INCORPORATION": expenditures/filers/regional_care_incorporation.md
+        - "REGISTER FOR COUNTY ATTORNEY 2022": expenditures/filers/register_for_county_attorney_2022.md
+        - "REIGLE CATTLE CO LLC": expenditures/filers/reigle_cattle_co_llc.md
+        - "REINKE MANUFACTURING COMPANY INC": expenditures/filers/reinke_manufacturing_company_inc.md
+        - "RENEWABLE FUELS NEBRASKA": expenditures/filers/renewable_fuels_nebraska.md
+        - "REPUBLIC NATIONAL DISTRIBUTING COMPANY LLC": expenditures/filers/republic_national_distributing_company_llc.md
+        - "RESTORE THE GOOD LIFE INC": expenditures/filers/restore_the_good_life_inc.md
+        - "REYNOLDS AMERICAN INC. / RAI SERVICES": expenditures/filers/reynolds_american_inc__rai_services.md
+        - "RICH PETERS AGENCY INC": expenditures/filers/rich_peters_agency_inc.md
+        - "RICHARDS FOR NEBRASKA": expenditures/filers/richards_for_nebraska.md
+        - "RICK CONRAD FOR HALL COUNTY SHERIFF": expenditures/filers/rick_conrad_for_hall_county_sheriff.md
+        - "RICK HOLDCROFT FOR LEGISLATURE DISTRICT 36": expenditures/filers/rick_holdcroft_for_legislature_district_36.md
+        - "RIDENOUR FOR GOVERNOR": expenditures/filers/ridenour_for_governor.md
+        - "RIEPE FOR NEBRASKA": expenditures/filers/riepe_for_nebraska.md
+        - "RIVERSIDE TRUCK CENTER DBA NEBRASKA PETERBILT": expenditures/filers/riverside_truck_center_dba_nebraska_peterbilt.md
+        - "RIVERSTONE BANK": expenditures/filers/riverstone_bank.md
+        - "ROANOKE DEVELOPMENT LLC": expenditures/filers/roanoke_development_llc.md
+        - "ROB CLEMENTS FOR LEGISLATURE": expenditures/filers/rob_clements_for_legislature.md
+        - "ROB OGDEN FOR ASSESSOR": expenditures/filers/rob_ogden_for_assessor.md
+        - "ROB SCHAFER FOR BOARD OF REGENTS": expenditures/filers/rob_schafer_for_board_of_regents.md
+        - "ROBERT J BORER FOR GOVERNOR": expenditures/filers/robert_j_borer_for_governor.md
+        - "ROBERT SORENSON FOR SHERIFF": expenditures/filers/robert_sorenson_for_sheriff.md
+        - "ROBIN STEVENS CAMPAIGN": expenditures/filers/robin_stevens_campaign.md
+        - "ROCHESTER ARMORED CAR CO INC": expenditures/filers/rochester_armored_car_co_inc.md
+        - "ROCKING J TODD COMPANY": expenditures/filers/rocking_j_todd_company.md
+        - "ROD JOHNSON FOR PSC": expenditures/filers/rod_johnson_for_psc.md
+        - "ROE CHEVROLET BUICK": expenditures/filers/roe_chevrolet_buick.md
+        - "ROGER STEELE FOR MAYOR": expenditures/filers/roger_steele_for_mayor.md
+        - "ROMA AMUNDSON FOR COUNTY COMMISSIONER": expenditures/filers/roma_amundson_for_county_commissioner.md
+        - "ROSENBERG INSURANCE INC": expenditures/filers/rosenberg_insurance_inc.md
+        - "ROY M ZACH FOR LEGISLATURE 22": expenditures/filers/roy_m_zach_for_legislature_22.md
+        - "ROYERS FOR NEBRASKA": expenditures/filers/royers_for_nebraska.md
+        - "RTW MARKETING LLC": expenditures/filers/rtw_marketing_llc.md
+        - "RURAL NEBRASKANS FOR BARRY DEKAY": expenditures/filers/rural_nebraskans_for_barry_dekay.md
+        - "RUST FOR SHERIFF": expenditures/filers/rust_for_sheriff.md
+        - "S & G INC": expenditures/filers/s_&_g_inc.md
+        - "SAATHOFF LAW GROUP PC LLC": expenditures/filers/saathoff_law_group_pc_llc.md
+        - "SAFARI CIGARS AND LOUNGE": expenditures/filers/safari_cigars_and_lounge.md
+        - "SAKALOSKY FOR LEGISLATURE": expenditures/filers/sakalosky_for_legislature.md
+        - "SAMPSON CONSTRUCTION COMPANY INC": expenditures/filers/sampson_construction_company_inc.md
+        - "SANDERS FOR LEGISLATURE": expenditures/filers/sanders_for_legislature.md
+        - "SANDHILLS GLOBAL, INC.": expenditures/filers/sandhills_global_inc.md
+        - "SANDY PINES SYSTEMS INC": expenditures/filers/sandy_pines_systems_inc.md
+        - "SARA HOWARD FOR OPPD": expenditures/filers/sara_howard_for_oppd.md
+        - "SARPY COUNTY DEMOCRATIC PARTY": expenditures/filers/sarpy_county_democratic_party.md
+        - "SARPY COUNTY REPUBLICAN PARTY": expenditures/filers/sarpy_county_republican_party.md
+        - "SAVE NEBRASKA": expenditures/filers/save_nebraska.md
+        - "SAY NO TO RINOS": expenditures/filers/say_no_to_rinos.md
+        - "SCHEER ELECTRIC": expenditures/filers/scheer_electric.md
+        - "SCHEER FOR STATE LEGISLATURE": expenditures/filers/scheer_for_state_legislature.md
+        - "SCHORR FOR COUNTY COMMISSIONER": expenditures/filers/schorr_for_county_commissioner.md
+        - "SCHUYLER WINDHAM FOR NEBRASKA": expenditures/filers/schuyler_windham_for_nebraska.md
+        - "SCOULAR COMPANY, THE": expenditures/filers/scoular_company_the.md
+        - "SEACREST FOR NRD": expenditures/filers/seacrest_for_nrd.md
+        - "SEAN SWANSON FOR MILLARD PUBLIC SCHOOL BOARD": expenditures/filers/sean_swanson_for_millard_public_school_board.md
+        - "SECURITY NATIONAL CORPORATION": expenditures/filers/security_national_corporation.md
+        - "SEI OPERATIONS": expenditures/filers/sei_operations.md
+        - "SEIU SERVICE EMPLOYEES INTERNATIONAL UNION": expenditures/filers/seiu_service_employees_international_union.md
+        - "SELDIN, LLC": expenditures/filers/seldin_llc.md
+        - "SET 4 ELKHORN": expenditures/filers/set_4_elkhorn.md
+        - "SHAWN MESSERLIE FOR SHERIFF": expenditures/filers/shawn_messerlie_for_sheriff.md
+        - "SHE'S ELECTABLE NEBRASKA LLC": expenditures/filers/shes_electable_nebraska_llc.md
+        - "SHEET METAL WORKERS LOCAL 3 COPE FUND": expenditures/filers/sheet_metal_workers_local_3_cope_fund.md
+        - "SHERRY JONES 4 NE KIDS": expenditures/filers/sherry_jones_4_ne_kids.md
+        - "SHERRY L MORROW FOR COUNTY COMMISSIONER": expenditures/filers/sherry_l_morrow_for_county_commissioner.md
+        - "SHIRLEY J WITTE": expenditures/filers/shirley_j_witte.md
+        - "SIERRA CLUB PAC NEBRASKA CHAPTER": expenditures/filers/sierra_club_pac_nebraska_chapter.md
+        - "SIXTEEN THIRTY FUND": expenditures/filers/sixteen_thirty_fund.md
+        - "SKILLWORK LLC": expenditures/filers/skillwork_llc.md
+        - "SLATTERY FOR NEBRASKA": expenditures/filers/slattery_for_nebraska.md
+        - "SLK INC": expenditures/filers/slk_inc.md
+        - "SMITHFIELD FOODS INC": expenditures/filers/smithfield_foods_inc.md
+        - "SMOKE RING INC DBA COPA CABANA": expenditures/filers/smoke_ring_inc_dba_copa_cabana.md
+        - "SNELL SERVICES INC": expenditures/filers/snell_services_inc.md
+        - "SOLHEIM FOR SALINE COUNTY ATTORNEY": expenditures/filers/solheim_for_saline_county_attorney.md
+        - "SOUTHERN GLAZER'S WINE & SPIRITS OF NEBRASKA": expenditures/filers/southern_glazers_wine_&_spirits_of_nebraska.md
+        - "SOUTHERN WINE & SPIRITS OF NEBRASKA INC": expenditures/filers/southern_wine_&_spirits_of_nebraska_inc.md
+        - "SPALDING CONSTRUCTION INC": expenditures/filers/spalding_construction_inc.md
+        - "SPARTANNASH": expenditures/filers/spartannash.md
+        - "SPECIALIZED ENGINEERING SOLUTIONS, INC": expenditures/filers/specialized_engineering_solutions_inc.md
+        - "SPENCER HEAD FOR OPS": expenditures/filers/spencer_head_for_ops.md
+        - "SPRINGFIRE HOLDINGS LLC": expenditures/filers/springfire_holdings_llc.md
+        - "STACY JOLLEY FOR MILLARD SCHOOL BOARD": expenditures/filers/stacy_jolley_for_millard_school_board.md
+        - "STAGEMAN LAW": expenditures/filers/stageman_law.md
+        - "STANTON TELECOM INC": expenditures/filers/stanton_telecom_inc.md
+        - "STATE HEALTH PAC (BLUE CROSS BLUE SHIELD)": expenditures/filers/state_health_pac_blue_cross_blue_shield.md
+        - "STATE TROOPERS OF NEBRASKA PAC": expenditures/filers/state_troopers_of_nebraska_pac.md
+        - "STEAMFITTERS AND PLUMBERS LU 464 PAC FUND": expenditures/filers/steamfitters_and_plumbers_lu_464_pac_fund.md
+        - "STEINBRINK LANDSCAPING INC": expenditures/filers/steinbrink_landscaping_inc.md
+        - "STEVE ERDMAN FOR LEGISLATURE": expenditures/filers/steve_erdman_for_legislature.md
+        - "STEVE HALLORAN FOR LEGISLATURE": expenditures/filers/steve_halloran_for_legislature.md
+        - "STEVE HESPEN FOR SHERIFF COMMITTEE": expenditures/filers/steve_hespen_for_sheriff_committee.md
+        - "STINNER FOR LEGISLATURE": expenditures/filers/stinner_for_legislature.md
+        - "STONEBROOK EXTERIOR": expenditures/filers/stonebrook_exterior.md
+        - "STRATEGIC LINK CONSULTING LP": expenditures/filers/strategic_link_consulting_lp.md
+        - "STROMBERGER FARMS INC": expenditures/filers/stromberger_farms_inc.md
+        - "STU DORNAN FOR LEGISLATURE": expenditures/filers/stu_dornan_for_legislature.md
+        - "SUANN WITT FOR PLCS SCHOOL BOARD": expenditures/filers/suann_witt_for_plcs_school_board.md
+        - "SUE FOR NPPD": expenditures/filers/sue_for_nppd.md
+        - "SUPPORTERS OF JASMINE FOR TREASURER": expenditures/filers/supporters_of_jasmine_for_treasurer.md
+        - "SURVEY NEBRASKA": expenditures/filers/survey_nebraska.md
+        - "SUSTAINABLE BEEF LLC": expenditures/filers/sustainable_beef_llc.md
+        - "SUZANNE C GEIST FOR LEGISLATURE": expenditures/filers/suzanne_c_geist_for_legislature.md
+        - "SWAIN CONSTRUCTION INC": expenditures/filers/swain_construction_inc.md
+        - "SYDNEY INVESTMENTS LLC": expenditures/filers/sydney_investments_llc.md
+        - "T-MOBILE USA INC": expenditures/filers/tmobile_usa_inc.md
+        - "T HANSEN CONSTRUCTION INC": expenditures/filers/t_hansen_construction_inc.md
+        - "TAMMY WARD FOR CITY COUNCIL": expenditures/filers/tammy_ward_for_city_council.md
+        - "TANYA STORER FOR CHERRY COUNTY COMMISSIONER": expenditures/filers/tanya_storer_for_cherry_county_commissioner.md
+        - "TASK FORCE FOR KIDS": expenditures/filers/task_force_for_kids.md
+        - "TEAMSTERS LOCAL 554 PAC": expenditures/filers/teamsters_local_554_pac.md
+        - "TEAMWON LLC": expenditures/filers/teamwon_llc.md
+        - "TENASKA": expenditures/filers/tenaska.md
+        - "TERESA IBACH FOR LEGISLATURE": expenditures/filers/teresa_ibach_for_legislature.md
+        - "THE FAIRNESS PROJECT": expenditures/filers/the_fairness_project.md
+        - "THE GOVERNOR HEINEMAN COMMITTEE": expenditures/filers/the_governor_heineman_committee.md
+        - "THE LUND COMPANY": expenditures/filers/the_lund_company.md
+        - "THE MASCHHOFFS LLC": expenditures/filers/the_maschhoffs_llc.md
+        - "THE SCHEMMER ASSOCIATES INC.": expenditures/filers/the_schemmer_associates_inc.md
+        - "THIELE GEOTECH INC.": expenditures/filers/thiele_geotech_inc.md
+        - "THOMAS LIVESTOCK CO": expenditures/filers/thomas_livestock_co.md
+        - "THOMPSON CONSTRUCTION INC": expenditures/filers/thompson_construction_inc.md
+        - "THROENER LAND & AG LLC": expenditures/filers/throener_land_&_ag_llc.md
+        - "TIEDEMAN FOR PAPILLION": expenditures/filers/tiedeman_for_papillion.md
+        - "TIGER TOMS INC": expenditures/filers/tiger_toms_inc.md
+        - "TIM HIGGINS FOR BUFFALO COUNTY": expenditures/filers/tim_higgins_for_buffalo_county.md
+        - "TIMOTHY J. GRAGERT FOR LEGISLATURE DISTRICT 40": expenditures/filers/timothy_j_gragert_for_legislature_district_40.md
+        - "TIMOTHY L ASHFORD": expenditures/filers/timothy_l_ashford.md
+        - "TMCO INC": expenditures/filers/tmco_inc.md
+        - "TODD PFITZER FOR DOUGLAS COUNTY ENGINEER": expenditures/filers/todd_pfitzer_for_douglas_county_engineer.md
+        - "TODD VOLK FOR SHERIFF": expenditures/filers/todd_volk_for_sheriff.md
+        - "TODD WILTGEN FOR COUNTY COMMISSIONER": expenditures/filers/todd_wiltgen_for_county_commissioner.md
+        - "TOGETHER NEBRASKA": expenditures/filers/together_nebraska.md
+        - "TOM BARRETT FOR OPPD": expenditures/filers/tom_barrett_for_oppd.md
+        - "TOM BECKIUS FOR CITY COUNCIL": expenditures/filers/tom_beckius_for_city_council.md
+        - "TOM BREWER FOR NEBRASKA": expenditures/filers/tom_brewer_for_nebraska.md
+        - "TOOKER 4 OMAHA": expenditures/filers/tooker_4_omaha.md
+        - "TRACE FOR TREASURER": expenditures/filers/trace_for_treasurer.md
+        - "TRACY CASADY FOR OPS": expenditures/filers/tracy_casady_for_ops.md
+        - "TRACY FOR TREASURER": expenditures/filers/tracy_for_treasurer.md
+        - "TRENTON AGRI PRODUCTS LLC": expenditures/filers/trenton_agri_products_llc.md
+        - "TROY HAWK FOR CLERK OF THE DISTRICT COURT": expenditures/filers/troy_hawk_for_clerk_of_the_district_court.md
+        - "TRUE NEBRASKANS LLC": expenditures/filers/true_nebraskans_llc.md
+        - "TRUST NEBRASKA TEACHERS": expenditures/filers/trust_nebraska_teachers.md
+        - "TUCKER FOR METRO": expenditures/filers/tucker_for_metro.md
+        - "TURN WEST FARMS INC": expenditures/filers/turn_west_farms_inc.md
+        - "TYEISHA KOSMICKI FOR THE PEOPLE": expenditures/filers/tyeisha_kosmicki_for_the_people.md
+        - "TYLER CAPPEL FOR LEGISLATURE": expenditures/filers/tyler_cappel_for_legislature.md
+        - "TYSON FOODS INC": expenditures/filers/tyson_foods_inc.md
+        - "UNION BANK & TRUST COMPANY": expenditures/filers/union_bank_&_trust_company.md
+        - "UNION OMAHA": expenditures/filers/union_omaha.md
+        - "UNION PACIFIC RAILROAD COMPANY": expenditures/filers/union_pacific_railroad_company.md
+        - "URBAN VILLAGE": expenditures/filers/urban_village.md
+        - "VALENTINE DENTAL CLINIC II LLC": expenditures/filers/valentine_dental_clinic_ii_llc.md
+        - "VALENTINE LIVESTOCK AUCTION COMPANY": expenditures/filers/valentine_livestock_auction_company.md
+        - "VALLEY WEALTH MANAGEMENT LLC": expenditures/filers/valley_wealth_management_llc.md
+        - "VARGAS FOR NEBRASKA": expenditures/filers/vargas_for_nebraska.md
+        - "VIGILNET AMERICA LLC": expenditures/filers/vigilnet_america_llc.md
+        - "VILLAGE POINTE I, LLC": expenditures/filers/village_pointe_i_llc.md
+        - "VOICES FOR CHILDREN IN NEBRASKA": expenditures/filers/voices_for_children_in_nebraska.md
+        - "VON GILLERN FOR NEBRASKA": expenditures/filers/von_gillern_for_nebraska.md
+        - "VOTE ANDY ALLEN": expenditures/filers/vote_andy_allen.md
+        - "VOTE HOCH CAMPAIGN COMMITTEE": expenditures/filers/vote_hoch_campaign_committee.md
+        - "VOTE SCHULTE": expenditures/filers/vote_schulte.md
+        - "VOTE VEST": expenditures/filers/vote_vest.md
+        - "VOTE WEBER": expenditures/filers/vote_weber.md
+        - "VOTE YES FOR SCOTTSBLUFF AQUATICS": expenditures/filers/vote_yes_for_scottsbluff_aquatics.md
+        - "VOTE YES NORFOLK": expenditures/filers/vote_yes_norfolk.md
+        - "VOTE YODER": expenditures/filers/vote_yoder.md
+        - "VOTERS AGAINST DISCRIMINATION COMMITTEE": expenditures/filers/voters_against_discrimination_committee.md
+        - "W RANCH": expenditures/filers/w_ranch.md
+        - "WAGNER FOR SHERIFF": expenditures/filers/wagner_for_sheriff.md
+        - "WAKE & COMPANY": expenditures/filers/wake_&_company.md
+        - "WALGREEN COMPANY": expenditures/filers/walgreen_company.md
+        - "WALT PEFFER FOR DOUGLAS COUNTY ASSESSOR": expenditures/filers/walt_peffer_for_douglas_county_assessor.md
+        - "WARHORSE GAMING LLC": expenditures/filers/warhorse_gaming_llc.md
+        - "WASHINGTON FOR LINCOLN": expenditures/filers/washington_for_lincoln.md
+        - "WATTS & HERSHBERGER PC": expenditures/filers/watts_&_hershberger_pc.md
+        - "WAYNE FOR NEBRASKA": expenditures/filers/wayne_for_nebraska.md
+        - "WAYNE WILLIAMS FOR NPPD #7": expenditures/filers/wayne_williams_for_nppd_7.md
+        - "WDD INC DBA PELLA WINDOW AND DOORS": expenditures/filers/wdd_inc_dba_pella_window_and_doors.md
+        - "WEBER ENTERPRISES INC": expenditures/filers/weber_enterprises_inc.md
+        - "WEBORG FEEDING COMPANY LLC": expenditures/filers/weborg_feeding_company_llc.md
+        - "WEGMEIER LLC": expenditures/filers/wegmeier_llc.md
+        - "WEIXELMAN FOR LD 26": expenditures/filers/weixelman_for_ld_26.md
+        - "WENDY DEBOER FOR LEGISLATURE": expenditures/filers/wendy_deboer_for_legislature.md
+        - "WERNER ENTERPRISES INC": expenditures/filers/werner_enterprises_inc.md
+        - "WERNER ENTERPRISES PAC": expenditures/filers/werner_enterprises_pac.md
+        - "WESTERN NEBRASKA BANK": expenditures/filers/western_nebraska_bank.md
+        - "WESTIN, INC": expenditures/filers/westin_inc.md
+        - "WHITE LOTUS GROUP": expenditures/filers/white_lotus_group.md
+        - "WHITLEY RED FOR PAPILLION LAVISTA SCHOOL BOARD": expenditures/filers/whitley_red_for_papillion_lavista_school_board.md
+        - "WILD WILLY'S FIREWORKS LLC": expenditures/filers/wild_willys_fireworks_llc.md
+        - "WILL KIRKLAND FOR KEARNEY SCHOOL BOARD": expenditures/filers/will_kirkland_for_kearney_school_board.md
+        - "WILMOT FOR REGENT": expenditures/filers/wilmot_for_regent.md
+        - "WILSON FOR REGENT": expenditures/filers/wilson_for_regent.md
+        - "WIND RIVER MANAGEMENT INC": expenditures/filers/wind_river_management_inc.md
+        - "WINTON POLICY GROUP LLC": expenditures/filers/winton_policy_group_llc.md
+        - "WOMEN WHO RUN NEBRASKA": expenditures/filers/women_who_run_nebraska.md
+        - "WOMEN WHO RUN NEBRASKA PAC": expenditures/filers/women_who_run_nebraska_pac.md
+        - "WOODLAND HOMES INC": expenditures/filers/woodland_homes_inc.md
+        - "WOODMEN OF THE WORLD LIFE INSURANCE SOCIETY": expenditures/filers/woodmen_of_the_world_life_insurance_society.md
+        - "WOODSONIA REAL ESTATE INC": expenditures/filers/woodsonia_real_estate_inc.md
+        - "WRAGGE PSYCHOTHERAPY INC": expenditures/filers/wragge_psychotherapy_inc.md
+        - "YALE FOR WESTSIDE": expenditures/filers/yale_for_westside.md
+        - "YES! FOR WESTSIDE KIDS": expenditures/filers/yes!_for_westside_kids.md
+        - "YOST LAMME HILLIS MITCHELL SCHULZ HARTMANN & WILSON PC": expenditures/filers/yost_lamme_hillis_mitchell_schulz_hartmann_&_wilson_pc.md
+        - "YOUNES HOSPITALITY INC": expenditures/filers/younes_hospitality_inc.md
+        - "YOUNES PAINTING LLC": expenditures/filers/younes_painting_llc.md
+        - "ZACH REINHARDT FOR METRO": expenditures/filers/zach_reinhardt_for_metro.md
+        - "ZUGER 4 SARPY COMMITTEE": expenditures/filers/zuger_4_sarpy_committee.md
+        - "ZULKOSKI WEBER LLC": expenditures/filers/zulkoski_weber_llc.md

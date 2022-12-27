@@ -1,0 +1,190 @@
+
+site_name: Data Nebraska
+site_url: https://datanebraska.com
+site_author: timmysql
+site_description: >-
+  A campaign finance website for Nebraskans.
+
+copyright: Copyright &copy; 2022 timmysql
+     
+theme:
+    name: material
+    features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.sections    
+    - header.autohide
+    - content.code.annotate 
+    - toc.integrate   
+    icon:
+      logo: material/corn
+    font:
+      text: Roboto
+      code: Roboto Mono
+    palette:
+      - scheme: slate
+        toggle:
+          icon: material/weather-sunny
+          name: Switch to light mode
+        primary: blue
+        accent: red
+      - scheme: default
+        toggle:
+          icon: material/weather-night
+          name: Switch to light mode
+        primary: red
+        accent: blue
+
+    nav_style: dark
+    analytics:
+        gtag: G-M9XK9BXB2G
+    highlightjs: true
+    hljs_languages:
+        - sql
+        - powershell
+        - python
+
+extra:
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/datanebraska
+    - icon: fontawesome/brands/github
+      link: https://github.com/datanebraska          
+  consent:
+    title: Cookie consent
+    description: >-
+      We use cookies to recognize your repeated visits and preferences, as well
+      as to measure the effectiveness of our documentation and whether users
+      find what they're searching for. With your consent, you're helping us to
+      make our documentation better.
+  analytics:
+    provider: google
+    property: G-M9XK9BXB2G
+
+plugins:
+  - search:    
+  - tags:
+      tags_file: tags.md   
+  - minify:
+      minify_html: true         
+extra_javascript:
+  - https://cdnjs.cloudflare.com/ajax/libs/tablesort/5.2.1/tablesort.min.js
+  - javascripts/tablesort.number.js
+  - javascripts/tablesort.date.js
+  - javascripts/tablesort.monthname.js
+  - javascripts/tablesort.dotsep.js
+  - javascripts/tablesort.js
+
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - meta
+  - md_in_html
+
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret      
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+      emoji_index: !!python/name:materialx.emoji.twemoji
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink:
+      repo_url_shorthand: true
+      user: timmysql
+      repo: mkdocs_datanebraska
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true          
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde     
+  - pymdownx.snippets   
+  - tables
+
+
+nav:
+  - Home: index.md
+  - Receipts: 
+    - Filers:             
+@ReceiptsStub
+    - Payors:  
+      - Other: receipts/payors/payors_other.md
+      - A: receipts/payors/payors_a.md
+      - B: receipts/payors/payors_b.md
+      - C: receipts/payors/payors_c.md
+      - D: receipts/payors/payors_d.md
+      - E: receipts/payors/payors_e.md
+      - F: receipts/payors/payors_f.md
+      - G: receipts/payors/payors_g.md
+      - H: receipts/payors/payors_h.md
+      - I: receipts/payors/payors_i.md
+      - J: receipts/payors/payors_j.md
+      - K: receipts/payors/payors_k.md
+      - L: receipts/payors/payors_l.md
+      - M: receipts/payors/payors_m.md
+      - N: receipts/payors/payors_n.md
+      - O: receipts/payors/payors_o.md
+      - P: receipts/payors/payors_p.md
+      - Q: receipts/payors/payors_q.md
+      - R: receipts/payors/payors_r.md
+      - S: receipts/payors/payors_s.md
+      - T: receipts/payors/payors_t.md
+      - U: receipts/payors/payors_u.md
+      - V: receipts/payors/payors_v.md
+      - W: receipts/payors/payors_w.md
+      - X: receipts/payors/payors_x.md
+      - Y: receipts/payors/payors_y.md
+      - Z: receipts/payors/payors_z.md       
+    - Top 500 Receipts Last 90 Days: receipts/receipts_top_500.md 
+    - Last 1500 Receipts: receipts/receipts_last_1500.md
+  - Expenditures:
+    - Filers:      
+@ExpendituresStub
+    - Payees: 
+      - Other: expenditures/payees/payees_other.md
+      - A: expenditures/payees/payees_a.md
+      - B: expenditures/payees/payees_b.md
+      - C: expenditures/payees/payees_c.md
+      - D: expenditures/payees/payees_d.md
+      - E: expenditures/payees/payees_e.md
+      - F: expenditures/payees/payees_f.md
+      - G: expenditures/payees/payees_g.md
+      - H: expenditures/payees/payees_h.md
+      - I: expenditures/payees/payees_i.md
+      - J: expenditures/payees/payees_j.md
+      - K: expenditures/payees/payees_k.md
+      - L: expenditures/payees/payees_l.md
+      - M: expenditures/payees/payees_m.md
+      - N: expenditures/payees/payees_n.md
+      - O: expenditures/payees/payees_o.md
+      - P: expenditures/payees/payees_p.md
+      - Q: expenditures/payees/payees_q.md
+      - R: expenditures/payees/payees_r.md
+      - S: expenditures/payees/payees_s.md
+      - T: expenditures/payees/payees_t.md
+      - U: expenditures/payees/payees_u.md
+      - V: expenditures/payees/payees_v.md
+      - W: expenditures/payees/payees_w.md
+      - X: expenditures/payees/payees_x.md
+      - Y: expenditures/payees/payees_y.md
+      - Z: expenditures/payees/payees_z.md  
+    - Top 500 Expenditures Last 90 Days: expenditures/expenditures_top_500.md
+    - Last 1500 Expenditures: expenditures/expenditures_last_1500.md
+  - Tags: tags.md
+  - Donate: donate.md
+  - About: about.md

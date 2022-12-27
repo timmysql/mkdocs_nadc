@@ -1,0 +1,488 @@
+        - "ADAM MORFELD FOR COUNTY ATTORNEY": receipts/filers/adam_morfeld_for_county_attorney.md
+        - "ADAMS COUNTY REPUBLICANS": receipts/filers/adams_county_republicans.md
+        - "AGARWAL FOR EDUCATION": receipts/filers/agarwal_for_education.md
+        - "AGC HIGHWAY IMPROVEMENT PAC": receipts/filers/agc_highway_improvement_pac.md
+        - "ALAINA VERPLANK FOR HALL COUNTY TREASURER": receipts/filers/alaina_verplank_for_hall_county_treasurer.md
+        - "AMERICA'S FAMILIES PAC": receipts/filers/americas_families_pac.md
+        - "AMERICAN COUNCIL OF ENGINEERING COMPANIES NEBRASKA PAC (ACEC PAC)": receipts/filers/american_council_of_engineering_companies_nebraska_pac_acec_pac.md
+        - "ANN UNDERWOOD FOR CITY COUNCIL": receipts/filers/ann_underwood_for_city_council.md
+        - "ANNA WISHART FOR LEGISLATURE": receipts/filers/anna_wishart_for_legislature.md
+        - "ANNIE FOR EDUCATION": receipts/filers/annie_for_education.md
+        - "ASSOCIATED BEVERAGE DISTRIBUTORS OF NEBRASKA - BPAC": receipts/filers/associated_beverage_distributors_of_nebraska__bpac.md
+        - "ASSOCIATED BUILDERS & CONTRACTORS (ABC PAC)": receipts/filers/associated_builders_&_contractors_abc_pac.md
+        - "AURORA COOPERATIVE": receipts/filers/aurora_cooperative.md
+        - "BAC PAC": receipts/filers/bac_pac.md
+        - "BECKY BORYCA FOR CLERK OF DISTRICT COURT": receipts/filers/becky_boryca_for_clerk_of_district_court.md
+        - "BEN CASS FOR CITY COUNCIL": receipts/filers/ben_cass_for_city_council.md
+        - "BEN GRAY FOR CITY COUNCIL": receipts/filers/ben_gray_for_city_council.md
+        - "BEN HANSEN FOR LEGISLATURE": receipts/filers/ben_hansen_for_legislature.md
+        - "BEN TEMPLE FOR NPPD": receipts/filers/ben_temple_for_nppd.md
+        - "BENNIE SHOBE FOR LINCOLN CITY COUNCIL": receipts/filers/bennie_shobe_for_lincoln_city_council.md
+        - "BILL HOYT": receipts/filers/bill_hoyt.md
+        - "BOB EVNEN FOR NEBRASKA": receipts/filers/bob_evnen_for_nebraska.md
+        - "BORGESON FOR LEGISLATURE": receipts/filers/borgeson_for_legislature.md
+        - "BOSTELMAN FOR LEGISLATURE": receipts/filers/bostelman_for_legislature.md
+        - "BOSWORTH 4 LEGISLATURE": receipts/filers/bosworth_4_legislature.md
+        - "BOWERS FOR NEBRASKA": receipts/filers/bowers_for_nebraska.md
+        - "BRANDT FOR LEGISLATURE": receipts/filers/brandt_for_legislature.md
+        - "BRIAN HESSLER FOR SHERIFF": receipts/filers/brian_hessler_for_sheriff.md
+        - "BRIESE FOR LEGISLATURE": receipts/filers/briese_for_legislature.md
+        - "BUFFALO COUNTY REPUBLICAN PARTY": receipts/filers/buffalo_county_republican_party.md
+        - "BUSINESS & AGRICULTURE SOCIETY FOR EDUCATION": receipts/filers/business_&_agriculture_society_for_education.md
+        - "CAMERON HALL FOR NEBRASKA": receipts/filers/cameron_hall_for_nebraska.md
+        - "CAMMY FOR NEBRASKA DBA CAMMY FOR COUNCIL": receipts/filers/cammy_for_nebraska_dba_cammy_for_council.md
+        - "CAMPAIGN FOR A HEALTHY NEBRASKA": receipts/filers/campaign_for_a_healthy_nebraska.md
+        - "CAMPAIGN FOR AISHA CARR FOR CHERRY COUNTY ATTORNEY": receipts/filers/campaign_for_aisha_carr_for_cherry_county_attorney.md
+        - "CARDENAS FOR CLERK OF THE DISTRICT COURT": receipts/filers/cardenas_for_clerk_of_the_district_court.md
+        - "CARE PAC": receipts/filers/care_pac.md
+        - "CASS COUNTY REPUBLICAN CENTRAL COMMITTEE": receipts/filers/cass_county_republican_central_committee.md
+        - "CAVANAUGH FOR NEBRASKA": receipts/filers/cavanaugh_for_nebraska.md
+        - "CHAPERONE OF GRAND ISLAND": receipts/filers/chaperone_of_grand_island.md
+        - "CHILDREN'S PAC": receipts/filers/childrens_pac.md
+        - "CHIROPRACTORS OF NEBRASKA PAC": receipts/filers/chiropractors_of_nebraska_pac.md
+        - "CHRIS BRUNS FOR LEGISLATURE": receipts/filers/chris_bruns_for_legislature.md
+        - "CHRIS LICHTENBERG FOR SHERIFF CAMPAIGN": receipts/filers/chris_lichtenberg_for_sheriff_campaign.md
+        - "CHRISTA YOAKUM FOR COUNTY COMMISSION": receipts/filers/christa_yoakum_for_county_commission.md
+        - "CITIZENS FOR KINTNER": receipts/filers/citizens_for_kintner.md
+        - "CITIZENS FOR VOTER ID": receipts/filers/citizens_for_voter_id.md
+        - "CITIZENS TO ELECT JIM SMITH": receipts/filers/citizens_to_elect_jim_smith.md
+        - "CITIZENS TO ELECT JOHN ARCH": receipts/filers/citizens_to_elect_john_arch.md
+        - "CLARE FOR REGENT": receipts/filers/clare_for_regent.md
+        - "COMMITTEE FOR A PROSPEROUS GRAND ISLAND": receipts/filers/committee_for_a_prosperous_grand_island.md
+        - "COMMITTEE TO ELECT BRIAN GRIMM": receipts/filers/committee_to_elect_brian_grimm.md
+        - "COMMITTEE TO ELECT CHRIS RODGERS": receipts/filers/committee_to_elect_chris_rodgers.md
+        - "COMMITTEE TO ELECT DIANE BATTIATO": receipts/filers/committee_to_elect_diane_battiato.md
+        - "COMMITTEE TO ELECT ELIZABETH HALLGREN": receipts/filers/committee_to_elect_elizabeth_hallgren.md
+        - "COMMITTEE TO ELECT FLYNN CLERK": receipts/filers/committee_to_elect_flynn_clerk.md
+        - "COMMITTEE TO ELECT JOHN EWING": receipts/filers/committee_to_elect_john_ewing.md
+        - "COMMITTEE TO ELECT KATHLEEN KAUTH": receipts/filers/committee_to_elect_kathleen_kauth.md
+        - "COMMITTEE TO ELECT KEVIN STOCKER": receipts/filers/committee_to_elect_kevin_stocker.md
+        - "COMMITTEE TO ELECT KRIS PIERCE": receipts/filers/committee_to_elect_kris_pierce.md
+        - "COMMITTEE TO ELECT PJ MORGAN": receipts/filers/committee_to_elect_pj_morgan.md
+        - "COMMITTEE TO ELECT ROY CHRISTENSEN": receipts/filers/committee_to_elect_roy_christensen.md
+        - "COMMITTEE TO ELECT THOMAS RILEY": receipts/filers/committee_to_elect_thomas_riley.md
+        - "COMMITTEE TO IMPROVE OMAHA": receipts/filers/committee_to_improve_omaha.md
+        - "COMMITTEE TO RETAIN JEFFREY L. DAVIS FOR SHERIFF": receipts/filers/committee_to_retain_jeffrey_l_davis_for_sheriff.md
+        - "COMMITTEE TO RETAIN LEE POLIKOV COUNTY ATTORNEY": receipts/filers/committee_to_retain_lee_polikov_county_attorney.md
+        - "COMMUNITY ORGANIZATION FOR PUBLIC SAFETY PAC": receipts/filers/community_organization_for_public_safety_pac.md
+        - "CONDON FOR COUNTY ATTORNEY": receipts/filers/condon_for_county_attorney.md
+        - "CONNIE FOR SCHOOLS": receipts/filers/connie_for_schools.md
+        - "CONNIE L PETERSEN CAMPAIGN": receipts/filers/connie_l_petersen_campaign.md
+        - "CONNOR ORR FOR MCC BOARD": receipts/filers/connor_orr_for_mcc_board.md
+        - "CONRAD FOR LEGISLATURE": receipts/filers/conrad_for_legislature.md
+        - "CONSERVATION PAC": receipts/filers/conservation_pac.md
+        - "CONSERVATIVE NEBRASKA": receipts/filers/conservative_nebraska.md
+        - "CORBAN HEINIS FOR AIRPORT AUTHORITY": receipts/filers/corban_heinis_for_airport_authority.md
+        - "DAN PITTMAN FOR SARPY COUNTY ASSESSOR": receipts/filers/dan_pittman_for_sarpy_county_assessor.md
+        - "DANEK FOR DISTRICT #1": receipts/filers/danek_for_district_1.md
+        - "DANNY BEGLEY FOR OMAHA": receipts/filers/danny_begley_for_omaha.md
+        - "DAVE MURMAN FOR LEGISLATURE": receipts/filers/dave_murman_for_legislature.md
+        - "DAVID KLUG FOR COUNTY BOARD": receipts/filers/david_klug_for_county_board.md
+        - "DEALER PAC": receipts/filers/dealer_pac.md
+        - "DENNY WILSON FOR SARPY COUNTY SURVEYOR": receipts/filers/denny_wilson_for_sarpy_county_surveyor.md
+        - "DEREK RUSHER FOR NPPD": receipts/filers/derek_rusher_for_nppd.md
+        - "DON KLEINE FOR DOUGLAS COUNTY ATTORNEY": receipts/filers/don_kleine_for_douglas_county_attorney.md
+        - "DON ROWE FOR OMAHA": receipts/filers/don_rowe_for_omaha.md
+        - "DORI HEATH FOR DISTRICT COURT CLERK": receipts/filers/dori_heath_for_district_court_clerk.md
+        - "DORN FOR LEGISLATURE": receipts/filers/dorn_for_legislature.md
+        - "DOUG KRENZER FOR WESTSIDE BOARD OF EDUCATION": receipts/filers/doug_krenzer_for_westside_board_of_education.md
+        - "DOUGLAS BROWN FOR MAYOR": receipts/filers/douglas_brown_for_mayor.md
+        - "DOUGLAS COUNTY DEMOCRATIC PARTY": receipts/filers/douglas_county_democratic_party.md
+        - "DOUGLAS COUNTY REPUBLICAN PARTY": receipts/filers/douglas_county_republican_party.md
+        - "ELECT BEN BACKUS": receipts/filers/elect_ben_backus.md
+        - "ELECT GENE SIADEK": receipts/filers/elect_gene_siadek.md
+        - "ELINA NEWMAN FOR CITY COUNCIL": receipts/filers/elina_newman_for_city_council.md
+        - "ELIOT BOSTAR FOR LEGISLATURE": receipts/filers/eliot_bostar_for_legislature.md
+        - "ELIZABETH BUTLER CAMPAIGN": receipts/filers/elizabeth_butler_campaign.md
+        - "ELIZABETH O'CONNOR FOR REGENT": receipts/filers/elizabeth_oconnor_for_regent.md
+        - "ELIZABETH TEGTMEIER FOR NEBRASKA STATE BOARD OF EDUCATION": receipts/filers/elizabeth_tegtmeier_for_nebraska_state_board_of_education.md
+        - "ERDENBERGER 4 OPS": receipts/filers/erdenberger_4_ops.md
+        - "ERIN FEICHTINGER FOR METRO BOARD OF GOVERNORS": receipts/filers/erin_feichtinger_for_metro_board_of_governors.md
+        - "FANSLAU FOR PAPILLION": receipts/filers/fanslau_for_papillion.md
+        - "FARMERS EMPLOYEE AND AGENT PAC": receipts/filers/farmers_employee_and_agent_pac.md
+        - "FELLHOELTER FOR MORRILL COUNTY ATTORNEY": receipts/filers/fellhoelter_for_morrill_county_attorney.md
+        - "FESTERSEN FOR CITY COUNCIL": receipts/filers/festersen_for_city_council.md
+        - "FILING FOR COMMISSIONER": receipts/filers/filing_for_commissioner.md
+        - "FIREFIGHTERS FOR BETTER GOVERNMENT": receipts/filers/firefighters_for_better_government.md
+        - "FIRST NATIONAL OF NEBRASKA PAC": receipts/filers/first_national_of_nebraska_pac.md
+        - "FOLEY FOR THE PEOPLE- AUDITOR (2022)": receipts/filers/foley_for_the_people_auditor_2022.md
+        - "FORWARD NEBRASKA": receipts/filers/forward_nebraska.md
+        - "FRIEND FOR COUNTY BOARD": receipts/filers/friend_for_county_board.md
+        - "FRIENDS FOR ADAM MORFELD": receipts/filers/friends_for_adam_morfeld.md
+        - "FRIENDS FOR CRYSTAL RHOADES": receipts/filers/friends_for_crystal_rhoades.md
+        - "FRIENDS FOR JACQUELYN MORRISON": receipts/filers/friends_for_jacquelyn_morrison.md
+        - "FRIENDS FOR JASMINE L HARRIS": receipts/filers/friends_for_jasmine_l_harris.md
+        - "FRIENDS FOR JIM GROTRIAN": receipts/filers/friends_for_jim_grotrian.md
+        - "FRIENDS FOR JOHN FREDRICKSON": receipts/filers/friends_for_john_fredrickson.md
+        - "FRIENDS FOR KATIE OPITZ": receipts/filers/friends_for_katie_opitz.md
+        - "FRIENDS FOR KIMARA SNIPES": receipts/filers/friends_for_kimara_snipes.md
+        - "FRIENDS FOR MICHAEL YOUNG": receipts/filers/friends_for_michael_young.md
+        - "FRIENDS FOR VINNY PALERMO": receipts/filers/friends_for_vinny_palermo.md
+        - "FRIENDS OF ALEX DEGARMO": receipts/filers/friends_of_alex_degarmo.md
+        - "FRIENDS OF ANGI BURMEISTER": receipts/filers/friends_of_angi_burmeister.md
+        - "FRIENDS OF BARGER FOR LEGISLATURE": receipts/filers/friends_of_barger_for_legislature.md
+        - "FRIENDS OF BOB SIDZYIK": receipts/filers/friends_of_bob_sidzyik.md
+        - "FRIENDS OF CAROL BLOOD": receipts/filers/friends_of_carol_blood.md
+        - "FRIENDS OF CHARLIE JANSSEN": receipts/filers/friends_of_charlie_janssen.md
+        - "FRIENDS OF CHRIS JERRAM": receipts/filers/friends_of_chris_jerram.md
+        - "FRIENDS OF CHRISTY ARMENDARIZ": receipts/filers/friends_of_christy_armendariz.md
+        - "FRIENDS OF CINDY MAXWELL-OSTDIEK": receipts/filers/friends_of_cindy_maxwellostdiek.md
+        - "FRIENDS OF CRAIG MOODY": receipts/filers/friends_of_craig_moody.md
+        - "FRIENDS OF DAN WATERMEIER": receipts/filers/friends_of_dan_watermeier.md
+        - "FRIENDS OF DEB HOUGHTALING SARPY COUNTY CLERK/ROD": receipts/filers/friends_of_deb_houghtaling_sarpy_county_clerkrod.md
+        - "FRIENDS OF DREW BLESSING": receipts/filers/friends_of_drew_blessing.md
+        - "FRIENDS OF ERIC SCOTT": receipts/filers/friends_of_eric_scott.md
+        - "FRIENDS OF ERIC WILLIAMS": receipts/filers/friends_of_eric_williams.md
+        - "FRIENDS OF JACOB CAMPBELL, INC": receipts/filers/friends_of_jacob_campbell_inc.md
+        - "FRIENDS OF JOHN SIELER": receipts/filers/friends_of_john_sieler.md
+        - "FRIENDS OF KAY CARNE": receipts/filers/friends_of_kay_carne.md
+        - "FRIENDS OF KRISTEN FOR METRO": receipts/filers/friends_of_kristen_for_metro.md
+        - "FRIENDS OF LEADINGAGE NEBRASKA": receipts/filers/friends_of_leadingage_nebraska.md
+        - "FRIENDS OF LINDSTROM": receipts/filers/friends_of_lindstrom.md
+        - "FRIENDS OF LISA SCHOENBERGER": receipts/filers/friends_of_lisa_schoenberger.md
+        - "FRIENDS OF MARNI HODGEN": receipts/filers/friends_of_marni_hodgen.md
+        - "FRIENDS OF MIKE HILGERS": receipts/filers/friends_of_mike_hilgers.md
+        - "FRIENDS OF MIKE MCDONNELL": receipts/filers/friends_of_mike_mcdonnell.md
+        - "FRIENDS OF PETE SAKARIS": receipts/filers/friends_of_pete_sakaris.md
+        - "FRIENDS OF RICH PAHLS": receipts/filers/friends_of_rich_pahls.md
+        - "FRIENDS OF ROBERT ANTHONY": receipts/filers/friends_of_robert_anthony.md
+        - "FRIENDS OF SARA KOHEN": receipts/filers/friends_of_sara_kohen.md
+        - "FRIENDS OF SCOTT PETERSEN": receipts/filers/friends_of_scott_petersen.md
+        - "FRIENDS OF SEWARD WELLNESS CENTER": receipts/filers/friends_of_seward_wellness_center.md
+        - "FRIENDS OF STEPHANY PLEASANT": receipts/filers/friends_of_stephany_pleasant.md
+        - "FRIENDS OF THE UNIVERSITY PAC": receipts/filers/friends_of_the_university_pac.md
+        - "FRIENDS OF THOMAS BURNS": receipts/filers/friends_of_thomas_burns.md
+        - "FRIESEN FOR LEGISLATURE": receipts/filers/friesen_for_legislature.md
+        - "FULL 4 OPS": receipts/filers/full_4_ops.md
+        - "GALE FOR NPPD BOARD": receipts/filers/gale_for_nppd_board.md
+        - "GARY BARNARD FOR MAYOR": receipts/filers/gary_barnard_for_mayor.md
+        - "GEORGE FOR NEBRASKA": receipts/filers/george_for_nebraska.md
+        - "GRAND ISLAND CASINO PAC": receipts/filers/grand_island_casino_pac.md
+        - "GREATER OMAHA CHAMBER PAC": receipts/filers/greater_omaha_chamber_pac.md
+        - "GREG FOR SHERIFF": receipts/filers/greg_for_sheriff.md
+        - "GREG OSBORN FOR NRD": receipts/filers/greg_osborn_for_nrd.md
+        - "GROW NEBRASKA": receipts/filers/grow_nebraska.md
+        - "HACCA PAC": receipts/filers/hacca_pac.md
+        - "HANSEN FOR LANCASTER": receipts/filers/hansen_for_lancaster.md
+        - "HANSEN FOR LEGISLATURE": receipts/filers/hansen_for_legislature.md
+        - "HANSON FOR SHERIFF": receipts/filers/hanson_for_sheriff.md
+        - "HARDIN FOR LEGISLATURE": receipts/filers/hardin_for_legislature.md
+        - "HELEN RAIKES FOR STATE BOARD OF EDUCATION": receipts/filers/helen_raikes_for_state_board_of_education.md
+        - "HELZER 4 EDUCATION": receipts/filers/helzer_4_education.md
+        - "HERBSTER FOR NEBRASKA": receipts/filers/herbster_for_nebraska.md
+        - "HERROLD FOR LEGISLATURE": receipts/filers/herrold_for_legislature.md
+        - "HILKEMANN FOR LEGISLATURE": receipts/filers/hilkemann_for_legislature.md
+        - "HILTON FOR LINCOLN": receipts/filers/hilton_for_lincoln.md
+        - "HOME PAC": receipts/filers/home_pac.md
+        - "HORSECHIEF FOR MCC BOARD": receipts/filers/horsechief_for_mcc_board.md
+        - "HUDSON FOR SHERIFF": receipts/filers/hudson_for_sheriff.md
+        - "HUGHES FOR LEGISLATURE": receipts/filers/hughes_for_legislature.md
+        - "HUNTLEY FOR COUNCIL": receipts/filers/huntley_for_council.md
+        - "I LIKE HIKE FOR MAYOR": receipts/filers/i_like_hike_for_mayor.md
+        - "INDEPENDENT INSURANCE AGENTS OF NEBRASKA PAC": receipts/filers/independent_insurance_agents_of_nebraska_pac.md
+        - "IOWA-NEBRASKA EQUIPMENT DEALERS PAC": receipts/filers/iowanebraska_equipment_dealers_pac.md
+        - "IRONWORKERS LOCAL UNION 21 LEGISLATIVE FUND PAC": receipts/filers/ironworkers_local_union_21_legislative_fund_pac.md
+        - "IUOE LOCAL 571 PAC": receipts/filers/iuoe_local_571_pac.md
+        - "JACK A STARK FOR NEBRASKA BOARD OF REGENTS": receipts/filers/jack_a_stark_for_nebraska_board_of_regents.md
+        - "JACKSON FOR NEBRASKA": receipts/filers/jackson_for_nebraska.md
+        - "JAMES BLINN FOR MAYOR": receipts/filers/james_blinn_for_mayor.md
+        - "JANA HUGHES FOR LEGISLATURE": receipts/filers/jana_hughes_for_legislature.md
+        - "JANE RAYBOULD FOR LEGISLATURE": receipts/filers/jane_raybould_for_legislature.md
+        - "JANECE MOLLHOFF FOR OPPD BOARD": receipts/filers/janece_mollhoff_for_oppd_board.md
+        - "JANET CHUNG FOR LEGISLATURE": receipts/filers/janet_chung_for_legislature.md
+        - "JEAN STOTHERT FOR OMAHA": receipts/filers/jean_stothert_for_omaha.md
+        - "JEN DAY FOR NEBRASKA": receipts/filers/jen_day_for_nebraska.md
+        - "JENNA L GARCIA FOR GRETNA PUBLIC SCHOOLS": receipts/filers/jenna_l_garcia_for_gretna_public_schools.md
+        - "JIM PESCHONG SHERIFF COMMITTEE": receipts/filers/jim_peschong_sheriff_committee.md
+        - "JIM PILLEN FOR GOVERNOR": receipts/filers/jim_pillen_for_governor.md
+        - "JIM RIHA FOR LEGISLATURE": receipts/filers/jim_riha_for_legislature.md
+        - "JIM RIHA FOR MUD": receipts/filers/jim_riha_for_mud.md
+        - "JO GILES FOR DOUGLAS COUNTY COMMISSION": receipts/filers/jo_giles_for_douglas_county_commission.md
+        - "JOE NIGRO FOR PUBLIC DEFENDER": receipts/filers/joe_nigro_for_public_defender.md
+        - "JOEY SPELLERBERG FOR MAYOR": receipts/filers/joey_spellerberg_for_mayor.md
+        - "JOHN LOWE FOR LEGISLATURE": receipts/filers/john_lowe_for_legislature.md
+        - "JOHN LYONS FOR SEWARD COUNTY ATTORNEY": receipts/filers/john_lyons_for_seward_county_attorney.md
+        - "JON CAMP FOR CITY COUNCIL": receipts/filers/jon_camp_for_city_council.md
+        - "JONI ALBRECHT FOR LEGISLATURE": receipts/filers/joni_albrecht_for_legislature.md
+        - "JONI CRAIGHEAD FOR LEGISLATURE": receipts/filers/joni_craighead_for_legislature.md
+        - "JOSH EICKMEIER FOR MAYOR": receipts/filers/josh_eickmeier_for_mayor.md
+        - "JUANITA JOHNSON FOR CITY COUNCIL": receipts/filers/juanita_johnson_for_city_council.md
+        - "JULIE FREDRICKSON FOR LEGISLATURE": receipts/filers/julie_fredrickson_for_legislature.md
+        - "JULIE HEHNKE FOR NE BOARD OF REGENTS DISTRICT 6": receipts/filers/julie_hehnke_for_ne_board_of_regents_district_6.md
+        - "JULIE SLAMA FOR LEGISLATURE": receipts/filers/julie_slama_for_legislature.md
+        - "JULIE WRIGHT FOR MAYOR": receipts/filers/julie_wright_for_mayor.md
+        - "KAITLYN WOLTEMATH FOR DAWSON COUNTY TREASURER": receipts/filers/kaitlyn_woltemath_for_dawson_county_treasurer.md
+        - "KATHY CAMPBELL FOR LEGISLATURE": receipts/filers/kathy_campbell_for_legislature.md
+        - "KEITH COUNTY REPUBLICAN PARTY": receipts/filers/keith_county_republican_party.md
+        - "KEITH KUBE FOR LEGISLATURE": receipts/filers/keith_kube_for_legislature.md
+        - "KEVIN RYAN FOR OPPD": receipts/filers/kevin_ryan_for_oppd.md
+        - "KINDIG FOR MAYOR": receipts/filers/kindig_for_mayor.md
+        - "KLEIN FOR HALL COUNTY ATTORNEY COMMITTEE": receipts/filers/klein_for_hall_county_attorney_committee.md
+        - "KOLTERMAN FOR LEGISLATURE": receipts/filers/kolterman_for_legislature.md
+        - "KRIS FOR LANCASTER CLERK": receipts/filers/kris_for_lancaster_clerk.md
+        - "KRIS KARNES FOR WESTSIDE SCHOOL BOARD": receipts/filers/kris_karnes_for_westside_school_board.md
+        - "KRISTI EGGER FOR LANCASTER COUNTY PUBLIC DEFENDER": receipts/filers/kristi_egger_for_lancaster_county_public_defender.md
+        - "KRUEGER FOR THE PEOPLE": receipts/filers/krueger_for_the_people.md
+        - "LA GRONE FOR LEGISLATURE": receipts/filers/la_grone_for_legislature.md
+        - "LANCASTER COUNTY DEMOCRATS": receipts/filers/lancaster_county_democrats.md
+        - "LANCASTER COUNTY REPUBLICAN PARTY": receipts/filers/lancaster_county_republican_party.md
+        - "LANCASTER FORWARD": receipts/filers/lancaster_forward.md
+        - "LARRY BOLINGER FOR ATTORNEY GENERAL": receipts/filers/larry_bolinger_for_attorney_general.md
+        - "LATHROP FOR LEGISLATURE": receipts/filers/lathrop_for_legislature.md
+        - "LAURITSEN FOR NEBRASKA": receipts/filers/lauritsen_for_nebraska.md
+        - "LAWRENCE BURKE FOR SHERIFF": receipts/filers/lawrence_burke_for_sheriff.md
+        - "LEASE FOR LEGISLATURE": receipts/filers/lease_for_legislature.md
+        - "LEIRION FOR LINCOLN MAYOR": receipts/filers/leirion_for_lincoln_mayor.md
+        - "LELA MCNINCH FOR GOVERNOR": receipts/filers/lela_mcninch_for_governor.md
+        - "LIBERTARIAN PARTY OF NEBRASKA": receipts/filers/libertarian_party_of_nebraska.md
+        - "LIN FOR CLERK OF THE DISTRICT COURT": receipts/filers/lin_for_clerk_of_the_district_court.md
+        - "LINCOLN EDUCATION ASSOCIATION PAC": receipts/filers/lincoln_education_association_pac.md
+        - "LINCOLN INDEPENDENT BUSINESS ASSOCIATION PAC": receipts/filers/lincoln_independent_business_association_pac.md
+        - "LINEHAN FOR LEGISLATURE": receipts/filers/linehan_for_legislature.md
+        - "LORI SCHMIDT-LATHROP FOR CITY COUNCIL": receipts/filers/lori_schmidtlathrop_for_city_council.md
+        - "LOU ANN GODING FOR LEGISLATURE": receipts/filers/lou_ann_goding_for_legislature.md
+        - "LUTHER STARKS": receipts/filers/luther_starks.md
+        - "LYNN WALZ FOR LEGISLATURE": receipts/filers/lynn_walz_for_legislature.md
+        - "MACHAELA CAVANAUGH FOR LEGISLATURE": receipts/filers/machaela_cavanaugh_for_legislature.md
+        - "MAKE LIBERTY WIN NEBRASKA": receipts/filers/make_liberty_win_nebraska.md
+        - "MARGO 4 OPS": receipts/filers/margo_4_ops.md
+        - "MARILYN FOR DISTRICT 8": receipts/filers/marilyn_for_district_8.md
+        - "MARK HOEGER FOR LCCC BOARD": receipts/filers/mark_hoeger_for_lccc_board.md
+        - "MARK MONTGOMERY FOR DAWSON COUNTY SHERIFF": receipts/filers/mark_montgomery_for_dawson_county_sheriff.md
+        - "MARY ANN BORGESON FOR COUNTY BOARD": receipts/filers/mary_ann_borgeson_for_county_board.md
+        - "MATT CORE FOR OPPD": receipts/filers/matt_core_for_oppd.md
+        - "MATT DEAVER FOR LEGISLATURE": receipts/filers/matt_deaver_for_legislature.md
+        - "MATT WILLIAMS FOR REGENT, INC": receipts/filers/matt_williams_for_regent_inc.md
+        - "MAUREEN BOYLE FOR DOUGLAS COUNTY BOARD": receipts/filers/maureen_boyle_for_douglas_county_board.md
+        - "MAYHEW FOR SCHOOL BOARD": receipts/filers/mayhew_for_school_board.md
+        - "MCCARTHY FOR METRO": receipts/filers/mccarthy_for_metro.md
+        - "MCCAW FOR CITY COUNCIL": receipts/filers/mccaw_for_city_council.md
+        - "MCCOLLISTER FOR LEGISLATURE": receipts/filers/mccollister_for_legislature.md
+        - "MCCOLLISTER FOR MUD": receipts/filers/mccollister_for_mud.md
+        - "MCGOWAN FOR MUD": receipts/filers/mcgowan_for_mud.md
+        - "MCNEA FOR LEGISLATURE": receipts/filers/mcnea_for_legislature.md
+        - "MECHANICAL CONTRACTORS ASSOCIATION OF OMAHA PAC": receipts/filers/mechanical_contractors_association_of_omaha_pac.md
+        - "MELISSA FREELEND FOR NPPD": receipts/filers/melissa_freelend_for_nppd.md
+        - "MELTON FOR OMAHA": receipts/filers/melton_for_omaha.md
+        - "MERITHEW FOR SHERIFF": receipts/filers/merithew_for_sheriff.md
+        - "METROPOLITAN OMAHA BUILDERS ASSOCIATION PAC": receipts/filers/metropolitan_omaha_builders_association_pac.md
+        - "MEUSCH FOR COUNTY ASSESSOR": receipts/filers/meusch_for_county_assessor.md
+        - "MICHAEL GROENE FOR LEGISLATURE": receipts/filers/michael_groene_for_legislature.md
+        - "MIKE EVANS FOR GRETNA": receipts/filers/mike_evans_for_gretna.md
+        - "MIKE FLOOD FOR NEBRASKA": receipts/filers/mike_flood_for_nebraska.md
+        - "MIKE JACOBSON FOR LEGISLATURE": receipts/filers/mike_jacobson_for_legislature.md
+        - "MIKE MOSER FOR LEGISLATURE": receipts/filers/mike_moser_for_legislature.md
+        - "MILLARD EDUCATION ASSOCIATION PAC": receipts/filers/millard_education_association_pac.md
+        - "MIRCH FOR LEGISLATURE": receipts/filers/mirch_for_legislature.md
+        - "MURRAY FOR MUD": receipts/filers/murray_for_mud.md
+        - "NANCY KRATKY FOR SCHOOL BOARD": receipts/filers/nancy_kratky_for_school_board.md
+        - "NAPE AFSCME PEOPLE": receipts/filers/nape_afscme_people.md
+        - "NATIONAL FEDERATION OF INDEPENDENT BUSINESS NEBRASKA PAC": receipts/filers/national_federation_of_independent_business_nebraska_pac.md
+        - "NATIONAL RIFLE ASSOCIATION PAC (NRA PAC)": receipts/filers/national_rifle_association_pac_nra_pac.md
+        - "NATIONAL UTILITY CONTRACTORS ASSOCIATION OF NE PAC": receipts/filers/national_utility_contractors_association_of_ne_pac.md
+        - "NEARY FOR STATE BOARD OF EDUCATION": receipts/filers/neary_for_state_board_of_education.md
+        - "NEBRASKA ACADEMY OF EYE PHYSICIANS AND SURGEONS PAC": receipts/filers/nebraska_academy_of_eye_physicians_and_surgeons_pac.md
+        - "NEBRASKA ACTION COMMITTEE FOR RURAL ELECTRICIFICATION PAC": receipts/filers/nebraska_action_committee_for_rural_electricification_pac.md
+        - "NEBRASKA ASSOCIATION OF NURSE ANESTHETISTS PAC": receipts/filers/nebraska_association_of_nurse_anesthetists_pac.md
+        - "NEBRASKA ASSOCIATION OF TRIAL ATTORNEYS PAC": receipts/filers/nebraska_association_of_trial_attorneys_pac.md
+        - "NEBRASKA BANKERS STATE POLITICAL ACTION COMMITTEE": receipts/filers/nebraska_bankers_state_political_action_committee.md
+        - "NEBRASKA CABLE COMMUNICATIONS ASSOCIATION PAC": receipts/filers/nebraska_cable_communications_association_pac.md
+        - "NEBRASKA CATTLEMEN INC NC STATE PAC": receipts/filers/nebraska_cattlemen_inc_nc_state_pac.md
+        - "NEBRASKA CHAMBER OF COMMERCE AND INDUSTRY PAC": receipts/filers/nebraska_chamber_of_commerce_and_industry_pac.md
+        - "NEBRASKA COLLECTORS ASSOCATION PAC": receipts/filers/nebraska_collectors_assocation_pac.md
+        - "NEBRASKA CONSTRUCTION INDUSTRY PAC": receipts/filers/nebraska_construction_industry_pac.md
+        - "NEBRASKA COOPERATIVE COUNCIL - POLITICAL ACTION COMMITTEE": receipts/filers/nebraska_cooperative_council__political_action_committee.md
+        - "NEBRASKA CREDIT UNION LEAGUE LEGISLATIVE ACTION COMMITTEE": receipts/filers/nebraska_credit_union_league_legislative_action_committee.md
+        - "NEBRASKA DEMOCRATIC PARTY": receipts/filers/nebraska_democratic_party.md
+        - "NEBRASKA DEMOCRATIC WOMEN'S CAUCUS": receipts/filers/nebraska_democratic_womens_caucus.md
+        - "NEBRASKA DENTAL HYGIENISTS PAC": receipts/filers/nebraska_dental_hygienists_pac.md
+        - "NEBRASKA FARM BUREAU FEDERATION PAC": receipts/filers/nebraska_farm_bureau_federation_pac.md
+        - "NEBRASKA FARM PAC": receipts/filers/nebraska_farm_pac.md
+        - "NEBRASKA FEDERATION FOR CHILDREN": receipts/filers/nebraska_federation_for_children.md
+        - "NEBRASKA FIRST PAC": receipts/filers/nebraska_first_pac.md
+        - "NEBRASKA FREEDOM COALITION": receipts/filers/nebraska_freedom_coalition.md
+        - "NEBRASKA FUNERAL DIRECTORS ASSOCIATION PAC (NEFDA PAC)": receipts/filers/nebraska_funeral_directors_association_pac_nefda_pac.md
+        - "NEBRASKA FUTURE ACTION FUND": receipts/filers/nebraska_future_action_fund.md
+        - "NEBRASKA GREAT PLAINS LABORERS DISTRICT COUNCIL PAC FUND (GPLDC PAC)": receipts/filers/nebraska_great_plains_laborers_district_council_pac_fund_gpldc_pac.md
+        - "NEBRASKA GROCERY INDUSTRY ASSOCIATION PAC": receipts/filers/nebraska_grocery_industry_association_pac.md
+        - "NEBRASKA HOSPITAL ASSOCIATION PAC": receipts/filers/nebraska_hospital_association_pac.md
+        - "NEBRASKA INDEPENDENT COMMUNITY BANKERS PAC": receipts/filers/nebraska_independent_community_bankers_pac.md
+        - "NEBRASKA INSURANCE AND FINANCIAL ADVISORS PAC": receipts/filers/nebraska_insurance_and_financial_advisors_pac.md
+        - "NEBRASKA INSURANCE FEDERATION PAC": receipts/filers/nebraska_insurance_federation_pac.md
+        - "NEBRASKA INSURANCE INFORMATION SERVICE PAC": receipts/filers/nebraska_insurance_information_service_pac.md
+        - "NEBRASKA LAND TITLE ASSOCIATION PAC": receipts/filers/nebraska_land_title_association_pac.md
+        - "NEBRASKA MANUFACTURED HOUSING ASSOCIATION": receipts/filers/nebraska_manufactured_housing_association.md
+        - "NEBRASKA MEDICAL PAC": receipts/filers/nebraska_medical_pac.md
+        - "NEBRASKA NEW ENERGY ECONOMY PAC": receipts/filers/nebraska_new_energy_economy_pac.md
+        - "NEBRASKA OPTOMETRIC ASSOCIATION PAC": receipts/filers/nebraska_optometric_association_pac.md
+        - "NEBRASKA PETROLEUM PAC": receipts/filers/nebraska_petroleum_pac.md
+        - "NEBRASKA PHARM PAC": receipts/filers/nebraska_pharm_pac.md
+        - "NEBRASKA PHYSICAL THERAPY PAC": receipts/filers/nebraska_physical_therapy_pac.md
+        - "NEBRASKA REALTORS PAC": receipts/filers/nebraska_realtors_pac.md
+        - "NEBRASKA REPUBLICAN PARTY": receipts/filers/nebraska_republican_party.md
+        - "NEBRASKA RIGHT TO LIFE PAC": receipts/filers/nebraska_right_to_life_pac.md
+        - "NEBRASKA RURAL BROADBAND PAC": receipts/filers/nebraska_rural_broadband_pac.md
+        - "NEBRASKA SOCIETY OF CERTIFIED PUBLIC ACCOUNTANTS PAC": receipts/filers/nebraska_society_of_certified_public_accountants_pac.md
+        - "NEBRASKA STATE EDUCATION ASSOCIATION PAC": receipts/filers/nebraska_state_education_association_pac.md
+        - "NEBRASKA STATE HOME BUILDERS ASSOCIATION PAC": receipts/filers/nebraska_state_home_builders_association_pac.md
+        - "NEBRASKA TELECOMMUNICATIONS ASSOCIATION PAC": receipts/filers/nebraska_telecommunications_association_pac.md
+        - "NEBRASKA YOUNG DEMOCRATS": receipts/filers/nebraska_young_democrats.md
+        - "NEBRASKANS FOR CAROL BLOOD": receipts/filers/nebraskans_for_carol_blood.md
+        - "NEBRASKANS FOR EVAN SCHMEITS": receipts/filers/nebraskans_for_evan_schmeits.md
+        - "NEBRASKANS FOR FREE AND FAIR ELECTIONS": receipts/filers/nebraskans_for_free_and_fair_elections.md
+        - "NEBRASKANS FOR KAMLER": receipts/filers/nebraskans_for_kamler.md
+        - "NEBRASKANS FOR LOREN LIPPINCOTT": receipts/filers/nebraskans_for_loren_lippincott.md
+        - "NEBRASKANS FOR MURANTE": receipts/filers/nebraskans_for_murante.md
+        - "NEBRASKANS FOR NABITY": receipts/filers/nebraskans_for_nabity.md
+        - "NEBRASKANS FOR NEBRASKA": receipts/filers/nebraskans_for_nebraska.md
+        - "NEBRASKANS FOR PETE PIRSCH": receipts/filers/nebraskans_for_pete_pirsch.md
+        - "NEBRASKANS FOR RELIABLE AND AFFORDABLE ELECTRICITY": receipts/filers/nebraskans_for_reliable_and_affordable_electricity.md
+        - "NEBRASKANS FOR RESPONSIBLE LENDING": receipts/filers/nebraskans_for_responsible_lending.md
+        - "NEBRASKANS FOR SCHRAM": receipts/filers/nebraskans_for_schram.md
+        - "NEBRASKANS FOR THERESA": receipts/filers/nebraskans_for_theresa.md
+        - "NEIGHBORS FOR CAVANAUGH": receipts/filers/neighbors_for_cavanaugh.md
+        - "NEIGHBORS FOR MEGAN HUNT": receipts/filers/neighbors_for_megan_hunt.md
+        - "NEIGHBORS FOR NANCY PETITTO": receipts/filers/neighbors_for_nancy_petitto.md
+        - "NEIGHBORS FOR SEAN FLOWERDAY": receipts/filers/neighbors_for_sean_flowerday.md
+        - "NELSON FOR CHERRY COUNTY": receipts/filers/nelson_for_cherry_county.md
+        - "NFFV ACTION PAC": receipts/filers/nffv_action_pac.md
+        - "NMM": receipts/filers/nmm.md
+        - "NORA BORER FOR ASSESSOR": receipts/filers/nora_borer_for_assessor.md
+        - "NORTHWESTERN PUBLIC SERVICE EMPLOYEE'S PAC": receipts/filers/northwestern_public_service_employees_pac.md
+        - "NUCOR CORPORATION PAC OF NEBRASKA": receipts/filers/nucor_corporation_pac_of_nebraska.md
+        - "OMAHA EDUCATION ASSOCIATION PAC": receipts/filers/omaha_education_association_pac.md
+        - "ONWARD LINCOLN": receipts/filers/onward_lincoln.md
+        - "PAM DINGMAN FOR NEBRASKA": receipts/filers/pam_dingman_for_nebraska.md
+        - "PANSING BROOKS FOR LEGISLATURE": receipts/filers/pansing_brooks_for_legislature.md
+        - "PANTOS FOR COUNTY ATTORNEY": receipts/filers/pantos_for_county_attorney.md
+        - "PARENTS FOR MIKE KENNEDY": receipts/filers/parents_for_mike_kennedy.md
+        - "PAT MOORE FOR STATE BOARD OF EDUCATION": receipts/filers/pat_moore_for_state_board_of_education.md
+        - "PATEFIELD FOR LEGISLATURE": receipts/filers/patefield_for_legislature.md
+        - "PATRICK HOTOVY FOR NEBRASKA": receipts/filers/patrick_hotovy_for_nebraska.md
+        - "PATRICK J BIRKEL FOR CITY COUNCIL": receipts/filers/patrick_j_birkel_for_city_council.md
+        - "PATRICK ROY FOR EPS": receipts/filers/patrick_roy_for_eps.md
+        - "PATSY KOCH JOHNS FOR QUALITY EDUCATION": receipts/filers/patsy_koch_johns_for_quality_education.md
+        - "PAUL KENNEY FOR REGENT COMMITTEE": receipts/filers/paul_kenney_for_regent_committee.md
+        - "PAUL VRBKA FOR SHERIFF": receipts/filers/paul_vrbka_for_sheriff.md
+        - "PENNER FOR STATE BOARD OF EDUCATION": receipts/filers/penner_for_state_board_of_education.md
+        - "PEOPLE FOR NOLTE COMMITTEE": receipts/filers/people_for_nolte_committee.md
+        - "PEOPLE FOR PAUL SCHUMACHER": receipts/filers/people_for_paul_schumacher.md
+        - "PEOPLE FOR TERRELL MCKINNEY": receipts/filers/people_for_terrell_mckinney.md
+        - "PETE RICKETTS FOR GOVERNOR": receipts/filers/pete_ricketts_for_governor.md
+        - "PITTS FOR SHERIFF": receipts/filers/pitts_for_sheriff.md
+        - "PLACE TO PLAY": receipts/filers/place_to_play.md
+        - "POP PAC (NEBRASKA BEVERAGE ASSOCIATION)": receipts/filers/pop_pac_nebraska_beverage_association.md
+        - "POSITIVE NEBRASKA": receipts/filers/positive_nebraska.md
+        - "PREBLE FOR PUBLIC DEFENDER": receipts/filers/preble_for_public_defender.md
+        - "PRESERVE THE GOOD LIFE": receipts/filers/preserve_the_good_life.md
+        - "PRINTING INDUSTRY MIDWEST PAC (PIM PAC)": receipts/filers/printing_industry_midwest_pac_pim_pac.md
+        - "PROFESSIONAL INSURANCE AGENTS OF NEBRASKA PAC": receipts/filers/professional_insurance_agents_of_nebraska_pac.md
+        - "PROHASKA FOR SHERIFF": receipts/filers/prohaska_for_sheriff.md
+        - "PROSPER NEBRASKA": receipts/filers/prosper_nebraska.md
+        - "PROTECT NEBRASKA CHILDREN - PAC": receipts/filers/protect_nebraska_children__pac.md
+        - "RACHEL GARVER FOR COUNTY TREASURER": receipts/filers/rachel_garver_for_county_treasurer.md
+        - "RACHEL L ORMSBY FOR REGISTER OF DEEDS": receipts/filers/rachel_l_ormsby_for_register_of_deeds.md
+        - "RAEGAN HAIN FOR SEWARD COUNTY COMMISSIONER DISTRICT 3": receipts/filers/raegan_hain_for_seward_county_commissioner_district_3.md
+        - "RAISE THE WAGE NEBRASKA": receipts/filers/raise_the_wage_nebraska.md
+        - "RAY AGUILAR FOR LEGISLATURE": receipts/filers/ray_aguilar_for_legislature.md
+        - "RAYBOULD FOR CITY COUNCIL": receipts/filers/raybould_for_city_council.md
+        - "RE-ELECT MICHAEL HENRY PHELPS COUNTY ATTORNEY": receipts/filers/reelect_michael_henry_phelps_county_attorney.md
+        - "REELECT DAVID P BLACK FOR MAYOR": receipts/filers/reelect_david_p_black_for_mayor.md
+        - "REGISTER FOR COUNTY ATTORNEY 2022": receipts/filers/register_for_county_attorney_2022.md
+        - "RICHARDS FOR NEBRASKA": receipts/filers/richards_for_nebraska.md
+        - "RICK CONRAD FOR HALL COUNTY SHERIFF": receipts/filers/rick_conrad_for_hall_county_sheriff.md
+        - "RICK HOLDCROFT FOR LEGISLATURE DISTRICT 36": receipts/filers/rick_holdcroft_for_legislature_district_36.md
+        - "RIDENOUR FOR GOVERNOR": receipts/filers/ridenour_for_governor.md
+        - "RIEPE FOR NEBRASKA": receipts/filers/riepe_for_nebraska.md
+        - "ROB CLEMENTS FOR LEGISLATURE": receipts/filers/rob_clements_for_legislature.md
+        - "ROB OGDEN FOR ASSESSOR": receipts/filers/rob_ogden_for_assessor.md
+        - "ROB SCHAFER FOR BOARD OF REGENTS": receipts/filers/rob_schafer_for_board_of_regents.md
+        - "ROBERT J BORER FOR GOVERNOR": receipts/filers/robert_j_borer_for_governor.md
+        - "ROBERT SORENSON FOR SHERIFF": receipts/filers/robert_sorenson_for_sheriff.md
+        - "ROBIN STEVENS CAMPAIGN": receipts/filers/robin_stevens_campaign.md
+        - "ROD JOHNSON FOR PSC": receipts/filers/rod_johnson_for_psc.md
+        - "ROGER STEELE FOR MAYOR": receipts/filers/roger_steele_for_mayor.md
+        - "ROY M ZACH FOR LEGISLATURE 22": receipts/filers/roy_m_zach_for_legislature_22.md
+        - "ROYERS FOR NEBRASKA": receipts/filers/royers_for_nebraska.md
+        - "RURAL NEBRASKANS FOR BARRY DEKAY": receipts/filers/rural_nebraskans_for_barry_dekay.md
+        - "RUST FOR SHERIFF": receipts/filers/rust_for_sheriff.md
+        - "SANDERS FOR LEGISLATURE": receipts/filers/sanders_for_legislature.md
+        - "SARA HOWARD FOR OPPD": receipts/filers/sara_howard_for_oppd.md
+        - "SARPY COUNTY DEMOCRATIC PARTY": receipts/filers/sarpy_county_democratic_party.md
+        - "SARPY COUNTY REPUBLICAN PARTY": receipts/filers/sarpy_county_republican_party.md
+        - "SAVE NEBRASKA": receipts/filers/save_nebraska.md
+        - "SAY NO TO RINOS": receipts/filers/say_no_to_rinos.md
+        - "SCHORR FOR COUNTY COMMISSIONER": receipts/filers/schorr_for_county_commissioner.md
+        - "SCHUYLER WINDHAM FOR NEBRASKA": receipts/filers/schuyler_windham_for_nebraska.md
+        - "SEACREST FOR NRD": receipts/filers/seacrest_for_nrd.md
+        - "SEAN SWANSON FOR MILLARD PUBLIC SCHOOL BOARD": receipts/filers/sean_swanson_for_millard_public_school_board.md
+        - "SET 4 ELKHORN": receipts/filers/set_4_elkhorn.md
+        - "SHAWN MESSERLIE FOR SHERIFF": receipts/filers/shawn_messerlie_for_sheriff.md
+        - "SHEET METAL WORKERS LOCAL 3 COPE FUND": receipts/filers/sheet_metal_workers_local_3_cope_fund.md
+        - "SHERRY JONES 4 NE KIDS": receipts/filers/sherry_jones_4_ne_kids.md
+        - "SHERRY L MORROW FOR COUNTY COMMISSIONER": receipts/filers/sherry_l_morrow_for_county_commissioner.md
+        - "SIERRA CLUB PAC NEBRASKA CHAPTER": receipts/filers/sierra_club_pac_nebraska_chapter.md
+        - "SLATTERY FOR NEBRASKA": receipts/filers/slattery_for_nebraska.md
+        - "SOLHEIM FOR SALINE COUNTY ATTORNEY": receipts/filers/solheim_for_saline_county_attorney.md
+        - "SOUKUP FOR SHERIFF 2022": receipts/filers/soukup_for_sheriff_2022.md
+        - "STACY JOLLEY FOR MILLARD SCHOOL BOARD": receipts/filers/stacy_jolley_for_millard_school_board.md
+        - "STATE HEALTH PAC (BLUE CROSS BLUE SHIELD)": receipts/filers/state_health_pac_blue_cross_blue_shield.md
+        - "STATE TROOPERS OF NEBRASKA PAC": receipts/filers/state_troopers_of_nebraska_pac.md
+        - "STEAMFITTERS AND PLUMBERS LU 464 PAC FUND": receipts/filers/steamfitters_and_plumbers_lu_464_pac_fund.md
+        - "STEVE ERDMAN FOR LEGISLATURE": receipts/filers/steve_erdman_for_legislature.md
+        - "STEVE HALLORAN FOR LEGISLATURE": receipts/filers/steve_halloran_for_legislature.md
+        - "STEVE HESPEN FOR SHERIFF COMMITTEE": receipts/filers/steve_hespen_for_sheriff_committee.md
+        - "STINNER FOR LEGISLATURE": receipts/filers/stinner_for_legislature.md
+        - "STU DORNAN FOR LEGISLATURE": receipts/filers/stu_dornan_for_legislature.md
+        - "SUANN WITT FOR PLCS SCHOOL BOARD": receipts/filers/suann_witt_for_plcs_school_board.md
+        - "SUE FOR NPPD": receipts/filers/sue_for_nppd.md
+        - "SUPPORTERS OF JASMINE FOR TREASURER": receipts/filers/supporters_of_jasmine_for_treasurer.md
+        - "SUZANNE C GEIST FOR LEGISLATURE": receipts/filers/suzanne_c_geist_for_legislature.md
+        - "TAMMY WARD FOR CITY COUNCIL": receipts/filers/tammy_ward_for_city_council.md
+        - "TANYA STORER FOR CHERRY COUNTY COMMISSIONER": receipts/filers/tanya_storer_for_cherry_county_commissioner.md
+        - "TASK FORCE FOR KIDS": receipts/filers/task_force_for_kids.md
+        - "TEAM SCHULLER": receipts/filers/team_schuller.md
+        - "TEAMSTERS LOCAL 554 PAC": receipts/filers/teamsters_local_554_pac.md
+        - "TERESA IBACH FOR LEGISLATURE": receipts/filers/teresa_ibach_for_legislature.md
+        - "THE GOVERNOR HEINEMAN COMMITTEE": receipts/filers/the_governor_heineman_committee.md
+        - "TIEDEMAN FOR PAPILLION": receipts/filers/tiedeman_for_papillion.md
+        - "TIMOTHY J. GRAGERT FOR LEGISLATURE DISTRICT 40": receipts/filers/timothy_j_gragert_for_legislature_district_40.md
+        - "TODD PFITZER FOR DOUGLAS COUNTY ENGINEER": receipts/filers/todd_pfitzer_for_douglas_county_engineer.md
+        - "TODD VOLK FOR SHERIFF": receipts/filers/todd_volk_for_sheriff.md
+        - "TOGETHER NEBRASKA": receipts/filers/together_nebraska.md
+        - "TOM BECKIUS FOR CITY COUNCIL": receipts/filers/tom_beckius_for_city_council.md
+        - "TOM BREWER FOR NEBRASKA": receipts/filers/tom_brewer_for_nebraska.md
+        - "TOOKER 4 OMAHA": receipts/filers/tooker_4_omaha.md
+        - "TRACE FOR TREASURER": receipts/filers/trace_for_treasurer.md
+        - "TRACY FOR TREASURER": receipts/filers/tracy_for_treasurer.md
+        - "TROY HAWK FOR CLERK OF THE DISTRICT COURT": receipts/filers/troy_hawk_for_clerk_of_the_district_court.md
+        - "TRUE NEBRASKANS LLC": receipts/filers/true_nebraskans_llc.md
+        - "TRUST NEBRASKA TEACHERS": receipts/filers/trust_nebraska_teachers.md
+        - "TUCKER FOR METRO": receipts/filers/tucker_for_metro.md
+        - "TYLER CAPPEL FOR LEGISLATURE": receipts/filers/tyler_cappel_for_legislature.md
+        - "VARGAS FOR NEBRASKA": receipts/filers/vargas_for_nebraska.md
+        - "VON GILLERN FOR NEBRASKA": receipts/filers/von_gillern_for_nebraska.md
+        - "VOTE ANDY ALLEN": receipts/filers/vote_andy_allen.md
+        - "VOTE HOCH CAMPAIGN COMMITTEE": receipts/filers/vote_hoch_campaign_committee.md
+        - "VOTE SCHULTE": receipts/filers/vote_schulte.md
+        - "VOTE VEST": receipts/filers/vote_vest.md
+        - "VOTE WEBER": receipts/filers/vote_weber.md
+        - "VOTE YES FOR SCOTTSBLUFF AQUATICS": receipts/filers/vote_yes_for_scottsbluff_aquatics.md
+        - "VOTE YES NORFOLK": receipts/filers/vote_yes_norfolk.md
+        - "VOTE YODER": receipts/filers/vote_yoder.md
+        - "VOTERS AGAINST DISCRIMINATION COMMITTEE": receipts/filers/voters_against_discrimination_committee.md
+        - "WAGNER FOR SHERIFF": receipts/filers/wagner_for_sheriff.md
+        - "WALT PEFFER FOR DOUGLAS COUNTY ASSESSOR": receipts/filers/walt_peffer_for_douglas_county_assessor.md
+        - "WASHINGTON FOR LINCOLN": receipts/filers/washington_for_lincoln.md
+        - "WAYNE FOR NEBRASKA": receipts/filers/wayne_for_nebraska.md
+        - "WENDY DEBOER FOR LEGISLATURE": receipts/filers/wendy_deboer_for_legislature.md
+        - "WERNER ENTERPRISES PAC": receipts/filers/werner_enterprises_pac.md
+        - "WHITLEY RED FOR PAPILLION LAVISTA SCHOOL BOARD": receipts/filers/whitley_red_for_papillion_lavista_school_board.md
+        - "WILL KIRKLAND FOR KEARNEY SCHOOL BOARD": receipts/filers/will_kirkland_for_kearney_school_board.md
+        - "WILMOT FOR REGENT": receipts/filers/wilmot_for_regent.md
+        - "WILSON FOR REGENT": receipts/filers/wilson_for_regent.md
+        - "WINTERER FOR STATE BOARD OF EDUCATION": receipts/filers/winterer_for_state_board_of_education.md
+        - "WOMEN WHO RUN NEBRASKA PAC": receipts/filers/women_who_run_nebraska_pac.md
+        - "YALE FOR WESTSIDE": receipts/filers/yale_for_westside.md
+        - "YOST LAMME HILLIS MITCHELL SCHULZ HARTMANN & WILSON PC": receipts/filers/yost_lamme_hillis_mitchell_schulz_hartmann_&_wilson_pc.md
+        - "ZUGER 4 SARPY COMMITTEE": receipts/filers/zuger_4_sarpy_committee.md
