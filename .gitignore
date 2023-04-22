@@ -1,6 +1,7 @@
 venv/
 nadc/site/*
 ppp/files/*
+__pycache__/*
 
 nadc/docs/campaign_finance/
 nadc/docs/campaign_finance/*

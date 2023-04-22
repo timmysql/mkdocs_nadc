@@ -183,6 +183,9 @@ def main_files():
     year_ = 2022
     main_single(file_type_=file_type_, year_=year_)
     
+    year_ = 2023
+    main_single(file_type_=file_type_, year_=year_)    
+    
     
     file_type_ = 'contributions'
     
@@ -190,7 +193,10 @@ def main_files():
     main_single(file_type_=file_type_, year_=year_)
     
     year_ = 2022
-    main_single(file_type_=file_type_, year_=year_)    
+    main_single(file_type_=file_type_, year_=year_)   
+    
+    year_ = 2023
+    main_single(file_type_=file_type_, year_=year_)       
     
 
 def main_post_load():

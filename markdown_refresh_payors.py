@@ -4,7 +4,7 @@ import shutil
 import markdown_refresh_directories as dirs
 # from refresh_filers import RCP_YAML_DIR
 
-# CWD = os.getcwd()
+CWD = os.getcwd()
 # BUILDER_OUTPUT_PAYORS = 'datanebraska\\docs\\campaign_finance\\receipts\\payors'
 OUTPUT_PATH_PAYORS = dirs.CWD + '\\' + dirs.BUILDER_OUTPUT_PAYORS
 PAYORS_PREFIX = dirs.PAYORS_PREFIX

@@ -1,11 +1,254 @@
-from sqlmodel import  SQLModel, Field, Column, VARCHAR, DateTime
+from sqlmodel import  SQLModel, Field, Column, VARCHAR, DateTime, ARRAY
 from typing import Optional
 from datetime import date, datetime, time, timedelta
-from sqlalchemy import BigInteger, inspect
+from sqlalchemy import BigInteger, inspect, Integer, String
 from rich import inspect
 from db_config import DbConfig
+from typing import Optional, List, Union
+from dataclasses import dataclass, field, MISSING
+
 
 engine = db_engine = DbConfig.get_central_engine()
+
+class FecLoadLog(SQLModel, table=True):
+    __tablename__ = 'fec_load_log'
+    id: Optional[int] = Field(default=None, primary_key=True)     
+    committee_id: Optional[str]
+    page: int
+    num_pages: int 
+    last_index: Optional[str]
+    last_crd: Optional[str] 
+    per_page: int
+    count: int
+
+class FecCommittees(SQLModel, table=True):
+    __tablename__ = "fec_committees"  
+    affiliated_committee_name: Optional[str] = Field(default=None) 
+    candidate_ids: List[str]
+    committee_id: str = Field(default=None, primary_key=True)
+    committee_type: str
+    committee_type_full: str
+    cycles: List[int] = Field(sa_column=Column(ARRAY(String)))
+    designation: Optional[str]
+    designation_full: Optional[str]
+    filing_frequency: str
+    first_f1_date: Optional[str]
+    first_file_date: str
+    last_f1_date: Optional[str]
+    last_file_date: str
+    name: str
+    organization_type: Optional[str]
+    organization_type_full: Optional[str]
+    party: Optional[str] = Field(default=None) 
+    party_full: Optional[str] = Field(default=None) 
+    sponsor_candidate_ids: Optional[List[str]] = Field(sa_column=Column(ARRAY(String)))    
+    sponsor_candidate_list: Optional[List[str]] = Field(sa_column=Column(ARRAY(String)))   
+    # sponsor_candidate_list: List[Dict[str, str]] = Field(sa_column=Column(ARRAY(String)))  
+    state: str
+    treasurer_name: Optional[str]
+
+class FecCandidates(SQLModel, table=True):
+    __tablename__ = "fec_candidates"  
+    active_through: int
+    candidate_id: str = Field(default=None, primary_key=True)
+    candidate_inactive: bool
+    candidate_status: str
+    cycles: List[int] = Field(sa_column=Column(ARRAY(Integer)))
+    district: str
+    district_number: int
+    election_districts: Optional[List[str]] = Field(sa_column=Column(ARRAY(String)))    
+    election_years: List[int] = Field(sa_column=Column(ARRAY(Integer)))
+    federal_funds_flag: bool
+    first_file_date: Optional[str] = Field(default=None) 
+    flags: Optional[str]
+    has_raised_funds: bool
+    inactive_election_years: List[int] = Field(sa_column=Column(ARRAY(Integer)))
+    incumbent_challenge: Optional[str]
+    incumbent_challenge_full: Optional[str]
+    last_f2_date: Optional[str] = Field(default=None) 
+    last_file_date: Optional[str] = Field(default=None) 
+    load_date: Optional[str] = Field(default=None) 
+    name: str
+    office:str
+    office_full: str
+    party: Optional[str]
+    party_full: Optional[str]
+    state: str  
+
+
+class ScheduleB(SQLModel, table=True): 
+    __tablename__ = "fec_schedule_b" 
+    # id: Optional[int] = Field(default=None, primary_key=True)     
+    
+    amendment_indicator: Optional[str]
+    amendment_indicator_desc: Optional[str]
+    back_reference_schedule_id: Optional[str]
+    back_reference_transaction_id: Optional[str]
+    beneficiary_committee_name: Optional[str]
+    candidate_first_name: Optional[str]
+    candidate_id: Optional[str]
+    candidate_last_name: Optional[str]
+    candidate_middle_name: Optional[str]
+    candidate_name: Optional[str]
+    candidate_office: Optional[str]
+    candidate_office_description: Optional[str]
+    candidate_office_district: Optional[str]
+    candidate_office_state: Optional[str]
+    candidate_office_state_full: Optional[str]
+    candidate_prefix: Optional[str]
+    candidate_suffix: Optional[str]
+    category_code: Optional[str]
+    category_code_full: Optional[str]
+    comm_dt: Optional[str]
+    committee: Optional[str]
+    committee_id: Optional[str]
+    conduit_committee_city: Optional[str]
+    conduit_committee_name: Optional[str]
+    conduit_committee_state: Optional[str]
+    conduit_committee_street1: Optional[str]
+    conduit_committee_street2: Optional[str]
+    conduit_committee_zip: Optional[int]
+    disbursement_amount: Optional[float]
+    disbursement_date: Optional[str]
+    disbursement_description: Optional[str]
+    disbursement_purpose_category: Optional[str]
+    disbursement_type: Optional[str]
+    disbursement_type_description: Optional[str]
+    election_type: Optional[str]
+    election_type_description: Optional[str]
+    entity_type: Optional[str]
+    entity_type_desc: Optional[str]
+    fec_election_type_desc: Optional[str]
+    fec_election_year: Optional[str]
+    file_number: Optional[int]
+    filing_form: Optional[str]
+    image_number: Optional[str]
+    line_number: Optional[str]
+    line_number_laber: Optional[str]
+    link_id: Optional[str]  = Field(default=None, primary_key=True) 
+    load_date: Optional[str]
+    memo_code: Optional[str]
+    memo_code_full: Optional[str]
+    memo_text: Optional[str]
+    memoed_subtotal: Optional[bool]
+    national_committee_nonfederal_account: Optional[str]
+    original_sub_id: Optional[str]
+    payee_employer: Optional[str]
+    payee_first_name: Optional[str]
+    payee_last_name: Optional[str]
+    payee_middle_name: Optional[str]
+    payee_occupation: Optional[str]
+    payee_prefix: Optional[str]
+    payee_suffix: Optional[str]
+    pdf_url: Optional[str]
+    recipient_city: Optional[str]
+    recipient_committee: Optional[str]
+    recipient_committee_id: Optional[str]
+    recipient_name: Optional[str]
+    recipient_state: Optional[str]
+    recipient_zip: Optional[str]
+    ref_disp_excess_flg: Optional[str]
+    report_type: Optional[str]
+    report_year: Optional[int]
+    schedule_type: Optional[str]
+    schedule_type_full: Optional[str]
+    semi_annual_bundled_refund: Optional[float]
+    spender_committee_designation: Optional[str]
+    spender_committee_org_type: Optional[str]
+    sub_id: Optional[str] = Field(default=None, primary_key=True) 
+    transaction_id: Optional[str]
+    two_year_transaction_period: Optional[int]
+    unused_recipient_committee_id: Optional[str]
+    
+
+
+class ScheduleA(SQLModel, table=True): 
+    __tablename__ = "fec_schedule_a" 
+    # id: Optional[int] = Field(default=None, primary_key=True)     
+    amendment_indicator: Optional[str]
+    amendment_indicator_desc: Optional[str]
+    back_reference_schedule_name: Optional[str]
+    back_reference_transaction_id: Optional[str]
+    candidate_first_name: Optional[str]
+    candidate_id: Optional[str]
+    candidate_last_name: Optional[str]
+    candidate_middle_name: Optional[str]
+    candidate_name: Optional[str]
+    candidate_office: Optional[str]
+    candidate_office_district: Optional[str]
+    candidate_office_full: Optional[str]
+    candidate_office_state: Optional[str]
+    candidate_office_state_full: Optional[str]
+    candidate_prefix: Optional[str]
+    candidate_suffix: Optional[str]
+    committee: Optional[str]
+    committee_id: Optional[str]
+    committee_name: Optional[str]
+    conduit_committee_city: Optional[str]
+    conduit_committee_id: Optional[str]
+    conduit_committee_name: Optional[str]
+    conduit_committee_state: Optional[str]
+    conduit_committee_street1: Optional[str]
+    conduit_committee_street2: Optional[str]
+    conduit_committee_zip: Optional[int]
+    contribution_receipt_amount: Optional[float]
+    contribution_receipt_date: Optional[str]
+    contributor: Optional[str]
+    contributor_aggregate_ytd: Optional[str]
+    contributor_city: Optional[str]
+    contributor_employer: Optional[str]
+    contributor_first_name: Optional[str]
+    contributor_id: Optional[str]
+    contributor_last_name: Optional[str]
+    contributor_middle_name: Optional[str]
+    contributor_name: Optional[str]
+    contributor_occupation: Optional[str]
+    contributor_prefix: Optional[str]
+    contributor_state: Optional[str]
+    contributor_street_1: Optional[str]
+    contributor_street_2: Optional[str]
+    contributor_suffix: Optional[str]
+    contributor_zip: Optional[str]
+    donor_committee_name: Optional[str]
+    election_type: Optional[str]
+    election_type_full: Optional[str]
+    entity_type: Optional[str]
+    entity_type_desc: Optional[str]
+    fec_election_type_desc: Optional[str]
+    fec_election_year: Optional[str]
+    file_number: Optional[str]
+    filing_form: Optional[str]
+    image_number: Optional[str]
+    increased_limit: Optional[str]
+    is_individual: Optional[bool]
+    line_number: Optional[str]
+    line_number_label: Optional[str]
+    # link_id: Optional[str]
+    link_id: Optional[str]  = Field(default=None, primary_key=True) 
+    load_date: Optional[str]
+    memo_code: Optional[str]
+    memo_code_full: Optional[str]
+    memo_text: Optional[str]
+    memoed_subtotal: bool
+    national_committee_nonfederal_account: Optional[str]
+    original_sub_id: Optional[str]
+    pdf_url: Optional[str]
+    receipt_type: Optional[str]
+    receipt_type_desc: Optional[str]
+    receipt_type_full: Optional[str]
+    recipient_committee_designation: Optional[str]
+    recipient_committee_org_type: Optional[str]
+    recipient_committee_type: Optional[str]
+    report_type: Optional[str]
+    report_year: Optional[int]
+    schedule_type: Optional[str]
+    schedule_type_full: Optional[str]
+    sub_id: Optional[str] = Field(default=None, primary_key=True) 
+    # sub_id: Optional[str]
+    transaction_id: Optional[str] 
+    two_year_transaction_period: Optional[int]
+    unused_contbr_id:  Optional[str]   
+
 
 class PppData(SQLModel, table=True): 
     __tablename__ = "ppp_data" 

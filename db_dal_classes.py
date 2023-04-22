@@ -4,7 +4,8 @@ from typing import Optional
 from sqlmodel import Field, Session, SQLModel, create_engine, select, or_
 # import db_config as cfg
 # import models as mdl
-from db_models import PppData, Payee, Payor, Filer, ExpenditureFiler, Expenditure, ContributionFiler, Contribution, ErrorLog
+from sqlalchemy import func
+from db_models import FecCandidates,ScheduleA,ScheduleB, FecCommittees, PppData, Payee, Payor, Filer, ExpenditureFiler, Expenditure, ContributionFiler, Contribution, ErrorLog
 from db_config import DbConfig
 from sqlmodel.sql.expression import Select, SelectOfScalar
 from rich import inspect
@@ -15,6 +16,184 @@ engine = db_engine = DbConfig.get_central_engine()
     
 SelectOfScalar.inherit_cache = True  # type: ignore
 Select.inherit_cache = True  # type: ignore       
+
+class SelectOneFecCandidate:
+    def __init__(self, candidate_id):
+        self.candidate_id = candidate_id
+   
+    def select(self):
+        try:
+            with Session(engine) as session:
+                statement = select(FecCandidates).where(FecCandidates.candidate_id == self.candidate_id)
+                results = session.exec(statement)
+                filers = results.first()
+            return filers
+        except Exception as e:
+            raise  
+        
+class SelectOneFecCommittee:
+    def __init__(self, committee_id):
+        self.committee_id = committee_id
+   
+    def select(self):
+        try:
+            with Session(engine) as session:
+                statement = select(FecCommittees).where(FecCommittees.committee_id == self.committee_id)
+                results = session.exec(statement)
+                filers = results.first()
+            return filers
+        except Exception as e:
+            raise  
+        
+                
+class SelectOneFecScheduleB:
+    def __init__(self, link_id, sub_id):
+        self.link_id = link_id
+        self.sub_id = sub_id
+    def select(self):
+        try:
+            with Session(engine) as session:
+                statement = select(ScheduleB).where(ScheduleB.sub_id == self.sub_id).where(ScheduleB.link_id == str(self.link_id))
+                results = session.exec(statement)
+                # print(dir(results))
+                filers = results.first()
+                # for filer in results:
+                #     print(filer.org_id)
+            return filers
+        except Exception as e:
+            raise  
+        
+        
+class SelectFecScheduleB:
+    def __init__(self):
+        pass
+    def all(self):
+        try:
+            with Session(engine) as session:
+                statement = select(ScheduleB)
+                results = session.exec(statement)
+                # print(dir(results))
+                filers = results.fetchall()
+                # for filer in results:
+                #     print(filer.org_id)
+            return filers
+        except Exception as e:
+            raise  
+
+    def distinct_committees(self):
+        try:
+            with Session(engine) as session:
+                statement = select(ScheduleB.committee_id).distinct()
+                results = session.exec(statement)
+                # print(dir(results))
+                filers = results.fetchall()
+                # for filer in results:
+                #     print(filer.org_id)
+            return filers
+        except Exception as e:
+            raise    
+
+class SelectOneFecScheduleA:
+    def __init__(self, link_id, sub_id):
+        self.link_id = link_id
+        self.sub_id = sub_id
+    def select(self):
+        try:
+            with Session(engine) as session:
+                statement = select(ScheduleA).where(ScheduleA.sub_id == self.sub_id).where(ScheduleA.link_id == str(self.link_id))
+                results = session.exec(statement)
+                # print(dir(results))
+                filers = results.first()
+                # for filer in results:
+                #     print(filer.org_id)
+            return filers
+        except Exception as e:
+            raise  
+
+class SelectFecScheduleA:
+    def __init__(self):
+        pass
+    def all(self):
+        try:
+            with Session(engine) as session:
+                statement = select(ScheduleA)
+                results = session.exec(statement)
+                # print(dir(results))
+                filers = results.fetchall()
+                # for filer in results:
+                #     print(filer.org_id)
+            return filers
+        except Exception as e:
+            raise  
+
+    def distinct_committees(self):
+        try:
+            with Session(engine) as session:
+                statement = select(ScheduleA.committee_id).distinct()
+                results = session.exec(statement)
+                # print(dir(results))
+                filers = results.fetchall()
+                # for filer in results:
+                #     print(filer.org_id)
+            return filers
+        except Exception as e:
+            raise    
+        
+class SelectFecCandidates:
+    def __init__(self):
+        pass
+    def all(self):
+        try:
+            with Session(engine) as session:
+                statement = select(FecCandidates)
+                results = session.exec(statement)
+                filers = results.fetchall()
+
+            return filers
+        except Exception as e:
+            raise  
+
+    def distinct_candidates(self):
+        try:
+            with Session(engine) as session:
+                statement = select(FecCandidates.candidate_id).distinct()
+                results = session.exec(statement)
+                filers = results.fetchall()
+            return filers
+        except Exception as e:
+            raise               
+
+
+class SelectFecCommittees:
+    def __init__(self):
+        # self.org_id = org_id
+        pass
+    
+    def all(self):
+        try:
+            with Session(engine) as session:
+                statement = select(FecCommittees).order_by(FecCommittees.last_file_date.desc())
+                results = session.exec(statement)
+                # print(dir(results))
+                filers = results.fetchall()
+                # for filer in results:
+                #     print(filer.org_id)
+            return filers
+        except Exception as e:
+            raise   
+        
+    def distinct_committees(self):
+        try:
+            with Session(engine) as session:
+                statement = select(FecCommittees.committee_id, FecCommittees.name).distinct()
+                results = session.exec(statement)
+                # print(dir(results))
+                filers = results.fetchall()
+                # for filer in results:
+                #     print(filer.org_id)
+            return filers
+        except Exception as e:
+            raise           
 
 
 class SelectPayor:
@@ -381,6 +560,28 @@ class SelectContributions:
             results = session.exec(statement)
             contributions = results.fetchall() 
             return contributions
+        
+    def summarized(self):
+        with Session(engine) as session:
+            statement = select(Contribution.payor_name, 
+                               Contribution.payor_folder,
+                               Contribution.payor_markdown_file,
+                               Contribution.city,
+                               Contribution.state,
+                               func.count(1).label('receipt_count'),
+                            #    func.min(Contribution.receipt_date).label("min_receipt_date"),
+                            #    func.min(Contribution.expenditure_count).label("expenditure_count"),
+                               func.min(Contribution.receipt_date).label("max_receipt_date"),                                                         
+                               func.sum(Contribution.receipt_amount).label("min_receipt_date")).\
+            group_by(Contribution.payor_name, 
+                               Contribution.payor_folder,
+                               Contribution.payor_markdown_file,
+                               Contribution.city,
+                               Contribution.state).\
+            order_by(func.sum(Contribution.receipt_amount).desc())
+            results = session.exec(statement)
+            contributions = results.fetchall() 
+            return contributions              
 
     def last_1500(self):
         with Session(engine) as session:        
@@ -540,6 +741,28 @@ class SelectOrgContributions:
             results = session.exec(statement)
             contributions = results.fetchall() 
             return contributions
+        
+    def summarized(self):
+        with Session(engine) as session:
+            statement = select(Contribution.payor_name, 
+                               Contribution.payor_folder,
+                               Contribution.payor_markdown_file,
+                               Contribution.city,
+                               Contribution.state,
+                               func.count(1).label('receipt_count'),
+                               func.min(Contribution.receipt_date).label("max_receipt_date"),                                                         
+                               func.sum(Contribution.receipt_amount).label("min_receipt_date")).\
+                            where(Contribution.tweet_message == None).where(Contribution.org_id == self.org_id).\
+            group_by(Contribution.payor_name, 
+                               Contribution.payor_folder,
+                               Contribution.payor_markdown_file,
+                               Contribution.city,
+                               Contribution.state).\
+            order_by(func.sum(Contribution.receipt_amount).desc())
+            results = session.exec(statement)
+            contributions = results.fetchall() 
+            return contributions            
+        
 
   
 class SelectPayorContributions:
@@ -725,5 +948,6 @@ def main():
 
       
 if __name__ == "__main__":
-    main()
+    # main()
+    SelectOrgContributions(org_id = 8531)
     

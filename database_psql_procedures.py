@@ -22,6 +22,17 @@ def drop_stage_expenditures():
     psql.execute_sql(tsql)  
 
     
+def truncate_generic_table(table_name):
+    # table_name = 'stage_contributions'
+    tsql = f"""DO $$
+            BEGIN
+            if (SELECT to_regclass('public.{table_name}')) != NULL THEN 
+                truncate table {table_name};
+            end if;
+            END $$"""
+    print(tsql)
+    psql.execute_sql(tsql)      
+    
 # TRUNCATE STAGE TABLES  
 def truncate_stage_contributions():
     table_name = 'stage_contributions'
@@ -46,11 +57,12 @@ END $$"""
 def truncate_ppp_data():
     table_name = 'ppp_data'
     tsql = f"""DO $$
-BEGIN
-if (SELECT to_regclass('public.{table_name}')) != NULL THEN 
-    truncate table {table_name};
-end if;
-END $$"""
+            BEGIN
+            if (SELECT to_regclass('public.{table_name}')) != NULL THEN 
+                truncate table {table_name};
+            end if;
+            END $$"""
+    print(tsql)
     psql.execute_sql(tsql)        
     
 
