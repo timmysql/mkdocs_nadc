@@ -1,7 +1,9 @@
+import os
 import requests
+from dotenv import load_dotenv
 from requests.adapters import HTTPAdapter, Retry
 import logging
-from rich import inspect, print 
+from rich import inspect, print
 from dataclasses import dataclass
 from dataclasses_json import dataclass_json
 import polars as pl
@@ -13,31 +15,31 @@ from typing import Optional, List, Union
 from dataclasses import dataclass, field, MISSING
 from db_dal_classes import SelectFecScheduleA, SelectFecCandidates,SelectFecCommittees, SelectOneFecScheduleA
 import database_psql_procedures as sql
-import time 
+import time
 from fec_schedule_a import DcScheduleA, InsertScheduleA, InsertLoadLog
 
 from sqlmodel import Field, Session, SQLModel, create_engine, select, or_, insert
 engine = db_engine = DbConfig.get_central_engine()
-    
+
 SelectOfScalar.inherit_cache = True  # type: ignore
-Select.inherit_cache = True  # type: ignore     
-logging.basicConfig(level=logging.DEBUG)  
+Select.inherit_cache = True  # type: ignore
+logging.basicConfig(level=logging.DEBUG)
 
-API_KEY = '3A1Dq0EgwLLL7zXVJPKlU2XUS5AXxknVacIkDrX3'
-
+load_dotenv()
+API_KEY = os.getenv("API_KEY")
 
 payload = {'api_key': API_KEY}
 
 BASE_URL = 'https://api.open.fec.gov/v1/'
 
-    
-        
+
+
 
 
 def return_page_stats(page):
 
-    num_pages = page['pagination']['pages']   
-    if page['pagination']['last_indexes'] != None:    
+    num_pages = page['pagination']['pages']
+    if page['pagination']['last_indexes'] != None:
         last_index = page['pagination']['last_indexes']['last_index']
         last_crd = None
     else:
@@ -53,47 +55,47 @@ class RunMain:
         self.URL = BASE_URL + 'schedules/schedule_a/'
         self.per_page = 100
 
-    # def example_retry(self):   
+    # def example_retry(self):
     #     session = requests.Session()
     #     retries = Retry(total=5, backoff_factor=1, status_forcelist=[ 500, 502, 503, 504 ])
-    #     payload = {'api_key': API_KEY,'committee_id':self.committee_id,'page':10,'per_page':self.per_page}      
+    #     payload = {'api_key': API_KEY,'committee_id':self.committee_id,'page':10,'per_page':self.per_page}
     #     session.mount('https://', HTTPAdapter(max_retries=retries))
 
-    #     # session.get("http://httpstat.us/503")        
+    #     # session.get("http://httpstat.us/503")
     #     session.get(self.URL,params=payload)
-        
-   
+
+
     # def specific_page(self):
     #     session = requests.Session()
-        
-    #     payload = {'api_key': API_KEY,'committee_id':self.committee_id,'page':10,'per_page':self.per_page}      
+
+    #     payload = {'api_key': API_KEY,'committee_id':self.committee_id,'page':10,'per_page':self.per_page}
     #     req = session.get(self.URL,params=payload)
     #     print(req.request)
-        
+
     def get_payload(self):
-        payload = {'api_key': API_KEY,'contributor_state':'NE','page':1,'per_page':self.per_page}      
+        payload = {'api_key': API_KEY,'contributor_state':'NE','page':1,'per_page':self.per_page}
         return payload
 
-   
+
     def working_main(self):
         session = requests.Session()
         retries = Retry(total=5, backoff_factor=3, status_forcelist=[ 500, 502, 503, 504 ])
-        # payload = {'api_key': API_KEY,'committee_id':self.committee_id,'page':1,'per_page':self.per_page}      
+        # payload = {'api_key': API_KEY,'committee_id':self.committee_id,'page':1,'per_page':self.per_page}
         payload = self.get_payload()
         session.mount('https://', HTTPAdapter(max_retries=retries))
         req = session.get(self.URL,params=payload)
         print(f'status code: {req.status_code}')
         first_page = req.json()
-        # num_pages = first_page['pagination']['pages']    
-        inspect(first_page) 
+        # num_pages = first_page['pagination']['pages']
+        inspect(first_page)
         # yield first_page, 1
-            
-        # for page in range(2, num_pages + 1):    
+
+        # for page in range(2, num_pages + 1):
         #     print(f'page: {page}')
-        #     payload = {'api_key': API_KEY,'committee_id':self.committee_id,'page':page,'per_page':self.per_page}     
-        #     next_req = session.get(self.URL, params=payload)            
+        #     payload = {'api_key': API_KEY,'committee_id':self.committee_id,'page':page,'per_page':self.per_page}
+        #     next_req = session.get(self.URL, params=payload)
         #     print(f'status code: {next_req.status_code}')
-        #     next_page = next_req.json()                 
+        #     next_page = next_req.json()
         #     yield next_page, page
 
     def working_main_conductor(self):
@@ -107,32 +109,31 @@ class RunMain:
             # print(num_pages, last_index, last_crd, per_page, count)
             # print(page)
             for x in this_page['results']:
-                z =json.dumps(x)                
-                y = DcScheduleA.from_json(z)            
+                z =json.dumps(x)
+                y = DcScheduleA.from_json(z)
                 go_thing = InsertScheduleA(dc_object=y)
                 go_thing.insert()
 
 
 
-        
+
 def main_committees():
-    
+
     x = RunMain()
     x.working_main()
-    
+
     # x = SelectFecCommittees()
-    # committees = x.distinct_committees()     
-        
+    # committees = x.distinct_committees()
+
     # for committee in committees:
     #     # inspect(committee)
     #     x = RunMainCommittees(committee_id=committee.committee_id)
     #     print(committee.committee_id, committee.name)
     #     x.working_main_conductor()
-       
+
 
 if __name__ == '__main__':
     x = RunMain()
-    x.working_main()    
+    x.working_main()
     # sql.truncate_generic_table(table_name='fec_schedule_a')
     # main_committees()
-    

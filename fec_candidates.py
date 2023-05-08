@@ -1,5 +1,7 @@
+import os
 import requests
-from rich import inspect, print 
+from dotenv import load_dotenv
+from rich import inspect, print
 from dataclasses import dataclass
 from dataclasses_json import dataclass_json
 import polars as pl
@@ -13,9 +15,9 @@ from db_dal_classes import SelectOneFecCandidate
 
 from sqlmodel import Field, Session, SQLModel, create_engine, select, or_, insert
 engine = db_engine = DbConfig.get_central_engine()
-    
+
 SelectOfScalar.inherit_cache = True  # type: ignore
-Select.inherit_cache = True  # type: ignore       
+Select.inherit_cache = True  # type: ignore
 
 
 class InsertCandidate:
@@ -23,7 +25,7 @@ class InsertCandidate:
         self.dc_object = dc_object
         # self.org_id = org_id
         pass
-    
+
     def check_insert(self):
         x = SelectOneFecCandidate(candidate_id=self.dc_object.candidate_id)
         result = x.select()
@@ -31,15 +33,15 @@ class InsertCandidate:
             result = True
         else:
             result = False
-        return result    
-    
-    
+        return result
+
+
     def insert(self):
         if self.check_insert() == False:
             try:
                 with Session(engine) as session:
                     candidate = FecCandidates(
-                            active_through = self.dc_object.active_through              
+                            active_through = self.dc_object.active_through
                             ,candidate_id = self.dc_object.candidate_id
                             ,candidate_inactive = self.dc_object.candidate_inactive
                             ,candidate_status = self.dc_object.candidate_status
@@ -63,15 +65,16 @@ class InsertCandidate:
                             ,office_full = self.dc_object.office_full
                             ,party = self.dc_object.party
                             ,party_full = self.dc_object.party_full
-                            ,state = self.dc_object.state                    
+                            ,state = self.dc_object.state
                     )
                     session.add(candidate)
                     session.commit()
 
             except Exception as e:
-                raise        
+                raise
 
-API_KEY = '3A1Dq0EgwLLL7zXVJPKlU2XUS5AXxknVacIkDrX3'
+load_dotenv()
+API_KEY = os.getenv("API_KEY")
 
 payload = {'api_key': API_KEY}
 
@@ -90,41 +93,41 @@ class Candidate:
     cycles: List[int]
     district: Optional[str]
     district_number: Optional[int]
-    election_districts: Optional[List[str]] = field(default=None, init=False) 
+    election_districts: Optional[List[str]] = field(default=None, init=False)
     election_years: List[int]
     federal_funds_flag: bool
-    first_file_date: Optional[str] = field(default=None, init=False) 
+    first_file_date: Optional[str] = field(default=None, init=False)
     flags: Optional[List[int]] = field(default=None, init=False)
     has_raised_funds: bool
-    inactive_election_years: Optional[List[int]] = field(default=None, init=False) 
+    inactive_election_years: Optional[List[int]] = field(default=None, init=False)
     incumbent_challenge: Optional[str]
     incumbent_challenge_full: Optional[str]
-    last_f2_date: Optional[str] = field(default=None, init=False) 
-    last_file_date: Optional[str] = field(default=None, init=False) 
-    load_date: Optional[str] = field(default=None, init=False) 
+    last_f2_date: Optional[str] = field(default=None, init=False)
+    last_file_date: Optional[str] = field(default=None, init=False)
+    load_date: Optional[str] = field(default=None, init=False)
     name: str
     office:str
     office_full: str
     party: Optional[str]
     party_full: Optional[str]
-    state: str      
-   
+    state: str
+
 
 
 def working_main():
     session = requests.Session()
-    payload = {'api_key': API_KEY,'state':state,'page':1,'per_page':50}      
+    payload = {'api_key': API_KEY,'state':state,'page':1,'per_page':50}
     first_page = session.get(URL,params=payload).json()
-    num_pages = first_page['pagination']['pages']    
+    num_pages = first_page['pagination']['pages']
     yield first_page
-    
-    
-    
 
-    for page in range(2, num_pages + 1):    
+
+
+
+    for page in range(2, num_pages + 1):
         # print(page)
         next_page = session.get(URL, params={'api_key': API_KEY,'state':state,'page':page,'per_page':50}).json()
-        # print(next_page['pagination'])        
+        # print(next_page['pagination'])
         yield next_page
 
 def working_main_conductor():
@@ -135,9 +138,9 @@ def working_main_conductor():
             z =json.dumps(x)
             # print(z)
             # input('stop')
-            y = Candidate.from_json(z)            
+            y = Candidate.from_json(z)
             print(y)
             go_thing = InsertCandidate(dc_object=y)
             go_thing.insert()
-        
-working_main_conductor()  
+
+working_main_conductor()
