@@ -1,3 +1,10 @@
+# NADC 
+
+## Built With
+- [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)
+- [PostgreSQL](https://www.postgresql.org/)
+- [SQLModel](https://sqlmodel.tiangolo.com/)
+
 ## Database Setup
 
 1. Install PostgreSQL
