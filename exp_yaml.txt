@@ -5,6 +5,7 @@
         - "4D INVESTMENTS LLC": expenditures/filers/4d_investments_llc.md
         - "50 SHADES OF GREEN 2 LLC": expenditures/filers/50_shades_of_green_2_llc.md
         - "51 HOLDINGS LLC": expenditures/filers/51_holdings_llc.md
+        - "88 TACTICAL OMAHA LLC": expenditures/filers/88_tactical_omaha_llc.md
         - "96 RANCHES INC": expenditures/filers/96_ranches_inc.md
         - "A CATERED AFFAIR": expenditures/filers/a_catered_affair.md
         - "A GLENN KLUCK CO": expenditures/filers/a_glenn_kluck_co.md
@@ -53,6 +54,7 @@
         - "ANHEUSER BUSCH COMPANIES": expenditures/filers/anheuser_busch_companies.md
         - "ANN UNDERWOOD FOR CITY COUNCIL": expenditures/filers/ann_underwood_for_city_council.md
         - "ANNA WISHART FOR LEGISLATURE": expenditures/filers/anna_wishart_for_legislature.md
+        - "ANNIE FOR EDUCATION": expenditures/filers/annie_for_education.md
         - "ANTHEM, INC.": expenditures/filers/anthem_inc.md
         - "ANTLER VIEW APARTMENTS, LLC": expenditures/filers/antler_view_apartments_llc.md
         - "APPLIED UNDERWRITERS, INC": expenditures/filers/applied_underwriters_inc.md
@@ -265,6 +267,7 @@
         - "DECLINE TO SIGN": expenditures/filers/decline_to_sign.md
         - "DEEP WELL ASCHE": expenditures/filers/deep_well_asche.md
         - "DEES FARMS INC": expenditures/filers/dees_farms_inc.md
+        - "DEL PETERSON & ASSOCIATES INC DPA AUCTIONS": expenditures/filers/del_peterson_&_associates_inc_dpa_auctions.md
         - "DENNY WILSON FOR SARPY COUNTY SURVEYOR": expenditures/filers/denny_wilson_for_sarpy_county_surveyor.md
         - "DEREK RUSHER FOR NPPD": expenditures/filers/derek_rusher_for_nppd.md
         - "DEXCOM, INC.": expenditures/filers/dexcom_inc.md
@@ -422,6 +425,7 @@
         - "GARY BARNARD FOR MAYOR": expenditures/filers/gary_barnard_for_mayor.md
         - "GDR, LLC": expenditures/filers/gdr_llc.md
         - "GENE LILLY SURETY BONDS INC": expenditures/filers/gene_lilly_surety_bonds_inc.md
+        - "GENE STEFFY'S CHRYSLER CENTER, INC": expenditures/filers/gene_steffys_chrysler_center_inc.md
         - "GENE STEFFY FORD LLC": expenditures/filers/gene_steffy_ford_llc.md
         - "GENERATION V": expenditures/filers/generation_v.md
         - "GENESIS CONTRACTING GROUP": expenditures/filers/genesis_contracting_group.md
@@ -447,6 +451,7 @@
         - "GROW NEBRASKA": expenditures/filers/grow_nebraska.md
         - "GRUBAUGH VENTURES INC": expenditures/filers/grubaugh_ventures_inc.md
         - "H & H AUTOMOTIVE": expenditures/filers/h_&_h_automotive.md
+        - "HAMLOT, INC": expenditures/filers/hamlot_inc.md
         - "HAMPTON ENTERPRISES INC": expenditures/filers/hampton_enterprises_inc.md
         - "HANSEN FOR LANCASTER": expenditures/filers/hansen_for_lancaster.md
         - "HANSEN FOR LEGISLATURE": expenditures/filers/hansen_for_legislature.md
@@ -486,6 +491,7 @@
         - "HUSCH BLACKWELL LLP": expenditures/filers/husch_blackwell_llp.md
         - "HUSCH BLACKWELL STRATEGIES, LLC": expenditures/filers/husch_blackwell_strategies_llc.md
         - "HUSKER AG LLC": expenditures/filers/husker_ag_llc.md
+        - "HUSKER GAMING LLC": expenditures/filers/husker_gaming_llc.md
         - "HUSKER STORAGE LLC": expenditures/filers/husker_storage_llc.md
         - "HY-VEE FOOD STORE": expenditures/filers/hyvee_food_store.md
         - "HYDO PROPERTIES LLC": expenditures/filers/hydo_properties_llc.md
@@ -493,9 +499,11 @@
         - "I.B.E.W. LOCAL UNION NO. 22": expenditures/filers/ibew_local_union_no_22.md
         - "IBEW 1521": expenditures/filers/ibew_1521.md
         - "IDEAL LINEN & UNIFORM SUPPLY": expenditures/filers/ideal_linen_&_uniform_supply.md
+        - "IMPERIAL BEEF, LLC": expenditures/filers/imperial_beef_llc.md
         - "INDEPENDENT INSURANCE AGENTS OF NEBRASKA PAC": expenditures/filers/independent_insurance_agents_of_nebraska_pac.md
         - "INDUSTRIAL TOWER WEST LLC": expenditures/filers/industrial_tower_west_llc.md
         - "INT. ASSN OF HEAT & FROST INSULATORS & ALLIED WORKERS LOCAL 39": expenditures/filers/int_assn_of_heat_&_frost_insulators_&_allied_workers_local_39.md
+        - "INTERCONNECTION SYSTEMS, INC.": expenditures/filers/interconnection_systems_inc.md
         - "INTERIOR SYSTEMS LOCAL UNION 1306": expenditures/filers/interior_systems_local_union_1306.md
         - "INTERNATIONAL ASSN OF FIREFIGHTERS LOCAL 644": expenditures/filers/international_assn_of_firefighters_local_644.md
         - "INVENERGY LLC": expenditures/filers/invenergy_llc.md
@@ -607,6 +615,7 @@
         - "LAURITZEN CORPORATION": expenditures/filers/lauritzen_corporation.md
         - "LAWRENCE BURKE FOR SHERIFF": expenditures/filers/lawrence_burke_for_sheriff.md
         - "LAZLO'S BREWERY AND GRILL": expenditures/filers/lazlos_brewery_and_grill.md
+        - "LEADERSHIP NEBRASKA": expenditures/filers/leadership_nebraska.md
         - "LEASE FOR LEGISLATURE": expenditures/filers/lease_for_legislature.md
         - "LEBENSRAUM ASSISTED LIVING": expenditures/filers/lebensraum_assisted_living.md
         - "LEE'S FORD INC": expenditures/filers/lees_ford_inc.md
@@ -616,9 +625,11 @@
         - "LINCOLN CENTRAL LABOR UNION COPE FUND": expenditures/filers/lincoln_central_labor_union_cope_fund.md
         - "LINCOLN CHAMBER OF COMMERCE PAC": expenditures/filers/lincoln_chamber_of_commerce_pac.md
         - "LINCOLN COUNTY FEEDYARD LLC": expenditures/filers/lincoln_county_feedyard_llc.md
+        - "LINCOLN EDUCATION ASSOCIATION PAC": expenditures/filers/lincoln_education_association_pac.md
         - "LINCOLN FOR ALL": expenditures/filers/lincoln_for_all.md
         - "LINCOLN INDEPENDENT BUSINESS ASSOCIATION PAC": expenditures/filers/lincoln_independent_business_association_pac.md
         - "LINCOLN INDUSTRIES": expenditures/filers/lincoln_industries.md
+        - "LINCOLN POLICE UNION": expenditures/filers/lincoln_police_union.md
         - "LINCOLN PREMIUM POULTRY": expenditures/filers/lincoln_premium_poultry.md
         - "LINCOLN SAFETY FOUNDATION": expenditures/filers/lincoln_safety_foundation.md
         - "LINDAU FOR LEGISLATURE": expenditures/filers/lindau_for_legislature.md
@@ -770,6 +781,7 @@
         - "NEBRASKA CREDIT UNION LEAGUE": expenditures/filers/nebraska_credit_union_league.md
         - "NEBRASKA CREDIT UNION LEAGUE LEGISLATIVE ACTION COMMITTEE": expenditures/filers/nebraska_credit_union_league_legislative_action_committee.md
         - "NEBRASKA DEMOCRATIC PARTY": expenditures/filers/nebraska_democratic_party.md
+        - "NEBRASKA DEMOCRATIC WOMEN'S CAUCUS": expenditures/filers/nebraska_democratic_womens_caucus.md
         - "NEBRASKA DENTAL ASSOCIATION PAC": expenditures/filers/nebraska_dental_association_pac.md
         - "NEBRASKA DENTAL HYGIENISTS PAC": expenditures/filers/nebraska_dental_hygienists_pac.md
         - "NEBRASKA FAMILIES 4 MEDICAL CANNABIS": expenditures/filers/nebraska_families_4_medical_cannabis.md
@@ -941,6 +953,7 @@
         - "POLLACK & BALL LLC": expenditures/filers/pollack_&_ball_llc.md
         - "POP PAC (NEBRASKA BEVERAGE ASSOCIATION)": expenditures/filers/pop_pac_nebraska_beverage_association.md
         - "POSITIVE NEBRASKA": expenditures/filers/positive_nebraska.md
+        - "POWER GENETICS CO": expenditures/filers/power_genetics_co.md
         - "PRAIRIE VIEW ROOFING AND DEVELOPMENT LLC": expenditures/filers/prairie_view_roofing_and_development_llc.md
         - "PREBLE FOR PUBLIC DEFENDER": expenditures/filers/preble_for_public_defender.md
         - "PREMIER MIDWEST BEVERAGE COMPANY": expenditures/filers/premier_midwest_beverage_company.md
@@ -957,6 +970,7 @@
         - "R & R CHRISTO CONSTRUCTION LLC": expenditures/filers/r_&_r_christo_construction_llc.md
         - "R TALLMON INC (TALLMON JEWELERS)": expenditures/filers/r_tallmon_inc_tallmon_jewelers.md
         - "R&B FAMILY FARM LLC": expenditures/filers/r&b_family_farm_llc.md
+        - "R.G. LINDSTROM FARMS INC": expenditures/filers/rg_lindstrom_farms_inc.md
         - "RA POPP ENTERTAINMENT INC": expenditures/filers/ra_popp_entertainment_inc.md
         - "RACHEL GARVER FOR COUNTY TREASURER": expenditures/filers/rachel_garver_for_county_treasurer.md
         - "RACHEL L ORMSBY FOR REGISTER OF DEEDS": expenditures/filers/rachel_l_ormsby_for_register_of_deeds.md
@@ -987,6 +1001,7 @@
         - "REZAC CONSTRUCTION INC": expenditures/filers/rezac_construction_inc.md
         - "RICH PETERS AGENCY INC": expenditures/filers/rich_peters_agency_inc.md
         - "RICHARDS FOR NEBRASKA": expenditures/filers/richards_for_nebraska.md
+        - "RICHLAND HOMES": expenditures/filers/richland_homes.md
         - "RICK CONRAD FOR HALL COUNTY SHERIFF": expenditures/filers/rick_conrad_for_hall_county_sheriff.md
         - "RICK HOLDCROFT FOR LEGISLATURE DISTRICT 36": expenditures/filers/rick_holdcroft_for_legislature_district_36.md
         - "RIDENOUR FOR GOVERNOR": expenditures/filers/ridenour_for_governor.md
@@ -1109,6 +1124,7 @@
         - "THE GOVERNOR HEINEMAN COMMITTEE": expenditures/filers/the_governor_heineman_committee.md
         - "THE LUND COMPANY": expenditures/filers/the_lund_company.md
         - "THE MASCHHOFFS LLC": expenditures/filers/the_maschhoffs_llc.md
+        - "THE NEBRASKA GROUP LLC": expenditures/filers/the_nebraska_group_llc.md
         - "THE SCHEMMER ASSOCIATES INC.": expenditures/filers/the_schemmer_associates_inc.md
         - "THIELE GEOTECH INC.": expenditures/filers/thiele_geotech_inc.md
         - "THOMAS LIVESTOCK CO": expenditures/filers/thomas_livestock_co.md
@@ -1159,6 +1175,7 @@
         - "VOTE ANDY ALLEN": expenditures/filers/vote_andy_allen.md
         - "VOTE HOCH CAMPAIGN COMMITTEE": expenditures/filers/vote_hoch_campaign_committee.md
         - "VOTE SCHULTE": expenditures/filers/vote_schulte.md
+        - "VOTE VANESSA FOR LINCOLN AIRPORT AUTHORITY": expenditures/filers/vote_vanessa_for_lincoln_airport_authority.md
         - "VOTE VEST": expenditures/filers/vote_vest.md
         - "VOTE WEBER": expenditures/filers/vote_weber.md
         - "VOTE YES FOR CPS": expenditures/filers/vote_yes_for_cps.md

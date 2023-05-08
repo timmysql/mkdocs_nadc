@@ -400,6 +400,7 @@
         - "PEOPLE FOR PAUL SCHUMACHER": receipts/filers/people_for_paul_schumacher.md
         - "PEOPLE FOR TERRELL MCKINNEY": receipts/filers/people_for_terrell_mckinney.md
         - "PETE RICKETTS FOR GOVERNOR": receipts/filers/pete_ricketts_for_governor.md
+        - "PICK POLLEN": receipts/filers/pick_pollen.md
         - "PITTS FOR SHERIFF": receipts/filers/pitts_for_sheriff.md
         - "PIYUSH FOR SCHOOLS": receipts/filers/piyush_for_schools.md
         - "PLACE TO PLAY": receipts/filers/place_to_play.md
@@ -509,6 +510,7 @@
         - "VOTE ANDY ALLEN": receipts/filers/vote_andy_allen.md
         - "VOTE HOCH CAMPAIGN COMMITTEE": receipts/filers/vote_hoch_campaign_committee.md
         - "VOTE SCHULTE": receipts/filers/vote_schulte.md
+        - "VOTE VANESSA FOR LINCOLN AIRPORT AUTHORITY": receipts/filers/vote_vanessa_for_lincoln_airport_authority.md
         - "VOTE VEST": receipts/filers/vote_vest.md
         - "VOTE WEBER": receipts/filers/vote_weber.md
         - "VOTE YES FOR CPS": receipts/filers/vote_yes_for_cps.md
