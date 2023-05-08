@@ -1,3 +1,4 @@
+.env
 venv/
 nadc/site/*
 ppp/files/*
