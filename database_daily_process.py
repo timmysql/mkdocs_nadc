@@ -1,13 +1,25 @@
 # from database import setup 
 import database_load_files
 import time
+import os
 from db_config import DbConfig
 
 from sqlalchemy import create_engine
 from sqlalchemy_utils import database_exists, create_database
 
+CWD = os.getcwd()
 
 engine = db_engine = DbConfig.get_central_engine()
+
+def create_dir(path):
+    isExist = os.path.exists(path)
+    if not isExist:
+        os.makedirs(path)
+
+def create_dirs():
+    create_dir(f"{CWD}\\csv_files")
+
+
 
 def create_db():
     if not database_exists(engine.url):
@@ -19,12 +31,7 @@ def main():
     create_db()
     database_load_files.main()
     time.sleep(2)
-    database_load_files.main_post_load()
-    time.sleep(2)
-    # tweet_org_builder.daily()
-    time.sleep(2)
-    # tweet_text_builder.daily()
-    
+    database_load_files.main_post_load()    
     
     time.sleep(10)
     print('========================================')
@@ -52,4 +59,6 @@ def main_test():
 
 
 if __name__ == "__main__":
+    # print(CWD)
+    create_dirs()
     main()
