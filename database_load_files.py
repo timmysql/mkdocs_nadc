@@ -143,8 +143,8 @@ END $$"""
         df.columns = df.columns.str.replace(' - ','_', regex=True)    
         df.columns = df.columns.str.replace(' ','_', regex=True)
         df.columns = df.columns.str.replace('/','_', regex=True)
-        df.columns = df.columns.str.replace(')','', regex=True)
-        df.columns = df.columns.str.replace('(','', regex=True)
+        # df.columns = df.columns.str.replace(")","", regex=True)
+        # df.columns = df.columns.str.replace('(','', regex=True)
         df.columns = df.columns.str.replace('-','_', regex=True)
         
         db_engine =  DbConfig.get_central_engine()

@@ -2,6 +2,7 @@ from sqlmodel import  SQLModel, Field, Column, VARCHAR, DateTime, ARRAY
 from typing import Optional
 from datetime import date, datetime, time, timedelta
 from sqlalchemy import BigInteger, inspect, Integer, String
+from sqlalchemy_utils import database_exists, create_database
 from rich import inspect
 from db_config import DbConfig
 from typing import Optional, List, Union
@@ -747,6 +748,11 @@ class Payee(SQLModel, table=True):
 def main():    
     SQLModel.metadata.create_all(engine) 
 
+def create_db():
+    if not database_exists(engine.url):
+        create_database(engine.url)
+
 
 if __name__ == "__main__":
+    create_db()
     main() 

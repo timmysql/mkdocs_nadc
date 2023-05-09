@@ -17,26 +17,26 @@
 8. markdown_refresh_main.py
 9. mkdocs serve (to run site locally)
 
+## Install Postgres...
+1. Make sure you have Postgres Installed somewhere.
+   - This thing uses stored procedures, so make sure your version of Postgres supports those.
+
 #### Install VirtualEnv
-1. python -m pip install --upgrade pip
-2. python -m pip install virtualenv
+1. `python -m pip install --upgrade pip`
+2. `python -m pip install virtualenv`
 
 #### Create VirtualEnv
 1. Ensure you are in your project directory
-2. virtualenv venv
+2. `python -m virtualenv venv`
 
 #### Activate VirtualEnv
-1. venv\Scripts\Activate
-2. python -m venv\Scripts\Activate ???
+1. `venv\Scripts\Activate`
+
 
 #### Install requirements.txt
-1.  pip install -r requirements.txt
+1.  `pip install -r requirements.txt`
 
-
-## Configure database stuff...
-1. Make sure you have Postgres Installed somewhere.
-   - This thing uses stored procedures, so make sure your version of Postgres supports those.
-  
+#### Configure db_config.ini
 2. Configure db_config.ini
     ```
     [localhost_section]
@@ -46,3 +46,14 @@
     password = osint            <--- pw for the user
 
     ```
+
+#### Run db_models.py to create database and database objects
+Requires PostgreSQL to be installed and db_config.ini configured
+1. `database_setup.py`
+1. `db_models.py`
+
+
+#### Order of Operations
+
+
+  
