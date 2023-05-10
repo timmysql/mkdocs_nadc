@@ -389,65 +389,7 @@ class Contribution(SQLModel, table=True):
     payor_markdown_file: str = None 
     payor_folder: str = None          
 
-         
-                      
-# class Expenditure(SQLModel, table=True):
-#     id: Optional[int] = Field(default=None, primary_key=True)
-#     expenditure_id: int
-#     org_id: int
-#     filer_type: str  
-#     filer_type_short: str = None
-#     filer_name: str
-#     candidate_name: str = None
-#     expenditure_type: str = None
-#     expenditure_sub_type: str = None
-#     expenditure_date: date = None
-#     expenditure_amount: float = None
-#     description: str = None
-    
-#     original_payee_type: str = None    
-#     original_payee_name: str = None
-#     original_first_name: str = None
-#     original_middle_name: str = None
-#     original_suffix: str = None
-    
-#     payee_type: str = None
-#     payee_type_short: str = None    
-#     payee_name: str = None
-#     last_name: str = None
-#     first_name: str = None
-#     middle_name: str = None
-#     suffix: str = None
-    
-#     address_1: str = None
-#     address_2: str = None
-#     city: str = None
-#     state: str = None
-#     zip: str = None
-#     filed_date: date = None
-#     support_or_oppose: str = None
-#     candidate_name_or_ballot_issue: str = None
-#     jurisdiction_office_district_or_ballot_description: str = None
-#     amended: str = None
-#     employer: str = None
-#     occupation: str = None
-#     principal_place_of_business: str = None
-#     create_dt: datetime = None
-#     update_dt: datetime = None
-#     delete_flag: int = None
-#     delete_dt: datetime = None
-#     tweet_sent: int = 0
-#     tweet_dt: datetime = None
-#     tweet_id: str = None
-#     tweet_message: str = None
-#     tweet_message_update_dt: datetime = None
-#     tweet_sent_text: str = None
-#     replied_to_status_id: str = None
-#     create_dt: datetime = Field(default=datetime.now())
-#     update_dt: datetime = None   
-#     bot_retweeted_id: str = None    
-#     bot_retweeted_dt: datetime = None 
-#     payee_id: int = None       
+                                
          
 class Expenditure(SQLModel, table=True):
     id: Optional[int] = Field(default=None, primary_key=True)

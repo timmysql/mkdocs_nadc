@@ -4,11 +4,12 @@ nadc/site/*
 ppp/files/*
 nadc/docs/expenditures/*
 nadc/docs/receipts/*
+/ppp/*
+/csv_files/*
 __pycache__/*
 
 
-/ppp/*
-/csv_files/*
+
 # nadc/campaign_finance/contributions/*
 # nadc/campaign_finance/payees/*
 # nadc/campaign_finance/payors/*

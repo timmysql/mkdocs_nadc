@@ -948,6 +948,6 @@ def main():
 
       
 if __name__ == "__main__":
-    # main()
+    main()
     SelectOrgContributions(org_id = 8531)
     
