@@ -1,5 +1,7 @@
+import os
 import requests
-from rich import inspect, print 
+from dotenv import load_dotenv
+from rich import inspect, print
 from dataclasses import dataclass
 from dataclasses_json import dataclass_json
 import polars as pl
@@ -10,9 +12,9 @@ from db_config import DbConfig
 
 from sqlmodel import Field, Session, SQLModel, create_engine, select, or_, insert
 engine = db_engine = DbConfig.get_central_engine()
-    
+
 SelectOfScalar.inherit_cache = True  # type: ignore
-Select.inherit_cache = True  # type: ignore       
+Select.inherit_cache = True  # type: ignore
 
 
 class InsertScheduleA:
@@ -30,7 +32,7 @@ class InsertScheduleA:
                         ,total = self.dc_object.total
                         ,state = self.dc_object.state
                         ,state_full = self.dc_object.state_full
-                    
+
                 )
                 session.add(schedule_a)
                 session.commit()
@@ -40,8 +42,8 @@ class InsertScheduleA:
             #     #     print(filer.org_id)
             # return filers
         except Exception as e:
-            raise        
-            # return None       
+            raise
+            # return None
 
 
 API_KEY = '3A1Dq0EgwLLL7zXVJPKlU2XUS5AXxknVacIkDrX3'
@@ -68,18 +70,18 @@ class DcScheduleA:
 
 def working_main():
     session = requests.Session()
-    payload = {'api_key': API_KEY,'state':'NE','page':1,'per_page':50}      
+    payload = {'api_key': API_KEY,'state':'NE','page':1,'per_page':50}
     first_page = session.get(URL,params=payload).json()
-    num_pages = first_page['pagination']['pages']    
+    num_pages = first_page['pagination']['pages']
     yield first_page
-    
-    
-    
 
-    for page in range(2, num_pages + 1):    
+
+
+
+    for page in range(2, num_pages + 1):
         # print(page)
         next_page = session.get(URL, params={'api_key': API_KEY,'state':'NE','page':page,'per_page':50}).json()
-        # print(next_page['pagination'])        
+        # print(next_page['pagination'])
         yield next_page
 
 def working_main_conductor():
@@ -87,9 +89,9 @@ def working_main_conductor():
         for x in page['results']:
             # print(x)
             z =json.dumps(x)
-            y = DcScheduleA.from_json(z)            
+            y = DcScheduleA.from_json(z)
             print(y)
             go_thing = InsertScheduleA(dc_object=y)
             go_thing.insert()
-        
-working_main_conductor()  
+
+working_main_conductor()
