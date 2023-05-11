@@ -3,7 +3,7 @@
 A campaign finance website for Nebraskans
 
 ## Last Refresh
-2023-05-03 20:51:09
+2023-05-09 20:28:08
 
 !!! info "Historical Data Information"
 

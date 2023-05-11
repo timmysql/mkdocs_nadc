@@ -34,6 +34,7 @@
         - "BRIAN HESSLER FOR SHERIFF": receipts/filers/brian_hessler_for_sheriff.md
         - "BRIESE FOR LEGISLATURE": receipts/filers/briese_for_legislature.md
         - "BUFFALO COUNTY REPUBLICAN PARTY": receipts/filers/buffalo_county_republican_party.md
+        - "BURLING FOR LINCOLN": receipts/filers/burling_for_lincoln.md
         - "BUSINESS & AGRICULTURE SOCIETY FOR EDUCATION": receipts/filers/business_&_agriculture_society_for_education.md
         - "CAMERON HALL FOR NEBRASKA": receipts/filers/cameron_hall_for_nebraska.md
         - "CAMMY FOR NEBRASKA DBA CAMMY FOR COUNCIL": receipts/filers/cammy_for_nebraska_dba_cammy_for_council.md

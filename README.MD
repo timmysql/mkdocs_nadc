@@ -40,20 +40,29 @@
 2. Configure db_config.ini
     ```
     [localhost_section]
-    host = localhost            <--- DNS or IP Address also would work.
+    host = localhost:5432       <--- DNS:Port or IP:Port
     database = nadc_sqlmodel    <--- NAME of the database it will create
     user = osint                <--- user that has rights to create the db
     password = osint            <--- pw for the user
 
     ```
 
-#### Run db_models.py to create database and database objects
+#### Run database_setup.py to create database and database objects
 Requires PostgreSQL to be installed and db_config.ini configured
-1. `database_setup.py`
-1. `db_models.py`
+1. `python.exe database_setup.py`
 
 
-#### Order of Operations
+
+#### Daily Reload Order of Operations 
+
+1. Download NADC files and load the Database
+    - `python.exe database_daily_process.py`
+2. Build Markdown for MkDocs Site
+   - `python.exe markdown_refresh_main.py`
+3. Build and Serve MkDocs site 
+   - `cd nadc`
+   - `mkdocs serve`
+
 
 
   

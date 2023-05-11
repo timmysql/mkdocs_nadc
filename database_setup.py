@@ -44,11 +44,11 @@ def create_sql_objects(dir):
     # print(dir_list)
        
 def main():
-    # create_db() 
-    # create_model_tables() 
-    # create_sql_objects('sql_tables') 
+    create_db() 
+    create_model_tables() 
+    create_sql_objects('sql_tables') 
     create_sql_objects('sql_views')
-    # create_sql_objects('sql_procedures')     
+    create_sql_objects('sql_procedures')     
 
 if __name__ == "__main__":
     main()   
